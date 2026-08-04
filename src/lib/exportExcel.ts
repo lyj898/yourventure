@@ -42,13 +42,15 @@ export function exportToExcel(campuses: CampusWithCount[], orgs: OrgExportRow[])
     Notes: o.notes ?? '',
   }));
 
+  // Student Orgs first so it's the sheet that opens by default (that's the main data);
+  // Campuses second as a summary.
   const workbook = XLSX.utils.book_new();
-  XLSX.utils.book_append_sheet(workbook, XLSX.utils.json_to_sheet(campusData), 'Campuses');
   XLSX.utils.book_append_sheet(
     workbook,
     XLSX.utils.json_to_sheet(orgData),
     'Student Orgs',
   );
+  XLSX.utils.book_append_sheet(workbook, XLSX.utils.json_to_sheet(campusData), 'Campuses');
 
   // Download via Blob + anchor (reliable across browsers; XLSX.writeFile fails silently
   // in some).
