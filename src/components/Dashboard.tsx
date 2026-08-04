@@ -10,7 +10,7 @@ import {
   type InstitutionType,
   type OwnershipType,
 } from '../lib/types';
-import { exportCampusesToExcel } from '../lib/exportExcel';
+import { exportToExcel, type OrgExportRow } from '../lib/exportExcel';
 import Login from './Login';
 import CampusForm from './CampusForm';
 import OrgSection from './OrgSection';
@@ -82,6 +82,7 @@ function Directory({ session }: { session: Session }) {
 
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [showAdd, setShowAdd] = useState(false);
+  const [exporting, setExporting] = useState(false);
 
   async function loadCampuses() {
     if (!supabase) return;
@@ -154,6 +155,37 @@ function Directory({ session }: { session: Session }) {
     await supabase?.auth.signOut();
   }
 
+  // Export the visible campuses + all their student orgs (two sheets). Orgs are fetched
+  // live for the filtered campuses so the export reflects the current search/filters.
+  async function handleExport() {
+    if (!supabase || filtered.length === 0) return;
+    setExporting(true);
+    try {
+      const ids = filtered.map((c) => c.id);
+      const nameById = new Map(filtered.map((c) => [c.id, c]));
+      const { data, error } = await supabase
+        .from('student_orgs')
+        .select('*')
+        .in('campus_id', ids);
+      if (error) throw error;
+      const orgs: OrgExportRow[] = (data ?? []).map((o: any) => {
+        const campus = nameById.get(o.campus_id);
+        return {
+          ...o,
+          campus_name: campus?.name ?? '',
+          campus_city: campus?.city ?? '',
+          campus_future_series_city: campus?.future_series_city ?? null,
+        };
+      });
+      exportToExcel(filtered, orgs);
+    } catch (e) {
+      console.error('Excel export failed', e);
+      alert('Export failed — see console for details.');
+    } finally {
+      setExporting(false);
+    }
+  }
+
   return (
     <div className="app-shell">
       {/* Top bar */}
@@ -176,11 +208,11 @@ function Directory({ session }: { session: Session }) {
           </div>
           <button
             className="btn"
-            onClick={() => exportCampusesToExcel(filtered)}
-            disabled={filtered.length === 0}
-            title="Export the currently visible rows"
+            onClick={handleExport}
+            disabled={filtered.length === 0 || exporting}
+            title="Export the visible campuses and all their student orgs"
           >
-            <DownloadIcon /> Download Excel
+            <DownloadIcon /> {exporting ? 'Exporting…' : 'Download Excel'}
           </button>
           <button className="btn btn-gold" onClick={() => setShowAdd(true)}>
             <PlusIcon /> Add campus
