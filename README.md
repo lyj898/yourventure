@@ -42,21 +42,17 @@ npx supabase link --project-ref YOUR_PROJECT_REF
 npx supabase projects create yourventure
 ```
 
-### 2. Apply the schema + seed
+### 2. Apply the schema
 
 ```bash
 npm run db:push
 ```
 
-This runs the migrations in `supabase/migrations/`:
+This runs `supabase/migrations/..._init.sql` — enums, `campuses` + `student_orgs` tables,
+indexes, `updated_at` trigger, and RLS (full access for any authenticated user, no anon
+access). Migrations are **schema only**; seed data is handled by the seed script (below).
 
-- `..._init.sql` — enums, `campuses` + `student_orgs` tables, indexes, `updated_at`
-  trigger, and RLS (full access for any authenticated user, no anon access).
-- `..._seed_universitas_indonesia.sql` — seeds **one** campus (Universitas Indonesia)
-  with two verified student orgs.
-
-(If you'd rather not use the CLI, paste those two SQL files into the Supabase dashboard
-SQL editor in order.)
+(No CLI? Paste `..._init.sql` into the Supabase dashboard SQL editor and run it.)
 
 ### 3. Environment
 
@@ -88,6 +84,53 @@ npm run dev
 
 Open <http://localhost:4321>, sign in with an allow-listed email via the magic link.
 
+## Populating data (seed)
+
+Campus data lives as one JSON file per campus in **`data/campuses/`** (source of truth,
+version-controlled). To load or update the database, run:
+
+```bash
+npm run seed
+```
+
+Requires `SUPABASE_SERVICE_ROLE_KEY` in `.env.local` (see step 3). The script
+(`scripts/seed.mjs`) upserts through the Supabase API:
+
+- **campuses** — upserted by `slug` (re-running updates fields from the JSON).
+- **orgs** — inserted only when no org with the same `name` already exists for that
+  campus, so edits you make in the app UI are never overwritten.
+
+It's idempotent — safe to run as often as you like.
+
+### Adding a campus
+
+1. Create `data/campuses/<slug>.json` (copy an existing one as a template). Shape:
+   ```json
+   {
+     "slug": "institut-teknologi-bandung",
+     "name": "Institut Teknologi Bandung",
+     "type": "Institut",
+     "ownership": "Negeri",
+     "city": "Bandung",
+     "province": "Jawa Barat",
+     "future_series_city": "Bandung",
+     "website": "https://www.itb.ac.id",
+     "orgs": [
+       { "name": "…", "org_type": "BEM Universitas", "contact_type": "Instagram",
+         "contact_value": "@…", "follower_count": null, "notes": "…" }
+     ]
+   }
+   ```
+   Enum fields must match the DB: `type` (Universitas/Institut/Politeknik/Sekolah
+   Tinggi/Akademi), `ownership` (Negeri/Swasta), `future_series_city`
+   (Jakarta/Bandung/Yogyakarta/Surabaya/Makassar, or omit/null), `org_type`
+   (BEM Universitas/BEM Fakultas/DPM/HIMA/UKM Olahraga/Lari/Other), `contact_type`
+   (Instagram/Email/WhatsApp/LinkedIn/Website/Other).
+2. `npm run seed`.
+
 ## Deployment
 
-Out of scope for now — local dev only. No host is wired up.
+Deployed as a static site to **GitHub Pages** at `yourventure.yvjobs.online`. Every push
+to `main` triggers `.github/workflows/deploy.yml` (build → Pages). The public build is
+safe: the browser only ever holds the publishable key, and all data is gated by RLS + the
+auth allow-list.
