@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-muhammadiyah-makassar",
+  "name": "Universitas Muhammadiyah Makassar (Unismuh Makassar)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://unismuh.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Unismuh Makassar",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_unismuh_makassar",
+      "follower_count": null,
+      "notes": "University-wide student executive board."
+    },
+    {
+      "name": "BEM FISIP Unismuh Makassar",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisip_unismuh",
+      "follower_count": 1623,
+      "notes": "Faculty of Social & Political Sciences student executive board."
+    },
+    {
+      "name": "BEM FP Unismuh Makassar",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpunismuh",
+      "follower_count": null,
+      "notes": "Faculty of Agriculture student executive board."
+    },
+    {
+      "name": "BEM FEB Unismuh Makassar",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeb_unismuhmakassar",
+      "follower_count": null,
+      "notes": "Faculty of Economics and Business student executive board."
+    },
+    {
+      "name": "UKM Olahraga Unismuh Makassar",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukm_olahragaunismuh",
+      "follower_count": null,
+      "notes": "University sports activity unit."
+    },
+    {
+      "name": "UKM PS (Sepakbola) Unismuh Makassar",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukm_psunismuhmakassar",
+      "follower_count": 277,
+      "notes": "Football/soccer student activity unit."
+    }
+  ]
+}

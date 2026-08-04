@@ -1,0 +1,28 @@
+{
+  "slug": "atma-jaya-makassar",
+  "name": "Universitas Atma Jaya Makassar (UAJM)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://www.uajm.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Psikologi UAJM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpsiuajm_",
+      "follower_count": 321,
+      "notes": "BEM Fakultas Psikologi. Contact bempsikologi.uajm28@gmail.com."
+    },
+    {
+      "name": "HMJA-FEB UAJM (Akuntansi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmja.feb.uajm01",
+      "follower_count": 451,
+      "notes": "Himpunan Mahasiswa Jurusan Akuntansi, Fakultas Ekonomi & Bisnis."
+    }
+  ]
+}

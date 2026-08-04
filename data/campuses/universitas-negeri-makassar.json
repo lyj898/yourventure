@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-negeri-makassar",
+  "name": "Universitas Negeri Makassar",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://www.unm.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Negeri Makassar (BEM UNM)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunm_",
+      "follower_count": null,
+      "notes": "University-wide student executive; official site bemunm.com."
+    },
+    {
+      "name": "BEM FMIPA UNM (Preformasi BEM)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@preformasibem",
+      "follower_count": 3377,
+      "notes": "Faculty of Math & Natural Sciences student executive."
+    },
+    {
+      "name": "UKM Olahraga UNM",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmolahraga.unm",
+      "follower_count": 2948,
+      "notes": "University sports activity unit (student-run)."
+    }
+  ]
+}

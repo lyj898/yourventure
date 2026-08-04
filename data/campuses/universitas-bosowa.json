@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-bosowa",
+  "name": "Universitas Bosowa Makassar",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://unibos.ac.id",
+  "orgs": [
+    {
+      "name": "UKM PMKO Universitas Bosowa",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@pmko_unibos",
+      "follower_count": 1582,
+      "notes": "Student activity unit (UKM PMKO) at Universitas Bosowa."
+    }
+  ]
+}

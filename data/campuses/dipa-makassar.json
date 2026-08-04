@@ -1,0 +1,52 @@
+{
+  "slug": "dipa-makassar",
+  "name": "Universitas Dipa Makassar (UNDIPA)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://undipa.ac.id",
+  "orgs": [
+    {
+      "name": "Dipanegara Football Club (DFC)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@dipanegarafootballclub",
+      "follower_count": 680,
+      "notes": "UKM Dipanegara Football Club, est. 1995."
+    },
+    {
+      "name": "Dipanegara Basketball Club (DBC)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@dbc.undipa",
+      "follower_count": 817,
+      "notes": "Dipanegara Basketball Club (UKM), est. 1998."
+    },
+    {
+      "name": "Taekwondo Universitas Dipa Makassar",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondo_universitas_dipa",
+      "follower_count": 559,
+      "notes": "Taekwondo sports UKM."
+    },
+    {
+      "name": "MAHADIPA (Mahasiswa Pecinta Alam Dipanegara)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@mahadipa1995",
+      "follower_count": null,
+      "notes": "Nature/outdoor-sport (pecinta alam) UKM."
+    },
+    {
+      "name": "KSR 108 UNDIPA (Korps Sukarela PMI)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@ksr108.undipa",
+      "follower_count": null,
+      "notes": "Red Cross volunteer student unit."
+    }
+  ]
+}

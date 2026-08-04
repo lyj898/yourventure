@@ -1,0 +1,20 @@
+{
+  "slug": "pancasakti-makassar",
+  "name": "Universitas Pancasakti Makassar",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://unpacti.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM-FKM Unpacti (Kesehatan Masyarakat)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkm_unpacti",
+      "follower_count": 433,
+      "notes": "BEM Fakultas Kesehatan Masyarakat. Contact bemkmfkm13unpacti@gmail.com."
+    }
+  ]
+}

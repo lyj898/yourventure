@@ -1,0 +1,28 @@
+{
+  "slug": "uki-paulus-makassar",
+  "name": "Universitas Kristen Indonesia Paulus (UKI Paulus) Makassar",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://www.ukipaulus.ac.id",
+  "orgs": [
+    {
+      "name": "HME-FT UKI Paulus (Himpunan Mahasiswa Elektro)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hme.ft.ukip",
+      "follower_count": 858,
+      "notes": "Himpunan Mahasiswa Elektro, Fakultas Teknik. Student-run department association."
+    },
+    {
+      "name": "KMK UKI-Paulus (Kerukunan Mahasiswa Katolik)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@kmk_ukip",
+      "follower_count": 874,
+      "notes": "Catholic student fellowship organization, student-run."
+    }
+  ]
+}

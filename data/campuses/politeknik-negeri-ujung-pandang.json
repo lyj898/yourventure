@@ -1,0 +1,28 @@
+{
+  "slug": "politeknik-negeri-ujung-pandang",
+  "name": "Politeknik Negeri Ujung Pandang",
+  "type": "Politeknik",
+  "ownership": "Negeri",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://www.poliupg.ac.id",
+  "orgs": [
+    {
+      "name": "HMM PNUP (Himpunan Mahasiswa Mesin)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmm.pnup",
+      "follower_count": null,
+      "notes": "Mechanical Engineering student association."
+    },
+    {
+      "name": "UKM Taekwondo PNUP",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondopnup",
+      "follower_count": 2512,
+      "notes": "Official sports UKM (taekwondo)."
+    }
+  ]
+}

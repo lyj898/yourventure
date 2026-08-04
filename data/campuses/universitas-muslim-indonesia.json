@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-muslim-indonesia",
+  "name": "Universitas Muslim Indonesia (UMI) Makassar",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://umi.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Hukum UMI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemhukumumi",
+      "follower_count": null,
+      "notes": "Faculty of Law student executive board."
+    },
+    {
+      "name": "BEM Fakultas Teknologi Industri UMI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftiumi",
+      "follower_count": null,
+      "notes": "Faculty of Industrial Technology student executive board."
+    },
+    {
+      "name": "BEM Fakultas Farmasi UMI (KABAMAFAR)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkabamafar_umi",
+      "follower_count": null,
+      "notes": "Pharmacy faculty student executive board."
+    },
+    {
+      "name": "BEM FEB UMI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebumi",
+      "follower_count": 244,
+      "notes": "Faculty of Economics and Business student executive board."
+    },
+    {
+      "name": "BEM KBMFK-UMI (Fakultas Kedokteran)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@kbmfkumi",
+      "follower_count": 3409,
+      "notes": "Medicine faculty student body (Keluarga Besar Mahasiswa FK). Contact kbmfkumibem@gmail.com."
+    }
+  ]
+}

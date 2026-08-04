@@ -1,0 +1,100 @@
+{
+  "slug": "universitas-hasanuddin",
+  "name": "Universitas Hasanuddin",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": "https://www.unhas.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM Universitas Hasanuddin (BEM KM UH)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunhas_official",
+      "follower_count": 6512,
+      "notes": "University-wide student executive (BEM KM UH), Kabinet Revolusioner."
+    },
+    {
+      "name": "BEM Fakultas Hukum Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemhukumunhas",
+      "follower_count": 6958,
+      "notes": "Faculty of Law student executive."
+    },
+    {
+      "name": "BEM KEMA FK Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkuh",
+      "follower_count": 5034,
+      "notes": "Faculty of Medicine student executive, Kabinet Berkibar."
+    },
+    {
+      "name": "BEM FMIPA Unhas (KM FMIPA)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@kmfmipaunhas",
+      "follower_count": 4008,
+      "notes": "Faculty of Math & Natural Sciences student executive."
+    },
+    {
+      "name": "BEM FKG Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkgunhas",
+      "follower_count": 3853,
+      "notes": "Faculty of Dentistry student executive."
+    },
+    {
+      "name": "BEM KEMA FISIP Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@kemafisipunhas",
+      "follower_count": null,
+      "notes": "Faculty of Social & Political Sciences student executive."
+    },
+    {
+      "name": "BEM KEMA Faperta Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemafapertaunhas",
+      "follower_count": null,
+      "notes": "Faculty of Agriculture student executive."
+    },
+    {
+      "name": "BEM KEMA Fakultas Vokasi Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_kema_fv_unhas",
+      "follower_count": 1078,
+      "notes": "Faculty of Vocational Studies student executive."
+    },
+    {
+      "name": "BEM KEMA F.Kep Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemafkepunhas",
+      "follower_count": null,
+      "notes": "Faculty of Nursing student executive."
+    },
+    {
+      "name": "BEM FKM Unhas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkmunhas",
+      "follower_count": null,
+      "notes": "Faculty of Public Health student executive."
+    },
+    {
+      "name": "IMMAJ FEB Unhas",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@immajfebuh",
+      "follower_count": null,
+      "notes": "Management students association, Faculty of Economics & Business."
+    }
+  ]
+}
