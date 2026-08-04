@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-paramadina",
+  "name": "Universitas Paramadina",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://paramadina.ac.id",
+  "orgs": [
+    {
+      "name": "Serikat Mahasiswa Universitas Paramadina (SEMA UPM)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@semaparamadina",
+      "follower_count": null,
+      "notes": "Highest student body (Serikat Mahasiswa = student union, equivalent to university BEM; coordinates HIMA and OKUP). Handle confirmed on SEMA's official site."
+    }
+  ]
+}

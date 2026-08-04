@@ -1,0 +1,28 @@
+{
+  "slug": "lspr-institute",
+  "name": "Institut Komunikasi dan Bisnis LSPR (LSPR Institute)",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Jakarta Pusat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.lspr.ac.id",
+  "orgs": [
+    {
+      "name": "BEM LSPR (Student Executive Board)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_lspr",
+      "follower_count": 7097,
+      "notes": "Institute-wide student executive board overseeing the LSPR Student League clubs."
+    },
+    {
+      "name": "LSPR Futsal Club",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@lsprfutsalclub",
+      "follower_count": null,
+      "notes": "Sports club under the LSPR Student League. (LSPR Runners exists per lspr.ac.id but no verifiable IG handle found.)"
+    }
+  ]
+}

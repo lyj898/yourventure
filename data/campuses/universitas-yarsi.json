@@ -1,0 +1,148 @@
+{
+  "slug": "universitas-yarsi",
+  "name": "Universitas YARSI",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Pusat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.yarsi.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM Universitas YARSI",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_yarsi",
+      "follower_count": 6531,
+      "notes": "University-wide student executive board (Kabinet Galasvana). Confirmed on official ormawa page and IG."
+    },
+    {
+      "name": "Kongres Keluarga Mahasiswa (KKM) YARSI",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@kongreskmyarsi",
+      "follower_count": null,
+      "notes": "University-level student congress/legislative body per official ormawa listing."
+    },
+    {
+      "name": "SEMA FK YARSI (Senat Mahasiswa Kedokteran)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafkuy",
+      "follower_count": 2966,
+      "notes": "Faculty of Medicine student executive (Senat)."
+    },
+    {
+      "name": "SEMA FH YARSI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafh.yarsi",
+      "follower_count": null,
+      "notes": "Faculty of Law student executive (Senat)."
+    },
+    {
+      "name": "SEMA FPsi YARSI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafpsiuy",
+      "follower_count": null,
+      "notes": "Faculty of Psychology student executive (Senat)."
+    },
+    {
+      "name": "SEMA FTI YARSI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafti_yarsi",
+      "follower_count": null,
+      "notes": "Faculty of Information Technology student executive (Senat)."
+    },
+    {
+      "name": "SEMA FKG YARSI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafkgyarsi",
+      "follower_count": null,
+      "notes": "Faculty of Dentistry student executive (Senat). From official ormawa page."
+    },
+    {
+      "name": "SEMA FEB YARSI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@sema_febuy",
+      "follower_count": null,
+      "notes": "Faculty of Economics & Business student executive (Senat). From official ormawa page."
+    },
+    {
+      "name": "BPM FH YARSI",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfhyarsi",
+      "follower_count": null,
+      "notes": "Faculty of Law legislative body (Badan Perwakilan Mahasiswa)."
+    },
+    {
+      "name": "BPM FK YARSI",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfkuy",
+      "follower_count": null,
+      "notes": "Faculty of Medicine legislative body per official ormawa page."
+    },
+    {
+      "name": "BPM FEB YARSI",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfebuy",
+      "follower_count": null,
+      "notes": "Faculty of Economics legislative body per official ormawa page."
+    },
+    {
+      "name": "BPM FPsi YARSI",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfpsiyarsi",
+      "follower_count": null,
+      "notes": "Faculty of Psychology legislative body per official ormawa page."
+    },
+    {
+      "name": "UKM VOYAGE YARSI",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmvoyage",
+      "follower_count": null,
+      "notes": "Sports UKM (futsal, volleyball, badminton)."
+    },
+    {
+      "name": "YBBC (YARSI Basketball)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ybbcyarsi",
+      "follower_count": null,
+      "notes": "Basketball UKM per official ormawa page."
+    },
+    {
+      "name": "IMASI YARSI (Martial Arts)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@imasi_uy",
+      "follower_count": null,
+      "notes": "Martial arts UKM per official ormawa page."
+    },
+    {
+      "name": "HIMA Teknik Informatika YARSI",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himfoyarsi",
+      "follower_count": null,
+      "notes": "Informatics program student association per official ormawa page."
+    },
+    {
+      "name": "HIMA Manajemen YARSI",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmjmfebuy",
+      "follower_count": null,
+      "notes": "Management program student association per official ormawa page."
+    }
+  ]
+}

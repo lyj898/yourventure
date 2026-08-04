@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-pembangunan-jaya",
+  "name": "Universitas Pembangunan Jaya (UPJ)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Tangerang Selatan",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://upj.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Pembangunan Jaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.upj",
+      "follower_count": 2991,
+      "notes": "University-wide BEM; email bem.upj@upj.ac.id; linktr.ee/bemupj. UPJ organizes by program/HIMPRODI rather than faculty BEMs."
+    },
+    {
+      "name": "Informatika UPJ",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@inf.upj",
+      "follower_count": null,
+      "notes": "Informatics study-program student community (Fakultas Teknologi dan Desain)."
+    }
+  ]
+}

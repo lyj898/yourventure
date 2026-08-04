@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-17-agustus-1945-jakarta",
+  "name": "Universitas 17 Agustus 1945 Jakarta (UTA'45 Jakarta)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Utara",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.uta45jakarta.ac.id",
+  "orgs": [
+    {
+      "name": "HIMAHI UTA'45 Jakarta (Hubungan Internasional)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himahiuta45jkt",
+      "follower_count": 485,
+      "notes": "Student association for International Relations, FISIP. (No university-wide BEM handle corroborated for UTA'45.)"
+    },
+    {
+      "name": "HIMAKOM UTA'45 Jakarta (Ilmu Komunikasi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himakomuta45jkt",
+      "follower_count": null,
+      "notes": "Student association for Communication Science, FISIP."
+    }
+  ]
+}

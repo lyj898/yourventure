@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-trilogi",
+  "name": "Universitas Trilogi",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://trilogi.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM Universitas Trilogi",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemtrilogi",
+      "follower_count": null,
+      "notes": "University-wide student executive board. Linktree linktr.ee/bemtrilogi."
+    },
+    {
+      "name": "MPM DPM Universitas Trilogi",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpmdpm_trilogi",
+      "follower_count": 1655,
+      "notes": "Combined legislative body (Majelis Permusyawaratan Mahasiswa / Dewan Perwakilan Mahasiswa)."
+    },
+    {
+      "name": "HIMTIPA Trilogi (Teknologi Pangan)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himtipa.trilogi",
+      "follower_count": null,
+      "notes": "Food Technology program student association."
+    }
+  ]
+}

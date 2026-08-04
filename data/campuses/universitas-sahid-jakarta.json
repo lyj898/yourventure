@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-sahid-jakarta",
+  "name": "Universitas Sahid Jakarta (USAHID)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://usahid.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Teknik USAHID",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemft.usahid",
+      "follower_count": 723,
+      "notes": "BEM Fakultas Teknik. USAHID's student-activities page lists five faculty BEMs (Ekonomi & Bisnis, Ilmu Komunikasi, Teknik, Fatepakes, Hukum) but only Teknik's handle could be corroborated. Email bemft.univsahid@gmail.com."
+    }
+  ]
+}

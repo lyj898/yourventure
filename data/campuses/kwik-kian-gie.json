@@ -1,0 +1,28 @@
+{
+  "slug": "kwik-kian-gie",
+  "name": "Institut Bisnis dan Informatika Kwik Kian Gie (IBIK)",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Jakarta Utara",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://kwikkiangie.ac.id",
+  "orgs": [
+    {
+      "name": "Informatics Community IBIK KKG",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@ic.ibikkg",
+      "follower_count": 410,
+      "notes": "Student association for the Informatics/IT department."
+    },
+    {
+      "name": "Kwik Kian Gie Accounting Forum (KAF)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@kaf.ibikkg",
+      "follower_count": 956,
+      "notes": "Accounting student forum."
+    }
+  ]
+}

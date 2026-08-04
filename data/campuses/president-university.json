@@ -1,0 +1,36 @@
+{
+  "slug": "president-university",
+  "name": "President University",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Cikarang, Bekasi",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://president.ac.id",
+  "orgs": [
+    {
+      "name": "President University Student Board (BEM / PUSB)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@pusbpresuniv",
+      "follower_count": 4803,
+      "notes": "Executive board (BEM) under President University Student Union (PUSU)."
+    },
+    {
+      "name": "President University Student Council (PUSC)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@pusc_presuniv",
+      "follower_count": 2437,
+      "notes": "Highest legislative student body (Student Council / Senat). Email pusc@president.ac.id."
+    },
+    {
+      "name": "PUMA Management (Major Association of Management)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@presuniv_mgt",
+      "follower_count": 1581,
+      "notes": "Management major student association, Faculty of Business."
+    }
+  ]
+}

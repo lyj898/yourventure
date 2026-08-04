@@ -1,0 +1,44 @@
+{
+  "slug": "kalbis-institute",
+  "name": "Institut Teknologi dan Bisnis Kalbis (Kalbis Institute)",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Jakarta Timur",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://kalbis.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Kalbis Institute",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkalbis",
+      "follower_count": 348,
+      "notes": "Institute-wide Badan Eksekutif Mahasiswa; profile notes account currently on hiatus."
+    },
+    {
+      "name": "HIMAN Kalbis (Manajemen)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himan.kalbis",
+      "follower_count": 606,
+      "notes": "Himpunan Mahasiswa Jurusan Manajemen / Creative Business."
+    },
+    {
+      "name": "HIMIF Kalbis (Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himif.kalbis",
+      "follower_count": 469,
+      "notes": "Informatics department student association."
+    },
+    {
+      "name": "HIMIK Kalbis (Ilmu Komunikasi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himik.kalbis",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Ilmu Komunikasi."
+    }
+  ]
+}

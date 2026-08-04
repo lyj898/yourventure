@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-jayabaya",
+  "name": "Universitas Jayabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Timur",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://jayabaya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FISIP Universitas Jayabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipuj",
+      "follower_count": 481,
+      "notes": "BEM Fakultas Ilmu Sosial & Politik. Only faculty BEM handle corroborated for Jayabaya. Email fisipjyby.bem@gmail.com."
+    }
+  ]
+}
