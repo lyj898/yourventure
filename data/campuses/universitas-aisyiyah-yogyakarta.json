@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-aisyiyah-yogyakarta",
+  "name": "Universitas 'Aisyiyah Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.unisayogya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UNISA Yogyakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_unisa",
+      "follower_count": 6641,
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa). Website bem.unisayogya.ac.id."
+    },
+    {
+      "name": "BEM FIKes UNISA Yogyakarta (Ilmu Kesehatan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_fikesunisa",
+      "follower_count": 2532,
+      "notes": "Faculty student executive, Fakultas Ilmu Kesehatan."
+    },
+    {
+      "name": "BEM FEISHum UNISA Yogyakarta (Ekonomi, Ilmu Sosial dan Humaniora)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeishum",
+      "follower_count": 1442,
+      "notes": "Faculty student executive, Kabinet Avicenna."
+    },
+    {
+      "name": "BEM FST UNISA Yogyakarta (Sains dan Teknologi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfst.unisa",
+      "follower_count": null,
+      "notes": "Faculty student executive, Fakultas Sains dan Teknologi. Site bem-fst.unisayogya.ac.id."
+    }
+  ]
+}

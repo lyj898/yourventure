@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-teknologi-yogyakarta",
+  "name": "Universitas Teknologi Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://uty.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UTY",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkm_uty",
+      "follower_count": 1111,
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa)."
+    },
+    {
+      "name": "UKM Olahraga UTY",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmolahragauty_real",
+      "follower_count": 1937,
+      "notes": "Official sports UKM (badminton, football, basketball, futsal, table tennis)."
+    },
+    {
+      "name": "HIMA Hubungan Internasional UTY",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himahi.uty",
+      "follower_count": 1013,
+      "notes": "Departmental student association for International Relations."
+    },
+    {
+      "name": "HMTI UTY (Teknik Industri)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmti_uty",
+      "follower_count": 2247,
+      "notes": "Departmental student association for Industrial Engineering."
+    }
+  ]
+}

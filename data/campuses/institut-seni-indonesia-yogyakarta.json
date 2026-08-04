@@ -1,0 +1,36 @@
+{
+  "slug": "institut-seni-indonesia-yogyakarta",
+  "name": "Institut Seni Indonesia Yogyakarta",
+  "type": "Institut",
+  "ownership": "Negeri",
+  "city": "Bantul",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.isi.ac.id",
+  "orgs": [
+    {
+      "name": "BEM ISI Yogyakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemisiyk",
+      "follower_count": 9136,
+      "notes": "Institute-wide student executive body. Secretariat: Gedung Serbaguna ISI YK."
+    },
+    {
+      "name": "BEM FSR ISI Yogyakarta (Seni Rupa dan Desain)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfsrdisi",
+      "follower_count": 5120,
+      "notes": "Faculty student executive, Fakultas Seni Rupa dan Desain."
+    },
+    {
+      "name": "BEM FSMR ISI Yogyakarta (Seni Media Rekam)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfsmr",
+      "follower_count": 4073,
+      "notes": "Faculty student executive, Fakultas Seni Media Rekam."
+    }
+  ]
+}
