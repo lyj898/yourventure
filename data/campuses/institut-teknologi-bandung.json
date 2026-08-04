@@ -1,0 +1,92 @@
+{
+  "slug": "institut-teknologi-bandung",
+  "name": "Institut Teknologi Bandung",
+  "type": "Institut",
+  "ownership": "Negeri",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.itb.ac.id",
+  "orgs": [
+    {
+      "name": "Kabinet Keluarga Mahasiswa ITB (KM ITB)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@km.itb",
+      "follower_count": null,
+      "notes": "University-wide student executive (Kabinet KM ITB). Central account."
+    },
+    {
+      "name": "Kongres KM ITB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@kongres.kmitb",
+      "follower_count": null,
+      "notes": "Highest legislative body of KM ITB (senator-based). Also on X @Kongres_KMITB."
+    },
+    {
+      "name": "Keresidenan Multikampus Jatinangor KM ITB",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@kmitb.jatinangor",
+      "follower_count": 2378,
+      "notes": "KM ITB residency body for the Jatinangor multi-campus."
+    },
+    {
+      "name": "ITB Running Enthusiast (ITB RE)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@itb.re",
+      "follower_count": null,
+      "notes": "ITB running community; weekly group runs from Kubus ITB (~5km). Directly relevant to a running circuit."
+    },
+    {
+      "name": "HMIF ITB (Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmif_itb",
+      "follower_count": 9381,
+      "notes": "Informatics himpunan."
+    },
+    {
+      "name": "HME ITB (Elektroteknik)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmeitb",
+      "follower_count": 6596,
+      "notes": "Electrical engineering himpunan."
+    },
+    {
+      "name": "HMS ITB (Sipil)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hms.itb",
+      "follower_count": 9935,
+      "notes": "Civil engineering himpunan."
+    },
+    {
+      "name": "HMM ITB (Mesin)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmm_itb",
+      "follower_count": null,
+      "notes": "Mechanical engineering himpunan."
+    },
+    {
+      "name": "HIMATEK ITB (Teknik Kimia)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himatekitb",
+      "follower_count": 5419,
+      "notes": "Chemical engineering himpunan."
+    },
+    {
+      "name": "HMFT ITB (Fisika Teknik)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmft_itb",
+      "follower_count": null,
+      "notes": "Engineering physics himpunan."
+    }
+  ]
+}

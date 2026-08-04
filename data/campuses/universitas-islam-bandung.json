@@ -1,0 +1,68 @@
+{
+  "slug": "universitas-islam-bandung",
+  "name": "Universitas Islam Bandung (Unisba)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unisba.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Unisba",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunisba",
+      "follower_count": 9740,
+      "notes": "University-wide student executive board. Contact bem.unisba@gmail.com."
+    },
+    {
+      "name": "BEM Fakultas Teknik Unisba",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftunisba",
+      "follower_count": 3022,
+      "notes": "BEM Fakultas Teknik."
+    },
+    {
+      "name": "BEM FEB Unisba",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebunisba",
+      "follower_count": 3533,
+      "notes": "BEM Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM FK Unisba",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkunisba",
+      "follower_count": 3365,
+      "notes": "BEM Fakultas Kedokteran."
+    },
+    {
+      "name": "BEM Fakultas Psikologi Unisba",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsiunisba",
+      "follower_count": 6134,
+      "notes": "BEM Fakultas Psikologi."
+    },
+    {
+      "name": "BEM FMIPA Unisba",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfmipaunisba",
+      "follower_count": 1926,
+      "notes": "BEM Fakultas MIPA."
+    },
+    {
+      "name": "BEM Fakultas Tarbiyah dan Keguruan Unisba",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftk.unisba",
+      "follower_count": 2835,
+      "notes": "BEM Fakultas Tarbiyah dan Keguruan."
+    }
+  ]
+}

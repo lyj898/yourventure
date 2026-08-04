@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-katolik-parahyangan",
+  "name": "Universitas Katolik Parahyangan (Unpar)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://unpar.ac.id",
+  "orgs": [
+    {
+      "name": "BEM / Lembaga Kepresidenan Mahasiswa Unpar",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_unpar",
+      "follower_count": 8710,
+      "notes": "University-wide student executive (Lembaga Kepresidenan Mahasiswa under Persatuan Mahasiswa). Contact pm.bem@unpar.ac.id."
+    },
+    {
+      "name": "Persatuan Mahasiswa (PM) Unpar",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@pm_unpar",
+      "follower_count": 5507,
+      "notes": "Overall student union of Unpar (encompasses LKM, MPM, HMPS, UKM)."
+    },
+    {
+      "name": "HMPSIH Unpar (Ilmu Hukum)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmpsihunpar",
+      "follower_count": 3695,
+      "notes": "Study-program student association, Faculty of Law. Contact hmpsih@unpar.ac.id."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-widyatama",
+  "name": "Universitas Widyatama",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.widyatama.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Widyatama (BEM Utama)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemutama",
+      "follower_count": null,
+      "notes": "University-wide student executive."
+    },
+    {
+      "name": "SEMA FDKV Widyatama",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafdkvutama",
+      "follower_count": 1300,
+      "notes": "Faculty executive (Senat Mahasiswa) for Design & Visual Communication. Widyatama uses SEMA rather than BEM Fakultas."
+    },
+    {
+      "name": "Unit Bola Basket Widyatama",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@basketutama",
+      "follower_count": 1120,
+      "notes": "University basketball unit (UKM)."
+    },
+    {
+      "name": "UKM Sepakbola Widyatama",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@unbolutama",
+      "follower_count": 1490,
+      "notes": "University football UKM."
+    }
+  ]
+}

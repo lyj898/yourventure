@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-komputer-indonesia-unikom",
+  "name": "Universitas Komputer Indonesia (Unikom)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unikom.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Unikom (Kabinet Nawasena)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_unikom",
+      "follower_count": null,
+      "notes": "University-wide Badan Eksekutif Mahasiswa (BEM-U IKM Unikom). Bandung-tagged profile."
+    }
+  ]
+}

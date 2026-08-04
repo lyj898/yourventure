@@ -1,0 +1,124 @@
+{
+  "slug": "universitas-padjadjaran",
+  "name": "Universitas Padjadjaran",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Jatinangor",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unpad.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Kema Unpad",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.unpad",
+      "follower_count": null,
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa Unpad)."
+    },
+    {
+      "name": "BPM Kema Unpad",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmkemaunpad",
+      "follower_count": 3032,
+      "notes": "University-level student legislative body (Badan Perwakilan Mahasiswa Kema Unpad)."
+    },
+    {
+      "name": "Unpad Runner (Unpad Based Running Crew)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@unpadrunner",
+      "follower_count": null,
+      "notes": "Unpad running community (since 2014); trains at Stadion Jati Padjadjaran, Jatinangor. Highly relevant to a running circuit."
+    },
+    {
+      "name": "BEM FH Unpad (Hukum)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhunpad",
+      "follower_count": null,
+      "notes": "Faculty of Law."
+    },
+    {
+      "name": "BEM Kema FEB Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemafebunpad",
+      "follower_count": null,
+      "notes": "Faculty of Economics and Business."
+    },
+    {
+      "name": "BEM Kema Fikom Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikomunpad",
+      "follower_count": null,
+      "notes": "Faculty of Communication Sciences."
+    },
+    {
+      "name": "BEM Kema FMIPA Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfmipaunpad",
+      "follower_count": 8708,
+      "notes": "Faculty of Mathematics and Natural Sciences."
+    },
+    {
+      "name": "BEM Kema FK Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkunpad",
+      "follower_count": 8960,
+      "notes": "Faculty of Medicine."
+    },
+    {
+      "name": "BEM Kema FKep Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkepunpad",
+      "follower_count": 6182,
+      "notes": "Faculty of Nursing."
+    },
+    {
+      "name": "BEM Kema FKG Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkgunpad",
+      "follower_count": 5567,
+      "notes": "Faculty of Dentistry."
+    },
+    {
+      "name": "BEM Kema Fapsi Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfapsiunpad",
+      "follower_count": 7262,
+      "notes": "Faculty of Psychology."
+    },
+    {
+      "name": "BEM Kema Fapet Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfapetunpad",
+      "follower_count": null,
+      "notes": "Faculty of Animal Husbandry."
+    },
+    {
+      "name": "BEM Kema FTIP Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftipunpad",
+      "follower_count": 7372,
+      "notes": "Faculty of Agro-Industrial Technology."
+    },
+    {
+      "name": "BEM Kema FPIK Unpad",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpikunpad",
+      "follower_count": 6404,
+      "notes": "Faculty of Fisheries and Marine Sciences."
+    }
+  ]
+}

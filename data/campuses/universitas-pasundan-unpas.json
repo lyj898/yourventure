@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-pasundan-unpas",
+  "name": "Universitas Pasundan (Unpas)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unpas.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Pasundan (Kabinet Tegar Berdikari)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunpas",
+      "follower_count": 9173,
+      "notes": "University-wide student executive, 2024-2025."
+    },
+    {
+      "name": "BEM FISIP Unpas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisip.unpas",
+      "follower_count": 5083,
+      "notes": "Faculty of Social & Political Sciences executive. Older handle @bemfisipunpas also exists."
+    },
+    {
+      "name": "BEM FKIP Unpas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkip_unpas",
+      "follower_count": null,
+      "notes": "Faculty of Teacher Training & Education executive."
+    },
+    {
+      "name": "BEM FH Unpas",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhunpas",
+      "follower_count": null,
+      "notes": "Faculty of Law executive. A second handle @bem.fhunpas also appears; verify current before outreach."
+    },
+    {
+      "name": "DPM FISIP Unpas",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfisip.unpas",
+      "follower_count": null,
+      "notes": "DPM (legislative) of Fakultas FISIP. No university-wide DPM IG corroborated."
+    }
+  ]
+}

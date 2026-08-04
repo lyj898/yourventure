@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-kristen-maranatha",
+  "name": "Universitas Kristen Maranatha",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.maranatha.edu",
+  "orgs": [
+    {
+      "name": "BEM Maranatha",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.maranatha",
+      "follower_count": null,
+      "notes": "University-wide student executive board."
+    },
+    {
+      "name": "SEMA FK Maranatha (Kedokteran)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafk_maranatha",
+      "follower_count": 2863,
+      "notes": "Faculty student executive (Senat Mahasiswa) of Fakultas Kedokteran."
+    },
+    {
+      "name": "SEMA FB Maranatha (Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@sema.fb.maranatha",
+      "follower_count": null,
+      "notes": "Faculty student executive (Senat Mahasiswa) of Fakultas Bisnis."
+    },
+    {
+      "name": "UKOR Maranatha (Unit Kegiatan Olahraga)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukormaranatha",
+      "follower_count": 938,
+      "notes": "University sports unit (basketball, futsal, badminton, volleyball, tennis, swimming, etc.)."
+    }
+  ]
+}

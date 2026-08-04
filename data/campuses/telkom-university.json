@@ -1,0 +1,92 @@
+{
+  "slug": "telkom-university",
+  "name": "Telkom University",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Kabupaten Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://telkomuniversity.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KEMA Telkom University",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemtelu",
+      "follower_count": null,
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa)."
+    },
+    {
+      "name": "DPM KEMA FEB Telkom University",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfebtelu",
+      "follower_count": 2621,
+      "notes": "Faculty legislative body (DPM) of FEB. University-wide DPM main IG not corroborated."
+    },
+    {
+      "name": "DPM KEMA FKS Telkom University",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfkstelu",
+      "follower_count": null,
+      "notes": "Faculty legislative body of Fakultas Komunikasi dan Sains (FKS)."
+    },
+    {
+      "name": "BEM FEB Telkom University",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebunitel",
+      "follower_count": 9082,
+      "notes": "BEM Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM FIK Telkom University",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.fik",
+      "follower_count": null,
+      "notes": "BEM Fakultas Industri Kreatif, Bandung."
+    },
+    {
+      "name": "BEM KEMA FIT Telkom University",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemafit",
+      "follower_count": null,
+      "notes": "BEM Fakultas Ilmu Terapan."
+    },
+    {
+      "name": "BEM KEMA FKS Telkom University",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemafkstelu",
+      "follower_count": null,
+      "notes": "BEM Fakultas Komunikasi dan Sains."
+    },
+    {
+      "name": "KMTE 115 (Keluarga Mahasiswa Teknik Elektro)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@kmte115",
+      "follower_count": 4985,
+      "notes": "Faculty-level student body of Fakultas Teknik Elektro (Telkom uses KMTE, not a BEM FTE)."
+    },
+    {
+      "name": "Telkom University Runners",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@wearetunners",
+      "follower_count": 1518,
+      "notes": "Campus running crew, est. 2013, based at Telkom University jogging track."
+    },
+    {
+      "name": "Telkom University Run",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@telkomuniversityrun",
+      "follower_count": 2728,
+      "notes": "Running account; may be a run event rather than a standing UKM."
+    }
+  ]
+}

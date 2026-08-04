@@ -1,0 +1,68 @@
+{
+  "slug": "universitas-pendidikan-indonesia",
+  "name": "Universitas Pendidikan Indonesia",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.upi.edu",
+  "orgs": [
+    {
+      "name": "BEM REMA UPI",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.upi",
+      "follower_count": null,
+      "notes": "University-wide student executive (BEM Republik Mahasiswa UPI). Website bemremaupi.com."
+    },
+    {
+      "name": "Atletik UPI Bumi Siliwangi",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@atletikupi",
+      "follower_count": 1034,
+      "notes": "UPI athletics UKM; sessions Mon/Wed/Fri at UPI Stadium. Relevant to running/athletics circuit."
+    },
+    {
+      "name": "BEM Kema FIP UPI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemafipupi",
+      "follower_count": 6349,
+      "notes": "Faculty of Education (FIP)."
+    },
+    {
+      "name": "BEM Kema FPMIPA UPI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpmipa",
+      "follower_count": 5438,
+      "notes": "Faculty of Mathematics and Science Education (FPMIPA)."
+    },
+    {
+      "name": "Kema FPOK UPI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@kemafpokupi",
+      "follower_count": 1464,
+      "notes": "Faculty of Sport and Health Education (FPOK) student body; useful for a running/sports circuit."
+    },
+    {
+      "name": "HMK FPMIPA UPI (Kimia)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmkupi",
+      "follower_count": 3643,
+      "notes": "Chemistry student association (HMK), FPMIPA."
+    },
+    {
+      "name": "HMCH PPKn FPIPS UPI",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmchupibandung",
+      "follower_count": 2438,
+      "notes": "PPKn (Pancasila & Citizenship Education) study-program association, FPIPS."
+    }
+  ]
+}

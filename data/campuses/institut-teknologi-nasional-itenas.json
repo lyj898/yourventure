@@ -1,0 +1,52 @@
+{
+  "slug": "institut-teknologi-nasional-itenas",
+  "name": "Institut Teknologi Nasional (Itenas)",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.itenas.ac.id",
+  "orgs": [
+    {
+      "name": "BEKM Keluarga Mahasiswa Itenas (KM Itenas)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@km_itenas",
+      "follower_count": 6079,
+      "notes": "Institute-wide student executive (Badan Eksekutif KM Itenas), Kabinet Transformasi. Contact bekm@itenas.ac.id."
+    },
+    {
+      "name": "HMIF Itenas (Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmifitenas",
+      "follower_count": null,
+      "notes": "Informatics engineering student association."
+    },
+    {
+      "name": "HMTI Itenas (Teknik Industri)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmti_itenas",
+      "follower_count": null,
+      "notes": "Industrial engineering student association."
+    },
+    {
+      "name": "HMS Itenas (Sipil)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmsitenas",
+      "follower_count": null,
+      "notes": "Civil engineering student association."
+    },
+    {
+      "name": "UBBI Itenas (Bola Basket)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ubbi_itenas",
+      "follower_count": null,
+      "notes": "University basketball UKM. IFA (Itenas Football Association) exists but only on X."
+    }
+  ]
+}
