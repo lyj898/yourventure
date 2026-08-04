@@ -1,0 +1,84 @@
+{
+  "slug": "universitas-ahmad-dahlan",
+  "name": "Universitas Ahmad Dahlan",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Yogyakarta",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.uad.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Ahmad Dahlan",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_uad",
+      "follower_count": null,
+      "notes": "University-wide executive (Kabinet Porba)."
+    },
+    {
+      "name": "DPM Universitas Ahmad Dahlan",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmuad_",
+      "follower_count": null,
+      "notes": "University-level legislative body."
+    },
+    {
+      "name": "BEM FKM UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkmuad",
+      "follower_count": 2617,
+      "notes": "Fakultas Kesehatan Masyarakat (Kabinet Rajawali 2025)."
+    },
+    {
+      "name": "BEM FH UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuad",
+      "follower_count": 1982,
+      "notes": "Fakultas Hukum."
+    },
+    {
+      "name": "BEM FK UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_fkuad",
+      "follower_count": 1519,
+      "notes": "Fakultas Kedokteran (Kabinet Alugara Ananta 2026)."
+    },
+    {
+      "name": "BEM FAST UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfast_uad",
+      "follower_count": 1921,
+      "notes": "Fakultas Sains dan Teknologi Terapan, 2025."
+    },
+    {
+      "name": "BEM FKIP UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_fkip_uad",
+      "follower_count": 3261,
+      "notes": "Fakultas Keguruan dan Ilmu Pendidikan (Kabinet Sakhandata)."
+    },
+    {
+      "name": "BEM FEB UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebuad",
+      "follower_count": 3743,
+      "notes": "Fakultas Ekonomi dan Bisnis (Kabinet Nahkoda Pembaharuan)."
+    },
+    {
+      "name": "BEM FTI UAD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.fti.uad",
+      "follower_count": null,
+      "notes": "Fakultas Teknologi Industri."
+    }
+  ]
+}

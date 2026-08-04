@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-sanata-dharma",
+  "name": "Universitas Sanata Dharma",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.usd.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Ekonomi USD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeusd",
+      "follower_count": 4393,
+      "notes": "Student executive body, Faculty of Economics."
+    },
+    {
+      "name": "BEM FKIP USD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkipusd",
+      "follower_count": 4777,
+      "notes": "Student executive body, Faculty of Teacher Training and Education."
+    },
+    {
+      "name": "BEMF Farmasi USD",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemffarmasiusd",
+      "follower_count": null,
+      "notes": "Student executive body, Faculty of Pharmacy."
+    },
+    {
+      "name": "DPMF Farmasi USD",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmffusd",
+      "follower_count": null,
+      "notes": "Faculty-level student representative/legislative body, Pharmacy. (University-wide BEM USD only on Facebook.)"
+    }
+  ]
+}

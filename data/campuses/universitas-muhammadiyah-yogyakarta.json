@@ -1,0 +1,84 @@
+{
+  "slug": "universitas-muhammadiyah-yogyakarta",
+  "name": "Universitas Muhammadiyah Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bantul",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.umy.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UMY",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmumy",
+      "follower_count": null,
+      "notes": "University-wide executive (Kabinet Retas Batas). Website bem.umy.ac.id."
+    },
+    {
+      "name": "BEM FEB UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeb_umy",
+      "follower_count": null,
+      "notes": "Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM KM FKG UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkgumy",
+      "follower_count": 1440,
+      "notes": "Fakultas Kedokteran Gigi."
+    },
+    {
+      "name": "BEM FISIPOL UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipol_umy",
+      "follower_count": 4079,
+      "notes": "Fakultas Ilmu Sosial dan Politik, 2025/2026."
+    },
+    {
+      "name": "BEM FP UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpumy",
+      "follower_count": null,
+      "notes": "Fakultas Pertanian."
+    },
+    {
+      "name": "BEM KM FKIK UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkikumy_",
+      "follower_count": null,
+      "notes": "Fakultas Kedokteran dan Ilmu Kesehatan."
+    },
+    {
+      "name": "BEM FAI UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfaiumy",
+      "follower_count": null,
+      "notes": "Fakultas Agama Islam."
+    },
+    {
+      "name": "BEM KM FH UMY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhumy",
+      "follower_count": null,
+      "notes": "Fakultas Hukum."
+    },
+    {
+      "name": "UKM Sepak Bola UMY",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmsepakbolaumy",
+      "follower_count": 1891,
+      "notes": "Official football UKM."
+    }
+  ]
+}

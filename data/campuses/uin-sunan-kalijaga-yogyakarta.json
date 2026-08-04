@@ -1,0 +1,68 @@
+{
+  "slug": "uin-sunan-kalijaga-yogyakarta",
+  "name": "UIN Sunan Kalijaga Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Yogyakarta",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://uin-suka.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UIN Sunan Kalijaga",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demauinsuka",
+      "follower_count": 18000,
+      "notes": "University-wide student executive (Dewan Eksekutif Mahasiswa)."
+    },
+    {
+      "name": "DEMA FEBI UIN Sunan Kalijaga",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafebiuinsuka",
+      "follower_count": null,
+      "notes": "Faculty of Islamic Economics & Business (FEBI)."
+    },
+    {
+      "name": "DEMA FADIB UIN Sunan Kalijaga",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafadib_uinsuka",
+      "follower_count": 3100,
+      "notes": "Faculty of Adab & Cultural Sciences (FADIB)."
+    },
+    {
+      "name": "DEMA FST UIN Sunan Kalijaga",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafstuinsuka",
+      "follower_count": null,
+      "notes": "Faculty of Science & Technology (Saintek)."
+    },
+    {
+      "name": "DEMA FITK UIN Sunan Kalijaga",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@dema_fitk_uinsk",
+      "follower_count": null,
+      "notes": "Faculty of Tarbiyah & Teacher Training (FITK)."
+    },
+    {
+      "name": "DEMA FDK UIN Sunan Kalijaga",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafdk.uinsk",
+      "follower_count": null,
+      "notes": "Faculty of Dakwah & Communication (FDK)."
+    },
+    {
+      "name": "SEMA FEBI UIN Sunan Kalijaga",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semafebiuinsuka",
+      "follower_count": null,
+      "notes": "Faculty-level student senate (legislative) at FEBI."
+    }
+  ]
+}

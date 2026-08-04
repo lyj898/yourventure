@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-mercu-buana-yogyakarta",
+  "name": "Universitas Mercu Buana Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bantul",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://mercubuana-yogya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Psikologi UMBY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpsikologiumby",
+      "follower_count": 3548,
+      "notes": "Fakultas Psikologi."
+    },
+    {
+      "name": "BEM FIKOMM UMBY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikommumby",
+      "follower_count": 1492,
+      "notes": "Fakultas Ilmu Komunikasi dan Multimedia."
+    },
+    {
+      "name": "BEM Fakultas Agroindustri UMBY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemf.agroindustri",
+      "follower_count": 1784,
+      "notes": "Fakultas Agroindustri."
+    },
+    {
+      "name": "BEM FKIP UMBY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkip.umby",
+      "follower_count": null,
+      "notes": "Fakultas Keguruan dan Ilmu Pendidikan."
+    },
+    {
+      "name": "BEM FE UMBY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfe.umby",
+      "follower_count": null,
+      "notes": "Fakultas Ekonomi. No university-wide BEM/KM handle for UMBY verified."
+    }
+  ]
+}

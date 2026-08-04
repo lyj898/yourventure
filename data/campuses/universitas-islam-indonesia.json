@@ -1,0 +1,100 @@
+{
+  "slug": "universitas-islam-indonesia",
+  "name": "Universitas Islam Indonesia",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.uii.ac.id",
+  "orgs": [
+    {
+      "name": "LEM Universitas Islam Indonesia",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@lem_uii",
+      "follower_count": null,
+      "notes": "University-wide executive (Lembaga Eksekutif Mahasiswa). Kabinet Gana Abhita 2024/2025."
+    },
+    {
+      "name": "DPM Universitas Islam Indonesia",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmuii",
+      "follower_count": 9778,
+      "notes": "University-level legislative body."
+    },
+    {
+      "name": "LEM FH UII",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@lemfhuii",
+      "follower_count": 6673,
+      "notes": "Fakultas Hukum executive."
+    },
+    {
+      "name": "LEM FBE UII",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@lemfbeuii",
+      "follower_count": 4403,
+      "notes": "Fakultas Bisnis dan Ekonomika executive."
+    },
+    {
+      "name": "LEM FTSP UII",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@lemftsp.uii",
+      "follower_count": 2352,
+      "notes": "Fakultas Teknik Sipil dan Perencanaan executive."
+    },
+    {
+      "name": "LEM FMIPA UII",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@lem_fmipauii",
+      "follower_count": 3338,
+      "notes": "Fakultas MIPA executive."
+    },
+    {
+      "name": "LEM FK UII",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@lem_fkuii",
+      "follower_count": null,
+      "notes": "Fakultas Kedokteran executive."
+    },
+    {
+      "name": "LEM FTI UII",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@lemftiuii",
+      "follower_count": null,
+      "notes": "Fakultas Teknologi Industri executive."
+    },
+    {
+      "name": "DPM FPSB UII",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfpsb.uii",
+      "follower_count": null,
+      "notes": "Faculty legislative body (FPSB)."
+    },
+    {
+      "name": "UKM Bola Voli UII",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmvoliuii",
+      "follower_count": null,
+      "notes": "University volleyball UKM."
+    },
+    {
+      "name": "UKM Badminton UII",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@badminton_unisi",
+      "follower_count": null,
+      "notes": "University badminton UKM (handle uses 'unisi')."
+    }
+  ]
+}

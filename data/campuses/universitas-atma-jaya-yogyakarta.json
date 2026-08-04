@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-atma-jaya-yogyakarta",
+  "name": "Universitas Atma Jaya Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Yogyakarta",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.uajy.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Hukum UAJY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuajy",
+      "follower_count": null,
+      "notes": "Student executive body, Faculty of Law (2025/2026)."
+    },
+    {
+      "name": "BEM FISIP UAJY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipuajy",
+      "follower_count": null,
+      "notes": "Student executive body, Faculty of Social and Political Sciences."
+    },
+    {
+      "name": "Senat Mahasiswa FTI UAJY",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semafti.uajy",
+      "follower_count": null,
+      "notes": "Faculty-level student senate (legislative), Faculty of Industrial Technology. UAJY uses a faculty Senat/BEM structure; no single university-wide BEM handle verifiable."
+    },
+    {
+      "name": "BPM FBE UAJY",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfbeuajy",
+      "follower_count": null,
+      "notes": "Badan Perwakilan Mahasiswa (legislative), Faculty of Business and Economics."
+    },
+    {
+      "name": "HIMAFORKA UAJY",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himaforka.uajy",
+      "follower_count": null,
+      "notes": "Student association (HIMA) at UAJY."
+    },
+    {
+      "name": "HMPSM FBE UAJY (Manajemen)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmpsmfbeuajy",
+      "follower_count": null,
+      "notes": "Management study-program association, Faculty of Business and Economics."
+    }
+  ]
+}

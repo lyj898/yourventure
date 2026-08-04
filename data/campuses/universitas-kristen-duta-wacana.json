@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-kristen-duta-wacana",
+  "name": "Universitas Kristen Duta Wacana",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Yogyakarta",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.ukdw.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Teknologi Informasi UKDW",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftiukdw",
+      "follower_count": 748,
+      "notes": "Student executive body, Faculty of Information Technology. Email bem@fti.ukdw.ac.id."
+    },
+    {
+      "name": "BEM Fakultas Bioteknologi UKDW",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemf_biotekukdw",
+      "follower_count": null,
+      "notes": "Student executive body, Faculty of Biotechnology."
+    }
+  ]
+}

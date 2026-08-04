@@ -1,0 +1,116 @@
+{
+  "slug": "universitas-gadjah-mada",
+  "name": "Universitas Gadjah Mada",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://ugm.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UGM",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.ugm",
+      "follower_count": 100000,
+      "notes": "University-wide student executive (BEM KM UGM), 2026 cabinet. ~100K followers (approximate)."
+    },
+    {
+      "name": "BEM KMFT UGM (Teknik)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmftugm",
+      "follower_count": 16000,
+      "notes": "Faculty of Engineering exec body. Website bem.ft.ugm.ac.id."
+    },
+    {
+      "name": "BEM FEB UGM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebugm",
+      "follower_count": 17000,
+      "notes": "Faculty of Economics & Business, 2026 cabinet 'Ranacita'."
+    },
+    {
+      "name": "BEM KM FMIPA UGM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfmipaugm",
+      "follower_count": 6284,
+      "notes": "Faculty of Mathematics & Natural Sciences."
+    },
+    {
+      "name": "BEM KM FKG UGM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkgugm",
+      "follower_count": 6828,
+      "notes": "Faculty of Dentistry."
+    },
+    {
+      "name": "BEM FK-KMK UGM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkkmkugm",
+      "follower_count": null,
+      "notes": "Faculty of Medicine, Public Health & Nursing (FK-KMK)."
+    },
+    {
+      "name": "BEM FKH UGM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkhugm",
+      "follower_count": 4687,
+      "notes": "Faculty of Veterinary Medicine."
+    },
+    {
+      "name": "BEM KM SV UGM (Sekolah Vokasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmsvugm",
+      "follower_count": 13000,
+      "notes": "Vocational School exec body, cabinet 'Pijar Resonansi'."
+    },
+    {
+      "name": "DEMA Fisipol UGM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafisipolugm",
+      "follower_count": 7327,
+      "notes": "Student council of Faculty of Social & Political Sciences (Fisipol)."
+    },
+    {
+      "name": "DPM KM SV UGM",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmkmsvugm",
+      "follower_count": null,
+      "notes": "Legislative body (DPM) for Sekolah Vokasi."
+    },
+    {
+      "name": "Senat Mahasiswa FTP UGM",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semaftpugm",
+      "follower_count": null,
+      "notes": "Faculty-level student senate, Faculty of Agricultural Technology (FTP)."
+    },
+    {
+      "name": "UKM Atletik UGM",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmatletikugm",
+      "follower_count": 541,
+      "notes": "University athletics/running UKM; trains at Stadion Pancasila UGM."
+    },
+    {
+      "name": "KAGAMA Lari (Klub Runners UGM)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@klubrunnersugm",
+      "follower_count": 4014,
+      "notes": "UGM/KAGAMA running community (alumni-affiliated, not a student UKM)."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "universitas-negeri-yogyakarta",
+  "name": "Universitas Negeri Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://uny.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UNY (REMA)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.uny",
+      "follower_count": 41000,
+      "notes": "University-wide student executive, 2026 cabinet 'Akselerasi Sinergi'."
+    },
+    {
+      "name": "DPM KM UNY",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmuny",
+      "follower_count": null,
+      "notes": "University legislative body; website dpm.student.uny.ac.id."
+    },
+    {
+      "name": "BEM KM FIP UNY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfipuny",
+      "follower_count": 8834,
+      "notes": "Faculty of Education (FIP)."
+    },
+    {
+      "name": "BEM FT UNY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_ftuny",
+      "follower_count": 8623,
+      "notes": "Faculty of Engineering (FT)."
+    },
+    {
+      "name": "BEM KM FISIP UNY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipuny",
+      "follower_count": 9253,
+      "notes": "Faculty of Social Sciences (FISIP)."
+    },
+    {
+      "name": "BEM FMIPA UNY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfmipauny",
+      "follower_count": 13000,
+      "notes": "Faculty of Mathematics & Natural Sciences (FMIPA)."
+    },
+    {
+      "name": "BEM KM FEB UNY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfebuny",
+      "follower_count": 3441,
+      "notes": "Faculty of Economics & Business (FEB)."
+    },
+    {
+      "name": "BEM KM FV UNY (Vokasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemvokasiuny",
+      "follower_count": 4339,
+      "notes": "Faculty of Vocational (FV)."
+    },
+    {
+      "name": "BEM FBSB UNY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfbsbuny",
+      "follower_count": null,
+      "notes": "Faculty of Languages, Arts & Culture (FBSB)."
+    },
+    {
+      "name": "DPM KM FISHIPOL UNY",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfishipoluny",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body (FISHIPOL/FISIP)."
+    },
+    {
+      "name": "UKM Atletik UNY",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmatletikuny",
+      "follower_count": 1819,
+      "notes": "University athletics/running UKM; trains at Stadion Atletik UNY. Strong athletics tradition."
+    },
+    {
+      "name": "HIMA PKO FIKK UNY",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himapkofikkuny",
+      "follower_count": 2351,
+      "notes": "Sports Coaching Education dept association, Faculty of Sports Science & Health (FIKK)."
+    }
+  ]
+}

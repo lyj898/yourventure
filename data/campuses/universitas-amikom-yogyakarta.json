@@ -1,0 +1,68 @@
+{
+  "slug": "universitas-amikom-yogyakarta",
+  "name": "Universitas Amikom Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://www.amikom.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM Universitas Amikom Yogyakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemamikomyk",
+      "follower_count": 4053,
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa)."
+    },
+    {
+      "name": "Senat Mahasiswa Amikom Yogyakarta (SEMA)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@sema.amikomyk",
+      "follower_count": 981,
+      "notes": "University-level student senate (legislative body)."
+    },
+    {
+      "name": "Amikom Football Club (AFC)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@afc.amikomjogja",
+      "follower_count": null,
+      "notes": "Sports BSO with Football and Futsal divisions."
+    },
+    {
+      "name": "Amikom Basketball Club (ABBC)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@amikom_basketball",
+      "follower_count": null,
+      "notes": "Basketball sports BSO."
+    },
+    {
+      "name": "UKM Taekwondo Amikom",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondoamikom",
+      "follower_count": null,
+      "notes": "Martial-arts sports UKM."
+    },
+    {
+      "name": "UKM Shorinji Kempo Amikom",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@shorinjikempoamikom",
+      "follower_count": null,
+      "notes": "Martial-arts sports UKM."
+    },
+    {
+      "name": "UKM Pencak Silat Amikom",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@pencaksilatamikom",
+      "follower_count": null,
+      "notes": "Martial-arts sports UKM."
+    }
+  ]
+}

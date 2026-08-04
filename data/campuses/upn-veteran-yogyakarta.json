@@ -1,0 +1,60 @@
+{
+  "slug": "upn-veteran-yogyakarta",
+  "name": "UPN Veteran Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://upnyk.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UPN Veteran Yogyakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmupnvyk",
+      "follower_count": 18000,
+      "notes": "University-wide student executive, 2026 cabinet 'Pijar Nalar'."
+    },
+    {
+      "name": "DPM KM UPN Veteran Yogyakarta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmkmupnvyk",
+      "follower_count": null,
+      "notes": "University legislative body (DPM)."
+    },
+    {
+      "name": "BEM FEB UPNVY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebupnvy",
+      "follower_count": 9440,
+      "notes": "Faculty of Economics & Business."
+    },
+    {
+      "name": "BEM FTI UPNVY",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfti_upnyk",
+      "follower_count": 9168,
+      "notes": "Faculty of Industrial Technology (FTI)."
+    },
+    {
+      "name": "BEM FISIP UPN Veteran Yogyakarta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipupnyk",
+      "follower_count": 7971,
+      "notes": "Faculty of Social & Political Sciences (FISIP)."
+    },
+    {
+      "name": "DPM FEB UPNVY",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfebupnvy",
+      "follower_count": 1648,
+      "notes": "Faculty-level legislative council, FEB."
+    }
+  ]
+}
