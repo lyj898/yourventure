@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-nahdlatul-ulama-surabaya",
+  "name": "Universitas Nahdlatul Ulama Surabaya (Unusa)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://unusa.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Nahdlatul Ulama Surabaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunusa",
+      "follower_count": 6431,
+      "notes": "University-wide student executive board. Contact bem@unusa.ac.id."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran Unusa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkunusa",
+      "follower_count": 2166,
+      "notes": "Faculty of Medicine student executive (Kabinet Bhumi Amerta)."
+    },
+    {
+      "name": "BEM Fakultas Keperawatan dan Kebidanan Unusa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkk_unusa",
+      "follower_count": null,
+      "notes": "Faculty of Nursing and Midwifery student executive."
+    },
+    {
+      "name": "BEM Fakultas Kesehatan Unusa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.fkesunusa",
+      "follower_count": null,
+      "notes": "Faculty of Health student executive (Kabinet Arthaswasthya)."
+    }
+  ]
+}

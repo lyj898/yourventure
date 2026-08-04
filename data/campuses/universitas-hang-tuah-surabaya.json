@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-hang-tuah-surabaya",
+  "name": "Universitas Hang Tuah Surabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://hangtuah.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Hang Tuah",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_uht",
+      "follower_count": null,
+      "notes": "University-wide student executive board. Runs Kementerian Pemuda dan Olahraga (e.g. NOSE CUP UHT)."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran UHT",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkuht",
+      "follower_count": 3407,
+      "notes": "Faculty of Medicine student executive board."
+    },
+    {
+      "name": "UKM Bola Basket Universitas Hang Tuah",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbasketuht_",
+      "follower_count": null,
+      "notes": "Basketball student activity unit. A related account @timbasketuht also exists."
+    }
+  ]
+}

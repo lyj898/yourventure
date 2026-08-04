@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-pgri-adi-buana-surabaya",
+  "name": "Universitas PGRI Adi Buana Surabaya (Unipa Surabaya)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://unipasby.ac.id",
+  "orgs": [
+    {
+      "name": "Senat Mahasiswa Universitas PGRI Adi Buana Surabaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@semaunipasby",
+      "follower_count": null,
+      "notes": "University-level student body. Unipa uses a Senat Mahasiswa (SEMA) structure rather than BEM."
+    },
+    {
+      "name": "Senat Mahasiswa Fakultas Teknik Unipa Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semateknikunipa_sby",
+      "follower_count": null,
+      "notes": "Faculty of Engineering student senate."
+    },
+    {
+      "name": "UKM Futsal Adi Buana Surabaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmfutsalunipa",
+      "follower_count": null,
+      "notes": "Futsal student activity unit."
+    },
+    {
+      "name": "UKM PSHT Unipa Surabaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmpsht_unipasby",
+      "follower_count": null,
+      "notes": "Pencak silat (PSHT) martial arts student activity unit."
+    }
+  ]
+}

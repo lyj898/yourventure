@@ -1,0 +1,68 @@
+{
+  "slug": "universitas-ciputra-surabaya",
+  "name": "Universitas Ciputra Surabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.ciputra.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Ciputra (Student Council UC)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@studentcounciluc",
+      "follower_count": 6165,
+      "notes": "University-wide student executive board / Student Council."
+    },
+    {
+      "name": "ISB Student Union Universitas Ciputra",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@suisb_uc",
+      "follower_count": null,
+      "notes": "Faculty-level (School of Business) student union - faculty BEM equivalent."
+    },
+    {
+      "name": "IMT UC Student Union",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@uc_imtsu",
+      "follower_count": null,
+      "notes": "Faculty-level (Information & Media Technology / IMT) student union - faculty BEM equivalent."
+    },
+    {
+      "name": "UC Futsal",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@uc_futsal",
+      "follower_count": null,
+      "notes": "Futsal UKM."
+    },
+    {
+      "name": "UC Basket",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@uc.basket",
+      "follower_count": null,
+      "notes": "Basketball UKM."
+    },
+    {
+      "name": "UKM Pencak Silat Universitas Ciputra",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@pencaksilat.uc",
+      "follower_count": null,
+      "notes": "Pencak silat martial arts UKM."
+    },
+    {
+      "name": "Ciputra Run / Ciputra Color Run",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ciputrarun.uc",
+      "follower_count": 1479,
+      "notes": "Student-run running event account (part of Ciputra Fair). Annual running event rather than a standing club."
+    }
+  ]
+}
