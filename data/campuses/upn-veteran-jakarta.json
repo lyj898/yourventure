@@ -1,0 +1,132 @@
+{
+  "slug": "upn-veteran-jakarta",
+  "name": "Universitas Pembangunan Nasional Veteran Jakarta",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.upnvj.ac.id",
+  "orgs": [
+    {
+      "name": "BEM UPN Veteran Jakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_upnvj",
+      "follower_count": null,
+      "notes": "University-wide student executive body. Linktree linktr.ee/bem.upnvj; email bem@upnvj.ac.id. Main campus Pondok Labu (Jakarta Selatan); second campus in Limo, Depok."
+    },
+    {
+      "name": "MPM UPN Veteran Jakarta (Majelis Permusyawaratan Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpmupnvj",
+      "follower_count": null,
+      "notes": "Highest student legislative body of KEMA UPNVJ; named MPM (not DPM) here. Site mpm.upnvj.ac.id."
+    },
+    {
+      "name": "BEM Fakultas Hukum UPNVJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Law executive body."
+    },
+    {
+      "name": "BEM FEB UPNVJ (Ekonomi dan Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_febupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Economics and Business executive body."
+    },
+    {
+      "name": "BEM FT UPNVJ (Teknik)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Engineering executive body."
+    },
+    {
+      "name": "BEM FIKES UPNVJ (Ilmu Kesehatan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikesupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Health Sciences executive body."
+    },
+    {
+      "name": "BEM FISIP UPNVJ (Ilmu Sosial dan Ilmu Politik)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Social and Political Sciences executive body; Kabinet Inspira."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran UPNVJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Medicine executive body. Corroborated via fk.upnvj.ac.id."
+    },
+    {
+      "name": "BEM FIK UPNVJ (Ilmu Komputer)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikupnvj",
+      "follower_count": null,
+      "notes": "Faculty of Computer Science executive body. Confirmed on new-fik.upnvj.ac.id/bemfik."
+    },
+    {
+      "name": "UKM Taekwondo UPNVJ",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondo.upnvj",
+      "follower_count": null,
+      "notes": "University-level taekwondo sports unit."
+    },
+    {
+      "name": "UVFC - Sepakbola & Futsal UPNVJ",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@uvfc_upnvj",
+      "follower_count": null,
+      "notes": "Football & futsal unit (UPNVJ Veteran Football Club)."
+    },
+    {
+      "name": "Basket Veteran Jakarta (BVJ)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@basketupnvj",
+      "follower_count": null,
+      "notes": "Basketball unit, est. 1985. Listed on official UPNVJ UKM pages; email basketveteran@upnvj.ac.id."
+    },
+    {
+      "name": "VIMAVEJA - Voli Mahasiswa Veteran Jakarta",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@voliveteranjakarta",
+      "follower_count": null,
+      "notes": "Volleyball unit, est. 1998; practices at Pondok Labu campus. Email vimaveja@upnvj.ac.id."
+    },
+    {
+      "name": "UKM Bulutangkis UPNVJ (Buveja)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbuveja",
+      "follower_count": null,
+      "notes": "Badminton unit (Badminton Veteran Jakarta). Email bulutangkis@upnvj.ac.id."
+    },
+    {
+      "name": "MAPALA UPN Veteran Jakarta",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@mapalaupnvj",
+      "follower_count": null,
+      "notes": "Nature/mountaineering (outdoor sports) unit."
+    }
+  ]
+}

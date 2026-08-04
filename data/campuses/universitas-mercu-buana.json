@@ -1,0 +1,116 @@
+{
+  "slug": "universitas-mercu-buana",
+  "name": "Universitas Mercu Buana",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.mercubuana.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FEB UMB (Fakultas Ekonomi & Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeb.umb",
+      "follower_count": null,
+      "notes": "Official BEM Fakultas Ekonomi & Bisnis, Meruya campus. Faculty site cites variant @bemfebumb but active account is @bemfeb.umb."
+    },
+    {
+      "name": "BEM FASILKOM UMB (Fakultas Ilmu Komputer)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfasilkom.umb",
+      "follower_count": null,
+      "notes": "Official BEM Fakultas Ilmu Komputer; contact bemfasilkom@mercubuana.ac.id, Jakarta campus."
+    },
+    {
+      "name": "BEM FIKOM UMB (Fakultas Ilmu Komunikasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikomumb",
+      "follower_count": null,
+      "notes": "Official BEM Fakultas Ilmu Komunikasi. Faculty account is @fikom.umb (Jakarta)."
+    },
+    {
+      "name": "DPM FEB UMB (Fakultas Ekonomi & Bisnis)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfebumb",
+      "follower_count": null,
+      "notes": "Faculty-level student legislative body (FEB). Secretariat Gedung B, Jl. Meruya Selatan No.1, Jakarta Barat. No university-wide BEM/DPM Instagram handle could be corroborated."
+    },
+    {
+      "name": "HIMTI UMB (Himpunan Mahasiswa Teknik Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himti.umb",
+      "follower_count": null,
+      "notes": "Bio identifies Universitas Mercu Buana (Jakarta); site himtimercubuana.org."
+    },
+    {
+      "name": "HIMSISFO UMB (Himpunan Mahasiswa Sistem Informasi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himsisfo_umb",
+      "follower_count": null,
+      "notes": "Bio explicitly states 'UNIVERSITAS MERCU BUANA JAKARTA'."
+    },
+    {
+      "name": "UKM Futsal Mercu Buana Jakarta",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsal.umb",
+      "follower_count": null,
+      "notes": "Bio: 'UKM FUTSAL MERCU BUANA JAKARTA'. Contact ukmfutsal.umb@gmail.com."
+    },
+    {
+      "name": "UKM Sepakbola / Mercu Buana Football Club",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukm_sepakbolamercubuana",
+      "follower_count": null,
+      "notes": "University football unit ('MERCUBUANA FOOTBALL CLUB')."
+    },
+    {
+      "name": "UKM Bola Voli / Mercu Buana Volleyball Club",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbolavoli.umb",
+      "follower_count": null,
+      "notes": "Official Volleyball Club (links to Jakarta main university account)."
+    },
+    {
+      "name": "UKM Badminton / Bulutangkis Mercu Buana",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbadminton.umb",
+      "follower_count": null,
+      "notes": "'Official Account of UKM Badminton Mercu Buana'. Uses .umb (Jakarta) naming; campus not explicitly stated."
+    },
+    {
+      "name": "UKM Karate Mercu Buana",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@karate.umb",
+      "follower_count": null,
+      "notes": "'Akun Resmi UKM Karate Mercubuana'. Uses .umb (Jakarta) convention; campus not explicitly stated."
+    },
+    {
+      "name": "UKM Literasi Universitas Mercu Buana",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmliterasi.umb",
+      "follower_count": null,
+      "notes": "Literacy UKM; Jakarta-campus hashtags."
+    },
+    {
+      "name": "MBEC (Mercu Buana English Club)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@mbec.umb",
+      "follower_count": null,
+      "notes": "Official Mercu Buana English Club UKM."
+    }
+  ]
+}

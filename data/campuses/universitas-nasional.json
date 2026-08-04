@@ -1,0 +1,84 @@
+{
+  "slug": "universitas-nasional",
+  "name": "Universitas Nasional",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.unas.ac.id",
+  "orgs": [
+    {
+      "name": "HIMAKOM UNAS (Himpunan Mahasiswa Ilmu Komunikasi, FISIP)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himakom_unas",
+      "follower_count": null,
+      "notes": "UNAS student governance runs mainly through program-level HIMAs; FISIP UNAS publicly stated it has no faculty BEM. No university-wide BEM/DPM or sports UKM Instagram handle could be corroborated."
+    },
+    {
+      "name": "HIMAJEM UNAS (Himpunan Mahasiswa Manajemen, FEB)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himajem_unas",
+      "follower_count": null,
+      "notes": "Management student association."
+    },
+    {
+      "name": "HIMAPUBLIK UNAS (Administrasi Publik, FISIP)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himapublik_unas",
+      "follower_count": null,
+      "notes": "Public Administration student association."
+    },
+    {
+      "name": "HIMAKUM UNAS (Himpunan Mahasiswa Hukum, FH)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himakum_unas",
+      "follower_count": null,
+      "notes": "Law student association."
+    },
+    {
+      "name": "HIMAHI UNAS (Hubungan Internasional, FISIP)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himahi_unas",
+      "follower_count": null,
+      "notes": "International Relations student association."
+    },
+    {
+      "name": "HMM UNAS (Himpunan Mahasiswa Mesin, FTS)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmm_unas",
+      "follower_count": null,
+      "notes": "Mechanical Engineering student association, Fakultas Teknik dan Sains."
+    },
+    {
+      "name": "HIMABIO UNAS (Himpunan Mahasiswa Biologi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himabio_unas",
+      "follower_count": null,
+      "notes": "Biology student association, Fakultas Biologi dan Pertanian."
+    },
+    {
+      "name": "Fakultas Hukum UNAS",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@fhunas_1949",
+      "follower_count": null,
+      "notes": "Official Faculty of Law account (faculty-level, not a BEM). Included as no faculty BEM exists."
+    },
+    {
+      "name": "Fakultas Teknik dan Sains (FTS) UNAS",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@fts_unas",
+      "follower_count": null,
+      "notes": "Official Faculty of Engineering & Sciences account (faculty-level, not a BEM)."
+    }
+  ]
+}

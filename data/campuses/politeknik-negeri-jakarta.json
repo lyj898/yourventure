@@ -1,0 +1,108 @@
+{
+  "slug": "politeknik-negeri-jakarta",
+  "name": "Politeknik Negeri Jakarta",
+  "type": "Politeknik",
+  "ownership": "Negeri",
+  "city": "Depok",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://www.pnj.ac.id",
+  "orgs": [
+    {
+      "name": "BEM PNJ",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempnj",
+      "follower_count": null,
+      "notes": "Top student executive body of PNJ (operates on the UI Depok campus). Cabinet rotates yearly (recently Tritantra Shakti). Email contact.bempnj@gmail.com."
+    },
+    {
+      "name": "MPM PNJ (Majelis Permusyawaratan Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpm_pnj",
+      "follower_count": null,
+      "notes": "Student legislative/consultative body; named MPM at PNJ. Confirmed via mpm.pnj.ac.id and linktr.ee/MPM_PNJ."
+    },
+    {
+      "name": "Himpunan Mahasiswa Sipil PNJ (HMS - Teknik Sipil)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hms_pnj",
+      "follower_count": null,
+      "notes": "Department association (HMJ) for Teknik Sipil."
+    },
+    {
+      "name": "Himpunan Mahasiswa Mesin PNJ (HMM - Teknik Mesin)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmm.pnj",
+      "follower_count": null,
+      "notes": "Department association for Teknik Mesin."
+    },
+    {
+      "name": "Himpunan Mahasiswa Elektro PNJ (HME - Teknik Elektro)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hme_pnj",
+      "follower_count": null,
+      "notes": "Department association for Teknik Elektro. Confirmed via elektro.pnj.ac.id."
+    },
+    {
+      "name": "Himpunan Mahasiswa Grafika Penerbitan PNJ (HMGP)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmgp_pnj",
+      "follower_count": null,
+      "notes": "Department association for Teknik Grafika dan Penerbitan. Confirmed via grafika.pnj.ac.id."
+    },
+    {
+      "name": "Himpunan Mahasiswa Jurusan Akuntansi PNJ (HMJA)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmja_pnj",
+      "follower_count": null,
+      "notes": "Department association for Akuntansi. Confirmed via akuntansi.pnj.ac.id."
+    },
+    {
+      "name": "Himpunan Mahasiswa Administrasi Niaga PNJ (HMAN)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hman_pnj",
+      "follower_count": null,
+      "notes": "Department association for Administrasi Niaga/Bisnis."
+    },
+    {
+      "name": "HIMATIK PNJ (Teknik Informatika dan Komputer)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himatikpnj",
+      "follower_count": null,
+      "notes": "Department association for TIK. Department office account is separate (@jtik_pnj)."
+    },
+    {
+      "name": "UKM Voli PNJ / Polytechnic Volleyball Club (Polvoc)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmvolipnj",
+      "follower_count": null,
+      "notes": "Volleyball sports UKM. Trains at SOR UI."
+    },
+    {
+      "name": "UKM Taekwondo PNJ",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondo.pnj",
+      "follower_count": null,
+      "notes": "Taekwondo sports UKM; trains at Pusgiwa PNJ."
+    },
+    {
+      "name": "UKM Kesenian PNJ (Pankreas)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@pankreaspnj",
+      "follower_count": null,
+      "notes": "Arts & creativity UKM (non-sports). Official ukm-pankreas.pnj.ac.id."
+    }
+  ]
+}

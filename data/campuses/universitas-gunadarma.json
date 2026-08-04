@@ -1,0 +1,148 @@
+{
+  "slug": "universitas-gunadarma",
+  "name": "Universitas Gunadarma",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Depok",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://www.gunadarma.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FTI Gunadarma (Fakultas Teknologi Industri)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@ug_bemfti",
+      "follower_count": null,
+      "notes": "Student executive board, Faculty of Industrial Technology."
+    },
+    {
+      "name": "BEM FIKTI UG (Ilmu Komputer & Teknologi Informasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@ug_bemfikti",
+      "follower_count": null,
+      "notes": "Student executive board, Faculty of Computer Science & IT; also fikti.bem.gunadarma.ac.id."
+    },
+    {
+      "name": "BEM FE Gunadarma (Fakultas Ekonomi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeug",
+      "follower_count": null,
+      "notes": "Student executive board, Faculty of Economics. Secondary handle @bemfe.ug also exists."
+    },
+    {
+      "name": "BEM FTSP Gunadarma (Teknik Sipil & Perencanaan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@ftsp_ug",
+      "follower_count": null,
+      "notes": "Bio confirms 'Badan Eksekutif Mahasiswa Fakultas Teknik Sipil & Perencanaan'."
+    },
+    {
+      "name": "BEM FSB Gunadarma (Fakultas Sastra/Ilmu Budaya)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfsb_ug",
+      "follower_count": null,
+      "notes": "Student executive board, Faculty of Letters & Culture."
+    },
+    {
+      "name": "BEMF Psikologi Gunadarma",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpsikologi_ug",
+      "follower_count": null,
+      "notes": "Student executive board, Faculty of Psychology; linked Facebook BEMFPsiUG."
+    },
+    {
+      "name": "BEM FIKOM UG (Fakultas Ilmu Komunikasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikom_ug",
+      "follower_count": null,
+      "notes": "Student executive board, Faculty of Communication Sciences."
+    },
+    {
+      "name": "Gunadarma Running Club (GundaRuns)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@gundaruns",
+      "follower_count": null,
+      "notes": "Campus running club."
+    },
+    {
+      "name": "Gunadarma Runners | GundaRun",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ugrunners",
+      "follower_count": null,
+      "notes": "Running community for Gunadarma students; weekly Sunday runs."
+    },
+    {
+      "name": "Gunadarma Basketball (UKM Basket)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@basketgunadarma",
+      "follower_count": null,
+      "notes": "University basketball unit."
+    },
+    {
+      "name": "Gunadarma Volleyball Club (UKM Voli)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmvolleygunadarma",
+      "follower_count": null,
+      "notes": "University volleyball unit."
+    },
+    {
+      "name": "UKM Esports Gunadarma",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@gunadarma.esports",
+      "follower_count": null,
+      "notes": "Official esports unit. Related handle @gunadarma_esports also appears."
+    },
+    {
+      "name": "Sports Center Universitas Gunadarma",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@sc.gunadarma",
+      "follower_count": null,
+      "notes": "University sports-center hub (Campus H, Depok); facility/hub account rather than a single UKM."
+    },
+    {
+      "name": "UKM Bulutangkis Gunadarma Kalimalang",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukbkalimalang",
+      "follower_count": null,
+      "notes": "Badminton unit (Kalimalang campus)."
+    },
+    {
+      "name": "HIMSI UG (Himpunan Mahasiswa Sistem Informasi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himsi.ug",
+      "follower_count": null,
+      "notes": "Information Systems student association."
+    },
+    {
+      "name": "HIMTI Gunadarma (Teknik Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himtiug",
+      "follower_count": null,
+      "notes": "Informatics Engineering student association."
+    },
+    {
+      "name": "HMM Gunadarma (Himpunan Mahasiswa Mesin)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmmgunadarma",
+      "follower_count": null,
+      "notes": "Mechanical Engineering student association."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "universitas-pancasila",
+  "name": "Universitas Pancasila",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://univpancasila.ac.id/",
+  "orgs": [
+    {
+      "name": "Senat KMUP (Senat Keluarga Mahasiswa Universitas Pancasila)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@senat.kmup",
+      "follower_count": null,
+      "notes": "University-wide student executive body (functions as BEM). Uses a Keluarga Mahasiswa/KMUP model. Handles rotate yearly."
+    },
+    {
+      "name": "SEMA FT-KMUP (Senat Mahasiswa Fakultas Teknik)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@sema_ftkmup",
+      "follower_count": null,
+      "notes": "Faculty executive body (SEMA = BEM Fakultas equivalent), Fakultas Teknik."
+    },
+    {
+      "name": "SEMA FEB-KMUP (Fakultas Ekonomi & Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafebkmup_",
+      "follower_count": null,
+      "notes": "Faculty executive body, Fakultas Ekonomi & Bisnis."
+    },
+    {
+      "name": "SEMA FH-KMUP (Fakultas Hukum)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafhkmup",
+      "follower_count": null,
+      "notes": "Faculty executive body, Fakultas Hukum."
+    },
+    {
+      "name": "SEMA FIKOM-KMUP (Fakultas Ilmu Komunikasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafikom_kmup",
+      "follower_count": null,
+      "notes": "Faculty executive body, FIKOM; inaugurated with BPM FIKOM for 2024/2025."
+    },
+    {
+      "name": "SEMA F.Psi-KMUP (Fakultas Psikologi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafpsikmup",
+      "follower_count": null,
+      "notes": "Faculty executive body, Fakultas Psikologi."
+    },
+    {
+      "name": "BPM FIKOM-KMUP (Badan Perwakilan Mahasiswa, FIKOM)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfikom_kmup",
+      "follower_count": null,
+      "notes": "Faculty legislative/representative body (BPM = DPM equivalent), FIKOM."
+    },
+    {
+      "name": "UKM Bola Basket KMUP (Pancasila Basketball)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@pancasila.basketball",
+      "follower_count": null,
+      "notes": "University basketball unit."
+    },
+    {
+      "name": "UKM Bola KMUP (Sepak Bola & Futsal)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbolakmup",
+      "follower_count": null,
+      "notes": "University football & futsal unit; runs Pancasila Futsal Cup."
+    },
+    {
+      "name": "UKM Taekwondo Universitas Pancasila",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondo_pancasila",
+      "follower_count": null,
+      "notes": "University taekwondo unit."
+    },
+    {
+      "name": "UKM Karate KMUP",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@karatekmup",
+      "follower_count": null,
+      "notes": "University karate unit."
+    },
+    {
+      "name": "FC Psyche UP (Futsal Fakultas Psikologi)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsalpsikologipancasila",
+      "follower_count": null,
+      "notes": "Faculty-level (Psikologi) futsal club."
+    }
+  ]
+}

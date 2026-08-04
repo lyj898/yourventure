@@ -1,0 +1,116 @@
+{
+  "slug": "universitas-trisakti",
+  "name": "Universitas Trisakti",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://trisakti.ac.id",
+  "orgs": [
+    {
+      "name": "Kepresidenan Mahasiswa Universitas Trisakti",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@kepresmausakti",
+      "follower_count": null,
+      "notes": "University-wide student executive body (uses 'Kepresidenan Mahasiswa' naming instead of BEM Universitas)."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran (FK)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkusakti",
+      "follower_count": null,
+      "notes": "Faculty of Medicine."
+    },
+    {
+      "name": "BEM Fakultas Ekonomi dan Bisnis (FEB)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebusakti",
+      "follower_count": null,
+      "notes": "Faculty of Economics & Business, Campus A Grogol."
+    },
+    {
+      "name": "BEM Fakultas Teknik Sipil dan Perencanaan (FTSP)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftspusakti",
+      "follower_count": null,
+      "notes": "Faculty of Civil Engineering & Planning."
+    },
+    {
+      "name": "BEM Fakultas Teknologi Industri (FTI)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftiusakti",
+      "follower_count": null,
+      "notes": "Faculty of Industrial Technology."
+    },
+    {
+      "name": "BEM Fakultas Teknologi Kebumian dan Energi (FTKE)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftkeusakti",
+      "follower_count": null,
+      "notes": "Faculty of Earth Technology & Energy."
+    },
+    {
+      "name": "BEM Fakultas Arsitektur Lanskap dan Teknologi Lingkungan (FALTL)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfaltltrisakti",
+      "follower_count": null,
+      "notes": "Faculty of Landscape Architecture & Environmental Technology."
+    },
+    {
+      "name": "BEM Fakultas Hukum (FH)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfh.trisakti",
+      "follower_count": null,
+      "notes": "Faculty of Law; newer account. Older account @bem.fh.usakti also exists."
+    },
+    {
+      "name": "UKM Futsal Usakti",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsaltrisaktiofficial",
+      "follower_count": null,
+      "notes": "Futsal unit, Grogol."
+    },
+    {
+      "name": "UKM Bola Voli Trisakti",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmvolitrisakti",
+      "follower_count": null,
+      "notes": "Volleyball unit."
+    },
+    {
+      "name": "UKM Badminton Usakti",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@badmintonusakti",
+      "follower_count": null,
+      "notes": "Badminton unit."
+    },
+    {
+      "name": "Trisakti Runners",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@trisakti.runners",
+      "follower_count": null,
+      "notes": "Running community for mahasiswa, alumni & civitas (run by Ikatan Alumni Universitas Trisakti); open to students. Weekly runs Wed 7PM."
+    },
+    {
+      "name": "Dewan Koordinasi UKM Usakti",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@dku_usakti",
+      "follower_count": null,
+      "notes": "Coordinating body over the university's UKMs; useful outreach hub. No university-level DPM/MPM/SEMA IG handle could be corroborated."
+    }
+  ]
+}

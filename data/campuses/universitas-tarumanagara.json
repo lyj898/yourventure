@@ -1,0 +1,132 @@
+{
+  "slug": "universitas-tarumanagara",
+  "name": "Universitas Tarumanagara (UNTAR)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://untar.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Tarumanagara",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.untar",
+      "follower_count": null,
+      "notes": "University-wide student executive body; also runs @bemuntar.projects."
+    },
+    {
+      "name": "DPM Universitas Tarumanagara",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmuntar",
+      "follower_count": null,
+      "notes": "University legislative body; reps from 8 faculties. Site dpmuntar.com."
+    },
+    {
+      "name": "BEM Fakultas Ekonomi dan Bisnis (FEB)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebuntar",
+      "follower_count": null,
+      "notes": "Faculty of Economics & Business."
+    },
+    {
+      "name": "BEM Fakultas Hukum (FH)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuntar",
+      "follower_count": null,
+      "notes": "Faculty of Law."
+    },
+    {
+      "name": "BEM Fakultas Teknik (FT)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemft_untar",
+      "follower_count": null,
+      "notes": "Faculty of Engineering."
+    },
+    {
+      "name": "BEM Fakultas Teknologi Informasi (FTI)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftiuntar",
+      "follower_count": null,
+      "notes": "Faculty of Information Technology."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran (FK)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkuntar",
+      "follower_count": null,
+      "notes": "Faculty of Medicine."
+    },
+    {
+      "name": "BEM Fakultas Psikologi",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsikountar",
+      "follower_count": null,
+      "notes": "Faculty of Psychology."
+    },
+    {
+      "name": "BEM Fakultas Seni Rupa dan Desain (FSRD)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfsrduntar",
+      "follower_count": null,
+      "notes": "Faculty of Fine Arts & Design."
+    },
+    {
+      "name": "BEM Fakultas Ilmu Komunikasi (Fikom)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikomuntar",
+      "follower_count": null,
+      "notes": "Faculty of Communication."
+    },
+    {
+      "name": "Tarumanagara Basketball",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@untarbasketball",
+      "follower_count": null,
+      "notes": "Basketball unit."
+    },
+    {
+      "name": "Futsal Tarumanagara",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsaluntar",
+      "follower_count": null,
+      "notes": "Futsal unit; runs LIFUTAR competition."
+    },
+    {
+      "name": "Liga Bola Voli Universitas Tarumanagara (LIVOSTA)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@livostauntar_",
+      "follower_count": null,
+      "notes": "Volleyball league/unit."
+    },
+    {
+      "name": "Liga Bulutangkis Universitas Tarumanagara",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@lbutarumanagara",
+      "follower_count": null,
+      "notes": "Badminton league/unit. No dedicated running/athletics UKM handle could be corroborated for UNTAR."
+    },
+    {
+      "name": "DPM Fakultas Psikologi UNTAR",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmpsikountar",
+      "follower_count": null,
+      "notes": "Faculty-level representative council (Psychology)."
+    }
+  ]
+}

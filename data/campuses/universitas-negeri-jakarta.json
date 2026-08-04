@@ -1,0 +1,27 @@
+{
+  "slug": "universitas-negeri-jakarta",
+  "name": "Universitas Negeri Jakarta",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Jakarta Timur",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.unj.ac.id",
+  "orgs": [
+    { "name": "BEM UNJ", "org_type": "BEM Universitas", "contact_type": "Instagram", "contact_value": "@bemunj_official", "follower_count": null, "notes": "University-wide student executive body. Handle is stable across yearly cabinet rotation (currently 'BEM UNJ 2026'). Email bemunjmail@gmail.com." },
+    { "name": "MTM UNJ (Majelis Tinggi Mahasiswa)", "org_type": "DPM", "contact_type": "Instagram", "contact_value": "@mtmunj_official", "follower_count": null, "notes": "University legislative body; at UNJ the legislature is named MTM (Majelis Tinggi Mahasiswa), part of OPMAWA." },
+    { "name": "BEM FIP UNJ (Ilmu Pendidikan)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemfipunj", "follower_count": null, "notes": "Faculty of Education executive body; Kabinet Kelapa Muda." },
+    { "name": "BEM FBS UNJ (Bahasa dan Seni)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemfbsunj", "follower_count": null, "notes": "Faculty of Languages and Arts executive body." },
+    { "name": "BEM FMIPA UNJ (Matematika dan IPA)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemf_mipaunj", "follower_count": null, "notes": "Faculty of Mathematics and Natural Sciences executive body. Corroborated by linktr.ee/BEMFMIPAUNJ." },
+    { "name": "BEM FISH UNJ (Ilmu Sosial dan Hukum)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemfishunj", "follower_count": null, "notes": "Faculty of Social Sciences and Law executive body (formerly FIS)." },
+    { "name": "BEM FT UNJ (Teknik)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemftunj", "follower_count": null, "notes": "Faculty of Engineering executive body." },
+    { "name": "BEM FIKK UNJ (Ilmu Keolahragaan dan Kesehatan)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemfikk_unj", "follower_count": null, "notes": "Faculty of Sports Science and Health executive body - relevant to sports/running outreach." },
+    { "name": "BEM FEB UNJ (Ekonomi dan Bisnis)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemfeb_unj", "follower_count": null, "notes": "Faculty of Economics and Business executive body. Website bemfeunj.com." },
+    { "name": "BEM FPPsi UNJ (Pendidikan Psikologi)", "org_type": "BEM Fakultas", "contact_type": "Instagram", "contact_value": "@bemfpsiunj", "follower_count": null, "notes": "Faculty of Educational Psychology executive body; Kabinet Daksha Pragati." },
+    { "name": "BPM FISH UNJ (Badan Perwakilan Mahasiswa)", "org_type": "DPM", "contact_type": "Instagram", "contact_value": "@bpmfish_unj", "follower_count": null, "notes": "Faculty-level legislative/representative body for FISH. UNJ uses 'BPM' for faculty legislative bodies." },
+    { "name": "BPM FEB UNJ (Badan Perwakilan Mahasiswa)", "org_type": "DPM", "contact_type": "Instagram", "contact_value": "@bpmfebunj", "follower_count": null, "notes": "Faculty-level legislative/representative body for FEB." },
+    { "name": "BPM FIP UNJ (Badan Perwakilan Mahasiswa)", "org_type": "DPM", "contact_type": "Instagram", "contact_value": "@bpmfip_unj", "follower_count": null, "notes": "Faculty-level legislative/representative body for FIP." },
+    { "name": "UKO Mahasiswa UNJ (Unit Kegiatan Olahraga)", "org_type": "UKM Olahraga/Lari", "contact_type": "Instagram", "contact_value": "@uko.unj", "follower_count": 4445, "notes": "University sports UKM / umbrella body; bio states it oversees 38 sports clubs at UNJ (incl. athletics). PRIORITY sports contact." },
+    { "name": "UNJ Runners", "org_type": "UKM Olahraga/Lari", "contact_type": "Instagram", "contact_value": "@unj_runners", "follower_count": 1080, "notes": "Running club; bio references Rawamangun Run Club / Stadion Atletik Velodrome. UNJ affiliation implied by name/location, not explicit in bio - reconfirm at outreach." }
+  ]
+}

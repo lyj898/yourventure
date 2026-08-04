@@ -1,0 +1,156 @@
+{
+  "slug": "uin-syarif-hidayatullah-jakarta",
+  "name": "Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Tangerang Selatan",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://www.uinjkt.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UIN Syarif Hidayatullah Jakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demauinjakarta_official",
+      "follower_count": null,
+      "notes": "University student executive body; at this Islamic state university it is called DEMA (Dewan Eksekutif Mahasiswa), equivalent to BEM. An alternate handle @demauinjkt_official also appears; rotates yearly - reconfirm current cabinet. Campus in Ciputat, Tangerang Selatan."
+    },
+    {
+      "name": "SEMA UIN Jakarta (Senat Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semauinjkt",
+      "follower_count": null,
+      "notes": "University legislative/senate body (SEMA = Senat Mahasiswa)."
+    },
+    {
+      "name": "DEMA FITK UIN Jakarta (Ilmu Tarbiyah dan Keguruan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafitk_official",
+      "follower_count": null,
+      "notes": "Faculty executive body (DEMA Fakultas) - Education & Teacher Training."
+    },
+    {
+      "name": "DEMA FSH UIN Jakarta (Syariah dan Hukum)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafshofficial",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Syariah dan Hukum."
+    },
+    {
+      "name": "DEMA FEB UIN Jakarta (Ekonomi dan Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafebuinjakarta",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Ekonomi dan Bisnis. A similar handle @demafeb_uinjkt also appears; this one treated as primary."
+    },
+    {
+      "name": "DEMA FDI UIN Jakarta (Dirasat Islamiyah)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafdi.uinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Dirasat Islamiyah."
+    },
+    {
+      "name": "DEMA FAH UIN Jakarta (Adab dan Humaniora)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafahuinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Adab dan Humaniora."
+    },
+    {
+      "name": "DEMA FST UIN Jakarta (Sains dan Teknologi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafst_uinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Sains dan Teknologi."
+    },
+    {
+      "name": "DEMA FISIP UIN Jakarta (Ilmu Sosial dan Ilmu Politik)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafisipuinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Ilmu Sosial dan Ilmu Politik; Kabinet Cakrawala."
+    },
+    {
+      "name": "DEMA FIKES UIN Jakarta (Ilmu Kesehatan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafikesuinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Ilmu Kesehatan; Kabinet Arkana Seva."
+    },
+    {
+      "name": "DEMA FK UIN Jakarta (Kedokteran)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@dema.fkuinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Kedokteran; Kabinet Athena."
+    },
+    {
+      "name": "DEMA FDIKOM UIN Jakarta (Dakwah dan Ilmu Komunikasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafdikomuinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Dakwah dan Ilmu Komunikasi. A near-identical handle @demafidkomuinjkt also appears; this one is primary."
+    },
+    {
+      "name": "DEMA Fakultas Psikologi UIN Jakarta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafpsiuinjkt",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Psikologi."
+    },
+    {
+      "name": "DEMA Fakultas Ushuluddin UIN Jakarta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demaushuluddin.uinjakarta",
+      "follower_count": null,
+      "notes": "DEMA Fakultas Ushuluddin. Smaller/lower-activity account."
+    },
+    {
+      "name": "FORSA UIN Jakarta (Federasi Olahraga Mahasiswa)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@forsauinjkt",
+      "follower_count": null,
+      "notes": "University-wide sports UKM (umbrella sports federation). PRIORITY sports contact. Secretariat: Student Center Lt. 3, Ciputat."
+    },
+    {
+      "name": "Futsal UIN Jakarta",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsal_uinjkt",
+      "follower_count": null,
+      "notes": "Campus futsal unit. Email futsaluinjkt@gmail.com."
+    },
+    {
+      "name": "SEMA FISIP UIN Jakarta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@sema_fisipuinjkt",
+      "follower_count": null,
+      "notes": "Faculty senate (SEMA-F) of FISIP."
+    },
+    {
+      "name": "SEMA FIKES UIN Jakarta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semafikes.uinjkt",
+      "follower_count": null,
+      "notes": "Faculty senate (SEMA-F) of FIKES. linktr.ee/semafikesuinjkt corroborates handle."
+    }
+  ]
+}

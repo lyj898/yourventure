@@ -1,0 +1,84 @@
+{
+  "slug": "universitas-katolik-indonesia-atma-jaya",
+  "name": "Universitas Katolik Indonesia Atma Jaya (Unika Atma Jaya)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://atmajaya.ac.id",
+  "orgs": [
+    {
+      "name": "Badan Eksekutif Mahasiswa KM Unika Atma Jaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_kmuaj",
+      "follower_count": null,
+      "notes": "University-wide student executive (KM = Keluarga Mahasiswa). Structure: university uses BEM KM + BPM KM; faculties use Senat Mahasiswa (exec) + BPM (representative)."
+    },
+    {
+      "name": "BPM FIABIKOM Unika Atma Jaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmfiabikom",
+      "follower_count": null,
+      "notes": "Badan Perwakilan Mahasiswa (representative body) for FIABIKOM. University-level BPM KM exists but its IG handle could not be corroborated."
+    },
+    {
+      "name": "Senat Mahasiswa FKIK Unika Atma Jaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@sm_fkikuaj",
+      "follower_count": null,
+      "notes": "Faculty student senate (Fakultas Kedokteran dan Ilmu Kesehatan)."
+    },
+    {
+      "name": "Senat Mahasiswa Fakultas Teknik Unika Atma Jaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@smftuaj",
+      "follower_count": null,
+      "notes": "Faculty student senate (Fakultas Teknik)."
+    },
+    {
+      "name": "UKM Basket Atma Jaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@uaj_basket",
+      "follower_count": null,
+      "notes": "Basketball unit."
+    },
+    {
+      "name": "UKM Sepak Bola Atma Jaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmsepakbola_atmajaya",
+      "follower_count": null,
+      "notes": "Football unit; runs Piala/Copa Atma Jaya. No dedicated running/athletics UKM verified ('Atma Jaya Run' is a public event, not a student club)."
+    },
+    {
+      "name": "UKM Bulu Tangkis Atma Jaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbulutangkis_uaj",
+      "follower_count": null,
+      "notes": "Badminton unit."
+    },
+    {
+      "name": "UKM Taekwondo Unika Atma Jaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@taekwondo.uaj",
+      "follower_count": null,
+      "notes": "Martial arts / sport unit."
+    },
+    {
+      "name": "UKM LKMM Atma Jaya",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@lkmm_atma",
+      "follower_count": null,
+      "notes": "Leadership/management-skills training unit (Jakarta)."
+    }
+  ]
+}

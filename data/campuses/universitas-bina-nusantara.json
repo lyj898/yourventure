@@ -1,0 +1,116 @@
+{
+  "slug": "universitas-bina-nusantara",
+  "name": "Universitas Bina Nusantara (BINUS)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://binus.ac.id",
+  "orgs": [
+    {
+      "name": "BINUS Student Affairs (A Home for Binusian)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@studentbinus",
+      "follower_count": null,
+      "notes": "University-level Student Affairs office; BINUS has no traditional student-run BEM/DPM. Student life runs through HIMA + UKM. Nearest university-wide account, not a student exec body."
+    },
+    {
+      "name": "Binusian Running Club",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@binus.runners",
+      "follower_count": null,
+      "notes": "Dedicated student running club (priority match)."
+    },
+    {
+      "name": "BINUSIAN Fun Run",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@binusianfunrun",
+      "follower_count": null,
+      "notes": "Running event/community (charity focus); event body rather than a standing UKM."
+    },
+    {
+      "name": "UKM Futsal BINUS",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsalbinus",
+      "follower_count": 2516,
+      "notes": "Futsal/football unit."
+    },
+    {
+      "name": "Bina Nusantara Basketball (UKM Basket)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@binusbasketball",
+      "follower_count": null,
+      "notes": "Main basketball UKM (est. 1995); regional variants exist."
+    },
+    {
+      "name": "BINUS Badminton",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@binus_badminton",
+      "follower_count": 3358,
+      "notes": "Badminton unit."
+    },
+    {
+      "name": "UKM Volley BINUS",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@volleybinus",
+      "follower_count": null,
+      "notes": "Volleyball unit."
+    },
+    {
+      "name": "BASIC - Bina Nusantara Swimming Club",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@basicbinus",
+      "follower_count": null,
+      "notes": "Swimming unit."
+    },
+    {
+      "name": "HIMTI - School of Computer Science",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himti_binus",
+      "follower_count": null,
+      "notes": "Informatics/Computer Science student association."
+    },
+    {
+      "name": "HIMME - BINUS Business School (Management)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himmebinus",
+      "follower_count": 8161,
+      "notes": "Management student association, est. 1998."
+    },
+    {
+      "name": "HIMDKV - School of Design (Jakarta)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himdkvbinus",
+      "follower_count": 4919,
+      "notes": "Visual Communication Design association, Jakarta campus."
+    },
+    {
+      "name": "HIMSISFO - School of Information Systems",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himsisfo_binus",
+      "follower_count": null,
+      "notes": "Information Systems student association."
+    },
+    {
+      "name": "HIMTES - Teknik Sipil (Civil Engineering)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himtesbinus",
+      "follower_count": null,
+      "notes": "Civil Engineering student association."
+    }
+  ]
+}
