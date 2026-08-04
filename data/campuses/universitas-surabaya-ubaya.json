@@ -1,0 +1,116 @@
+{
+  "slug": "universitas-surabaya-ubaya",
+  "name": "Universitas Surabaya (Ubaya)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.ubaya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Surabaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_ubaya",
+      "follower_count": null,
+      "notes": "University-wide student executive (BEMUS), Kabinet Invictus. Also runs bemubaya.com."
+    },
+    {
+      "name": "BEM Fakultas Industri Kreatif Ubaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikubaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Industri Kreatif."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran Ubaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkubaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Kedokteran."
+    },
+    {
+      "name": "BEM Fakultas Hukum Ubaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfh_ubaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Hukum."
+    },
+    {
+      "name": "BEM Psikologi Ubaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsiko.ubaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Psikologi."
+    },
+    {
+      "name": "BEM Fakultas Farmasi Ubaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfarmasiubaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Farmasi."
+    },
+    {
+      "name": "DPM Fakultas Industri Kreatif Ubaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpm.fik",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body, FIK."
+    },
+    {
+      "name": "DPM Fakultas Hukum Ubaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfhubaya",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body, Fakultas Hukum."
+    },
+    {
+      "name": "DPM Fakultas Kedokteran Ubaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfkubaya",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body, Fakultas Kedokteran."
+    },
+    {
+      "name": "DPM Fakultas Bisnis dan Ekonomika Ubaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfbeubaya",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body, Fakultas Bisnis dan Ekonomika."
+    },
+    {
+      "name": "DPM Fakultas Farmasi Ubaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmff_ubaya",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body, Fakultas Farmasi."
+    },
+    {
+      "name": "UKM Sepak Bola dan Futsal Ubaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmsb.ubaya",
+      "follower_count": null,
+      "notes": "University sports unit (football/futsal)."
+    },
+    {
+      "name": "Ubaya Basketball",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@timbasketubaya",
+      "follower_count": null,
+      "notes": "University basketball team/unit."
+    }
+  ]
+}

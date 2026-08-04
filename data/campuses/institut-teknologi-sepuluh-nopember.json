@@ -1,0 +1,68 @@
+{
+  "slug": "institut-teknologi-sepuluh-nopember",
+  "name": "Institut Teknologi Sepuluh Nopember (ITS)",
+  "type": "Institut",
+  "ownership": "Negeri",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.its.ac.id",
+  "orgs": [
+    {
+      "name": "BEM ITS",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_its",
+      "follower_count": 62000,
+      "notes": "University-wide student executive board of ITS."
+    },
+    {
+      "name": "BLM ITS (Badan Legislatif Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@blm_its",
+      "follower_count": 4751,
+      "notes": "University-level legislative body (formerly DPM ITS)."
+    },
+    {
+      "name": "BEM FTEIC ITS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfteic.its",
+      "follower_count": 9490,
+      "notes": "Fakultas Teknologi Elektro dan Informatika Cerdas."
+    },
+    {
+      "name": "BEM FT-SPK ITS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftspkits",
+      "follower_count": 5923,
+      "notes": "Fakultas Teknik Sipil, Perencanaan, dan Kebumian."
+    },
+    {
+      "name": "BEM FTK ITS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftkits",
+      "follower_count": 7208,
+      "notes": "Fakultas Teknologi Kelautan."
+    },
+    {
+      "name": "BEM FSAD ITS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfsad_its",
+      "follower_count": 9817,
+      "notes": "Fakultas Sains dan Analitika Data."
+    },
+    {
+      "name": "BLM FTIRS ITS",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@blmftirs_its",
+      "follower_count": null,
+      "notes": "Faculty legislative body, Fakultas Teknologi Industri dan Rekayasa Sistem."
+    }
+  ]
+}

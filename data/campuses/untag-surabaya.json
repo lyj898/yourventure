@@ -1,0 +1,76 @@
+{
+  "slug": "untag-surabaya",
+  "name": "Universitas 17 Agustus 1945 Surabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://untag-sby.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Untag Surabaya (Kabinet Harmoni Karsa)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemuntag_sby",
+      "follower_count": 15000,
+      "notes": "University-wide BEM. Also on X @bemuntag_sby."
+    },
+    {
+      "name": "BEM FISIP Untag Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipuntag45sby",
+      "follower_count": null,
+      "notes": "Faculty of Social & Political Sciences BEM."
+    },
+    {
+      "name": "BEM FEB Untag Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebuntag",
+      "follower_count": 5108,
+      "notes": "Faculty of Economics & Business BEM."
+    },
+    {
+      "name": "BEM Fakultas Teknik Untag Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftuntagsby",
+      "follower_count": 4170,
+      "notes": "Faculty of Engineering BEM."
+    },
+    {
+      "name": "BEM Fakultas Hukum Untag Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfh.untagsby",
+      "follower_count": 3175,
+      "notes": "Faculty of Law BEM (Kabinet Wirasena Abyakta)."
+    },
+    {
+      "name": "BEM Psikologi Untag Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsi.untagsby",
+      "follower_count": 3744,
+      "notes": "Faculty of Psychology BEM (Kabinet Aksi)."
+    },
+    {
+      "name": "DPM FEB Untag Surabaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfebuntagsby",
+      "follower_count": null,
+      "notes": "Faculty-level legislative body (FEB). Contact dpmfeb@untag-sby.ac.id."
+    },
+    {
+      "name": "BKK-UKM Untag Surabaya",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@bkkukmuntagsby",
+      "follower_count": null,
+      "notes": "Student UKM coordinating body for Untag; umbrella over sports/other UKMs."
+    }
+  ]
+}

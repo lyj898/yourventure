@@ -1,0 +1,52 @@
+{
+  "slug": "uin-sunan-ampel-surabaya",
+  "name": "UIN Sunan Ampel Surabaya (UINSA)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://uinsa.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UIN Sunan Ampel Surabaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demauinsa",
+      "follower_count": null,
+      "notes": "University-wide student executive (Dewan Eksekutif Mahasiswa)."
+    },
+    {
+      "name": "SEMA UIN Sunan Ampel Surabaya",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semauinsasby",
+      "follower_count": null,
+      "notes": "University-wide student legislative body (Senat Mahasiswa)."
+    },
+    {
+      "name": "DEMA FAHUM UINSA (Adab dan Humaniora)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafahumuinsa",
+      "follower_count": null,
+      "notes": "Faculty executive council, Fakultas Adab dan Humaniora."
+    },
+    {
+      "name": "DEMA FSH UINSA (Syariah dan Hukum)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafsh.uinsa",
+      "follower_count": null,
+      "notes": "Faculty executive council, Fakultas Syariah dan Hukum."
+    },
+    {
+      "name": "DEMA FTK UINSA (Tarbiyah dan Keguruan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demaftkuinsa",
+      "follower_count": null,
+      "notes": "Faculty executive council, Fakultas Tarbiyah dan Keguruan."
+    }
+  ]
+}

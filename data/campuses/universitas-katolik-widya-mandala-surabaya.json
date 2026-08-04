@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-katolik-widya-mandala-surabaya",
+  "name": "Universitas Katolik Widya Mandala Surabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://ukwms.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Bisnis UKWMS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfb_ukwms",
+      "follower_count": 1813,
+      "notes": "Faculty of Business BEM (new official account; old @bemfb.ukwms deactivated)."
+    },
+    {
+      "name": "BEM Fakultas Ilmu Komunikasi UKWMS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikomwm",
+      "follower_count": null,
+      "notes": "Faculty of Communication BEM (Dinoyo campus). No verifiable university-wide BEM handle found for UKWMS."
+    },
+    {
+      "name": "BPM Fakultas Filsafat UKWMS",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmf.filsafat",
+      "follower_count": null,
+      "notes": "Badan Perwakilan Mahasiswa (faculty legislative), Fakultas Filsafat."
+    }
+  ]
+}

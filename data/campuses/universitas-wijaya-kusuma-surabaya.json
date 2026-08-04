@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-wijaya-kusuma-surabaya",
+  "name": "Universitas Wijaya Kusuma Surabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://uwks.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Wijaya Kusuma Surabaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_uwks",
+      "follower_count": 6300,
+      "notes": "University-wide BEM. Also on X @officialbemuwks."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran UWKS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkuwks",
+      "follower_count": 2625,
+      "notes": "Faculty of Medicine BEM."
+    },
+    {
+      "name": "BEM Fakultas Hukum UWKS (Kabinet Satria Prakasa)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuwks",
+      "follower_count": 2192,
+      "notes": "Faculty of Law BEM."
+    },
+    {
+      "name": "BEM FISIP UWKS",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipuwks",
+      "follower_count": 1339,
+      "notes": "Faculty of Social & Political Sciences BEM."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "universitas-airlangga",
+  "name": "Universitas Airlangga (Unair)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.unair.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Airlangga",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_unair",
+      "follower_count": 97000,
+      "notes": "University-wide student executive board (BEM KM Unair)."
+    },
+    {
+      "name": "DLM Unair (Dewan Legislatif Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dlm.unair",
+      "follower_count": 6478,
+      "notes": "University-level legislative body."
+    },
+    {
+      "name": "BEM FH Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhunair",
+      "follower_count": 11000,
+      "notes": "Fakultas Hukum."
+    },
+    {
+      "name": "BEM FISIP Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipunair",
+      "follower_count": 20000,
+      "notes": "Fakultas Ilmu Sosial dan Ilmu Politik."
+    },
+    {
+      "name": "BEM FF Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemffunair",
+      "follower_count": 11000,
+      "notes": "Fakultas Farmasi."
+    },
+    {
+      "name": "BEM FST Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfst_unair",
+      "follower_count": null,
+      "notes": "Fakultas Sains dan Teknologi."
+    },
+    {
+      "name": "BEM FEB Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebunair",
+      "follower_count": null,
+      "notes": "Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM FKG Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkgunair",
+      "follower_count": null,
+      "notes": "Fakultas Kedokteran Gigi."
+    },
+    {
+      "name": "BEM KM FKH Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkhunair",
+      "follower_count": 7418,
+      "notes": "Fakultas Kedokteran Hewan."
+    },
+    {
+      "name": "BEM KM FK Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkunair",
+      "follower_count": 14000,
+      "notes": "Fakultas Kedokteran."
+    },
+    {
+      "name": "BEM KM Psikologi Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmpsikologiunair",
+      "follower_count": 8466,
+      "notes": "Fakultas Psikologi."
+    },
+    {
+      "name": "BEM Vokasi Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemvokasi.unair",
+      "follower_count": null,
+      "notes": "Fakultas Vokasi."
+    },
+    {
+      "name": "BEM FKp Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkpunair",
+      "follower_count": 9641,
+      "notes": "Fakultas Keperawatan."
+    },
+    {
+      "name": "BEM FKM Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkmunair",
+      "follower_count": 18000,
+      "notes": "Fakultas Kesehatan Masyarakat."
+    },
+    {
+      "name": "BEM FIB Unair",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfibunair",
+      "follower_count": 11000,
+      "notes": "Fakultas Ilmu Budaya."
+    },
+    {
+      "name": "UKM Sepakbola Unair",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmsepakbolaunair",
+      "follower_count": null,
+      "notes": "University football/sports unit. No dedicated athletics/running UKM handle corroborated for Unair."
+    },
+    {
+      "name": "UKM Unair (coordinator)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@ukm.unair",
+      "follower_count": 20000,
+      "notes": "Student body coordinating all UKMs at Unair; useful gateway for sports-UKM outreach."
+    }
+  ]
+}

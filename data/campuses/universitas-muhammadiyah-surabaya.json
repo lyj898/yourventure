@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-muhammadiyah-surabaya",
+  "name": "Universitas Muhammadiyah Surabaya (UM Surabaya)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.um-surabaya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM UM Surabaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_umsurabaya",
+      "follower_count": null,
+      "notes": "University-wide student executive, Kabinet Satya Abhinaya."
+    },
+    {
+      "name": "BEM Fakultas Kedokteran UM Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkumsurabaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Kedokteran."
+    },
+    {
+      "name": "BEM Fakultas Ekonomi dan Bisnis UM Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebumsurabaya",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM Fakultas Psikologi UM Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpsiumsby",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Psikologi."
+    },
+    {
+      "name": "BEM Fakultas Ilmu Kesehatan UM Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikumsby",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Ilmu Kesehatan (FIK)."
+    },
+    {
+      "name": "BEM FKIP UM Surabaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkip_umsby",
+      "follower_count": null,
+      "notes": "Faculty executive board, Fakultas Keguruan dan Ilmu Pendidikan."
+    }
+  ]
+}

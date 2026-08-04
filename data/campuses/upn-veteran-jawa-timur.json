@@ -1,0 +1,100 @@
+{
+  "slug": "upn-veteran-jawa-timur",
+  "name": "UPN Veteran Jawa Timur (UPN Jatim)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.upnjatim.ac.id",
+  "orgs": [
+    {
+      "name": "BEM REMA UPN Veteran Jatim",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_upnvjt",
+      "follower_count": 8754,
+      "notes": "University-wide student executive board (BEM REMA)."
+    },
+    {
+      "name": "BEM FEB UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebupnvjt",
+      "follower_count": null,
+      "notes": "Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM Fasilkom UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfasilkom.upnjatim",
+      "follower_count": null,
+      "notes": "Fakultas Ilmu Komputer."
+    },
+    {
+      "name": "BEM Faperta UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfaperta_upnvjatim",
+      "follower_count": 4926,
+      "notes": "Fakultas Pertanian."
+    },
+    {
+      "name": "BEM FAD UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfadupnvjt",
+      "follower_count": 2949,
+      "notes": "Fakultas Arsitektur dan Desain."
+    },
+    {
+      "name": "BEM FISIP UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisip_upn",
+      "follower_count": 15000,
+      "notes": "Fakultas Ilmu Sosial dan Ilmu Politik."
+    },
+    {
+      "name": "BEM FH UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfh_upnvjatim",
+      "follower_count": 4822,
+      "notes": "Fakultas Hukum."
+    },
+    {
+      "name": "BEM FK UPN Jatim",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkupnvjt",
+      "follower_count": 1045,
+      "notes": "Fakultas Kedokteran."
+    },
+    {
+      "name": "UKM Badminton UPN Jatim",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbadmintonupn",
+      "follower_count": 3372,
+      "notes": "Sports UKM."
+    },
+    {
+      "name": "UKM Renang UPN Jatim",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmr_upnvjt",
+      "follower_count": 1044,
+      "notes": "Swimming sports UKM."
+    },
+    {
+      "name": "Koordinator UKM UPN Jatim",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@koorukm_",
+      "follower_count": 4015,
+      "notes": "Student body coordinating all UKMs at UPN Jatim; gateway for sports-UKM outreach."
+    }
+  ]
+}

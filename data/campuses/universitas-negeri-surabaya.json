@@ -1,0 +1,172 @@
+{
+  "slug": "universitas-negeri-surabaya",
+  "name": "Universitas Negeri Surabaya (Unesa)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://www.unesa.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Unesa",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_unesa",
+      "follower_count": 106000,
+      "notes": "University-wide student executive board (Kabinet Khatulistiwa)."
+    },
+    {
+      "name": "MPM Unesa (Majelis Permusyawaratan Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpm_unesa",
+      "follower_count": 4416,
+      "notes": "University-level legislative/representative body."
+    },
+    {
+      "name": "BEM FMIPA Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfmipa_unesa",
+      "follower_count": 22000,
+      "notes": "Fakultas Matematika dan Ilmu Pengetahuan Alam."
+    },
+    {
+      "name": "BEM FEB Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebunesa",
+      "follower_count": 21000,
+      "notes": "Fakultas Ekonomika dan Bisnis."
+    },
+    {
+      "name": "BEM FT Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftunesa",
+      "follower_count": 11000,
+      "notes": "Fakultas Teknik."
+    },
+    {
+      "name": "BEM FISIPOL Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipol_unesa",
+      "follower_count": 20000,
+      "notes": "Fakultas Ilmu Sosial dan Politik."
+    },
+    {
+      "name": "BEM FIP Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfipunesa_official",
+      "follower_count": 7500,
+      "notes": "Fakultas Ilmu Pendidikan."
+    },
+    {
+      "name": "BEM Psikologi Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsikologiunesa",
+      "follower_count": 11000,
+      "notes": "Fakultas Psikologi."
+    },
+    {
+      "name": "BEM Vokasi Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemvokasiunesa_",
+      "follower_count": 6468,
+      "notes": "Fakultas Vokasi."
+    },
+    {
+      "name": "BEM FISH Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfish_unesa",
+      "follower_count": null,
+      "notes": "Fakultas Ilmu Sosial dan Hukum."
+    },
+    {
+      "name": "BEM FBS Unesa",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfbsunesa",
+      "follower_count": null,
+      "notes": "Fakultas Bahasa dan Seni."
+    },
+    {
+      "name": "DPM FEB Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfebunesa",
+      "follower_count": 4765,
+      "notes": "Faculty legislative body, FEB."
+    },
+    {
+      "name": "DPM FISIPOL Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfisipolunesa",
+      "follower_count": 4121,
+      "notes": "Faculty legislative body, FISIPOL."
+    },
+    {
+      "name": "DPM FT Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmft_unesa",
+      "follower_count": 2200,
+      "notes": "Faculty legislative body, Fakultas Teknik."
+    },
+    {
+      "name": "DPM FBS Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfbsunesa",
+      "follower_count": 3011,
+      "notes": "Faculty legislative body, FBS."
+    },
+    {
+      "name": "DPM FIP Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfipunesa",
+      "follower_count": 2968,
+      "notes": "Faculty legislative body, FIP."
+    },
+    {
+      "name": "DPM Vokasi Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmvokasiunesa",
+      "follower_count": 1206,
+      "notes": "Faculty legislative body, Vokasi."
+    },
+    {
+      "name": "DPM FISH Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfish_unesa",
+      "follower_count": null,
+      "notes": "Faculty legislative body, FISH."
+    },
+    {
+      "name": "DPM Psikologi Unesa",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfpsiunesa",
+      "follower_count": null,
+      "notes": "Faculty legislative body, Fakultas Psikologi."
+    },
+    {
+      "name": "UKM Atletik Unesa",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmatletikunesa",
+      "follower_count": 1369,
+      "notes": "University athletics/track club — key running/athletics outreach target. Trains Tue/Thu at the Unesa athletic field."
+    }
+  ]
+}

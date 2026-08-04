@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-dr-soetomo-surabaya",
+  "name": "Universitas Dr. Soetomo Surabaya",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Surabaya",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://unitomo.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Dr. Soetomo Surabaya (Kabinet Soetomo Berkarya)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.unitomo",
+      "follower_count": 2961,
+      "notes": "University-wide BEM. Contact officialbemunitomo@gmail.com."
+    },
+    {
+      "name": "UKM PSHT Unitomo Surabaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@pshtunitomo_sby",
+      "follower_count": null,
+      "notes": "Persaudaraan Setia Hati Terate (pencak silat / martial-arts sports UKM)."
+    },
+    {
+      "name": "Ormawa FIA Unitomo (Ilmu Administrasi)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@ormawafia_unitomo",
+      "follower_count": null,
+      "notes": "Faculty-level student organization body, Fakultas Ilmu Administrasi."
+    }
+  ]
+}
