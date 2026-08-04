@@ -12,6 +12,7 @@ import {
 } from '../lib/types';
 import { exportToExcel, type OrgExportRow } from '../lib/exportExcel';
 import Login from './Login';
+import SetPassword from './SetPassword';
 import CampusForm from './CampusForm';
 import OrgSection from './OrgSection';
 import { SearchIcon, ChevronRight, PlusIcon, DownloadIcon } from './icons';
@@ -25,6 +26,7 @@ export default function Dashboard() {
   // ── Auth ──────────────────────────────────────────────────────────────────
   const [session, setSession] = useState<Session | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
+  const [recovery, setRecovery] = useState(false);
 
   useEffect(() => {
     if (!supabase) {
@@ -35,8 +37,10 @@ export default function Dashboard() {
       setSession(data.session);
       setAuthLoading(false);
     });
-    const { data: sub } = supabase.auth.onAuthStateChange((_event, s) => {
+    const { data: sub } = supabase.auth.onAuthStateChange((event, s) => {
       setSession(s);
+      // Arrived via a "set / forgot password" email — show the set-password screen.
+      if (event === 'PASSWORD_RECOVERY') setRecovery(true);
     });
     return () => sub.subscription.unsubscribe();
   }, []);
@@ -63,6 +67,8 @@ export default function Dashboard() {
       </div>
     );
   }
+
+  if (recovery) return <SetPassword onDone={() => setRecovery(false)} />;
 
   if (!session) return <Login />;
 

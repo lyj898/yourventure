@@ -2,40 +2,78 @@ import { useState } from 'react';
 import { supabase } from '../lib/supabase';
 import { CompassIcon } from './icons';
 
-// Magic-link sign-in gate. No public signup — emails are allow-listed in the Supabase
-// dashboard. signInWithOtp with an allow-list-only project emails a login link.
+// Sign-in gate. No public signup — emails are allow-listed in the Supabase dashboard.
+// Primary method is email + password; magic link is offered as a fallback, and there's a
+// self-service "set / forgot password" flow (emails a link, then SetPassword takes over).
 export default function Login() {
   const [email, setEmail] = useState('');
-  const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
-  const [message, setMessage] = useState('');
+  const [password, setPassword] = useState('');
+  const [busy, setBusy] = useState<null | 'password' | 'magic' | 'reset'>(null);
+  const [notice, setNotice] = useState<{ kind: 'ok' | 'err'; text: string } | null>(null);
 
-  async function handleSubmit(e: React.FormEvent) {
+  const err = (e: unknown) =>
+    setNotice({ kind: 'err', text: e instanceof Error ? e.message : String(e) });
+
+  async function handlePasswordSignIn(e: React.FormEvent) {
     e.preventDefault();
-    if (!supabase || !email.trim()) return;
-    setStatus('sending');
-    setMessage('');
+    if (!supabase || !email.trim() || !password) return;
+    setBusy('password');
+    setNotice(null);
+    const { error } = await supabase.auth.signInWithPassword({
+      email: email.trim(),
+      password,
+    });
+    setBusy(null);
+    if (error) {
+      setNotice({
+        kind: 'err',
+        text:
+          error.message === 'Invalid login credentials'
+            ? "Wrong email or password. If you haven't set a password yet, use “Set / forgot password” below."
+            : error.message,
+      });
+    }
+    // On success, onAuthStateChange in Dashboard swaps this out for the directory.
+  }
 
+  async function handleMagicLink() {
+    if (!supabase || !email.trim()) {
+      setNotice({ kind: 'err', text: 'Enter your email first.' });
+      return;
+    }
+    setBusy('magic');
+    setNotice(null);
     const { error } = await supabase.auth.signInWithOtp({
       email: email.trim(),
-      options: {
-        // Return to this app after the user clicks the link. Add this exact origin to
-        // the Supabase project's allowed redirect URLs.
-        emailRedirectTo: window.location.origin,
-      },
+      options: { emailRedirectTo: window.location.origin },
     });
+    setBusy(null);
+    if (error) err(error);
+    else setNotice({ kind: 'ok', text: `Check ${email.trim()} for a one-time sign-in link.` });
+  }
 
-    if (error) {
-      setStatus('error');
-      setMessage(error.message);
-    } else {
-      setStatus('sent');
-      setMessage(`Check ${email.trim()} for a sign-in link.`);
+  async function handleReset() {
+    if (!supabase || !email.trim()) {
+      setNotice({ kind: 'err', text: 'Enter your email first, then click this again.' });
+      return;
     }
+    setBusy('reset');
+    setNotice(null);
+    const { error } = await supabase.auth.resetPasswordForEmail(email.trim(), {
+      redirectTo: window.location.origin,
+    });
+    setBusy(null);
+    if (error) err(error);
+    else
+      setNotice({
+        kind: 'ok',
+        text: `Sent a link to ${email.trim()} to set your password. Open it, choose a password, and you're in.`,
+      });
   }
 
   return (
     <div className="login-wrap">
-      <form className="login-card" onSubmit={handleSubmit}>
+      <form className="login-card" onSubmit={handlePasswordSignIn}>
         <div className="login-mark">
           <CompassIcon />
         </div>
@@ -45,8 +83,7 @@ export default function Login() {
           sign in with your allow-listed email.
         </p>
 
-        {status === 'sent' && <div className="notice notice-ok">{message}</div>}
-        {status === 'error' && <div className="notice notice-err">{message}</div>}
+        {notice && <div className={`notice notice-${notice.kind}`}>{notice.text}</div>}
 
         <div className="field">
           <label htmlFor="login-email">Work email</label>
@@ -61,15 +98,47 @@ export default function Login() {
           />
         </div>
 
-        <button className="btn btn-gold" type="submit" disabled={status === 'sending'}>
-          {status === 'sending' ? (
+        <div className="field">
+          <label htmlFor="login-password">Password</label>
+          <input
+            id="login-password"
+            type="password"
+            autoComplete="current-password"
+            placeholder="••••••••"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+          />
+        </div>
+
+        <button className="btn btn-gold" type="submit" disabled={busy !== null}>
+          {busy === 'password' ? (
             <>
-              <span className="spinner" /> Sending…
+              <span className="spinner" /> Signing in…
             </>
           ) : (
-            'Email me a magic link'
+            'Sign in'
           )}
         </button>
+
+        <div className="login-alt">
+          <button
+            type="button"
+            className="linkbtn"
+            onClick={handleReset}
+            disabled={busy !== null}
+          >
+            {busy === 'reset' ? 'Sending…' : 'Set / forgot password'}
+          </button>
+          <span className="login-alt-sep">·</span>
+          <button
+            type="button"
+            className="linkbtn"
+            onClick={handleMagicLink}
+            disabled={busy !== null}
+          >
+            {busy === 'magic' ? 'Sending…' : 'Email me a magic link instead'}
+          </button>
+        </div>
       </form>
     </div>
   );
