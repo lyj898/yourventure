@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-logistik-dan-bisnis-internasional",
+  "name": "Universitas Logistik dan Bisnis Internasional",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.ulbi.ac.id",
+  "orgs": [
+    {
+      "name": "BEM ULBI",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.ulbi",
+      "follower_count": null,
+      "notes": "University-wide student executive (formerly Politeknik Pos Indonesia)."
+    },
+    {
+      "name": "HIMANBIS ULBI (Manajemen Bisnis)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himanbis_ulbi",
+      "follower_count": null,
+      "notes": "Business Management student association."
+    },
+    {
+      "name": "HIMATIF ULBI (Teknik Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himatif.ulbi",
+      "follower_count": null,
+      "notes": "Informatics Engineering student association."
+    },
+    {
+      "name": "HIMAGIS ULBI (Sains Data)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himagisulbi",
+      "follower_count": null,
+      "notes": "Data Science program student association."
+    }
+  ]
+}

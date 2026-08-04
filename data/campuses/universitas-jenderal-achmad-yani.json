@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-jenderal-achmad-yani",
+  "name": "Universitas Jenderal Achmad Yani",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Cimahi",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unjani.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM UNJANI",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmunjani",
+      "follower_count": null,
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa Unjani)."
+    },
+    {
+      "name": "BEM KMF Kedokteran Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkunjani",
+      "follower_count": null,
+      "notes": "Faculty of Medicine student executive; Kabinet Asvara."
+    },
+    {
+      "name": "BEM KM FKG Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkgunjani",
+      "follower_count": null,
+      "notes": "Faculty of Dentistry student executive."
+    },
+    {
+      "name": "BEM KMF ISIP Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipunjani",
+      "follower_count": null,
+      "notes": "FISIP (Social & Political Sciences) student executive."
+    },
+    {
+      "name": "BEM KM F Psikologi Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsikologiunjani",
+      "follower_count": null,
+      "notes": "Faculty of Psychology student executive; Kabinet Resonansi."
+    },
+    {
+      "name": "BEM KM F Farmasi Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfarmasiunjani",
+      "follower_count": null,
+      "notes": "Faculty of Pharmacy student executive."
+    }
+  ]
+}

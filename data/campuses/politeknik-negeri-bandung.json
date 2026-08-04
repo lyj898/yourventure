@@ -1,0 +1,84 @@
+{
+  "slug": "politeknik-negeri-bandung",
+  "name": "Politeknik Negeri Bandung",
+  "type": "Politeknik",
+  "ownership": "Negeri",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.polban.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KEMA POLBAN",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkemapolban",
+      "follower_count": null,
+      "notes": "Institute-wide student executive (BEM Keluarga Mahasiswa Politeknik Negeri Bandung)."
+    },
+    {
+      "name": "MPM KEMA POLBAN",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpmkemapolban",
+      "follower_count": null,
+      "notes": "Majelis Perwakilan Mahasiswa - legislative body of KEMA Polban."
+    },
+    {
+      "name": "HMJTM POLBAN (Teknik Mesin)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmjtm_polban",
+      "follower_count": null,
+      "notes": "Departmental himpunan, Teknik Mesin."
+    },
+    {
+      "name": "HMM POLBAN (Mesin)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmmpolban",
+      "follower_count": null,
+      "notes": "Himpunan under the Mechanical Engineering department."
+    },
+    {
+      "name": "HME POLBAN (Elektronika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmepolban",
+      "follower_count": null,
+      "notes": "Departmental himpunan, Elektronika."
+    },
+    {
+      "name": "HMTE POLBAN (Teknik Energi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmte_polban",
+      "follower_count": null,
+      "notes": "Departmental himpunan, Teknik Energi."
+    },
+    {
+      "name": "HIMAKOM POLBAN (Komputer)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himakompolban",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Komputer (Teknik Komputer dan Informatika)."
+    },
+    {
+      "name": "HMAN POLBAN (Administrasi Niaga)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hman.polban",
+      "follower_count": null,
+      "notes": "Departmental himpunan, Administrasi Niaga."
+    },
+    {
+      "name": "HIMAS POLBAN (Teknik Sipil)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himaspolban",
+      "follower_count": null,
+      "notes": "Departmental himpunan, Teknik Sipil."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "institut-teknologi-harapan-bangsa",
+  "name": "Institut Teknologi Harapan Bangsa",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.ithb.ac.id",
+  "orgs": [
+    {
+      "name": "IEC ITHB (Informatics Engineering Community)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@iec.ithb",
+      "follower_count": null,
+      "notes": "Informatics Engineering student association at ITHB."
+    },
+    {
+      "name": "HMSI ITHB (Sistem Informasi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmsi.ithb",
+      "follower_count": null,
+      "notes": "Information Systems student association."
+    }
+  ]
+}
