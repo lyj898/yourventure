@@ -1,0 +1,84 @@
+{
+  "slug": "universitas-muhammadiyah-jakarta",
+  "name": "Universitas Muhammadiyah Jakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Tangerang Selatan",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://umj.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Muhammadiyah Jakarta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.umj",
+      "follower_count": null,
+      "notes": "University-wide BEM, period 2025/2026. (~11K followers, approximate.)"
+    },
+    {
+      "name": "DPM Universitas Muhammadiyah Jakarta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmumj",
+      "follower_count": 976,
+      "notes": "Dewan Perwakilan Mahasiswa (student legislative body)."
+    },
+    {
+      "name": "BEM FISIP UMJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipumj",
+      "follower_count": null,
+      "notes": "BEM Fakultas Ilmu Sosial dan Ilmu Politik."
+    },
+    {
+      "name": "BEM FKK UMJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkkumj",
+      "follower_count": 1959,
+      "notes": "BEM Fakultas Kedokteran dan Kesehatan."
+    },
+    {
+      "name": "BEM FEB UMJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_febumj",
+      "follower_count": 1870,
+      "notes": "BEM Fakultas Ekonomi dan Bisnis."
+    },
+    {
+      "name": "BEM Fakultas Hukum UMJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_fhumj",
+      "follower_count": 1129,
+      "notes": "BEM Fakultas Hukum (official 2024/2025). Older handle @bemfh_umj also exists."
+    },
+    {
+      "name": "BEM Fakultas Agama Islam UMJ",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfai_umj",
+      "follower_count": null,
+      "notes": "BEM Fakultas Agama Islam."
+    },
+    {
+      "name": "IMM Komisariat FISIP UMJ",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@immkomfisipumj",
+      "follower_count": null,
+      "notes": "Ikatan Mahasiswa Muhammadiyah (Muhammadiyah cadre org) komisariat at FISIP."
+    },
+    {
+      "name": "HIMMA FEB UMJ",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himmafebumj",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Manajemen, FEB."
+    }
+  ]
+}

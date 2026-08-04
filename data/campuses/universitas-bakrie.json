@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-bakrie",
+  "name": "Universitas Bakrie",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.bakrie.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Bakrie",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.ubakrie",
+      "follower_count": null,
+      "notes": "University-wide student executive body. Also on X @bem_ub. Linktree linktr.ee/BEMUniversitasBakrie."
+    },
+    {
+      "name": "Himpunan Mahasiswa Manajemen (HMM) Universitas Bakrie",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmm_ubakrie",
+      "follower_count": null,
+      "notes": "Student association for the Management program."
+    },
+    {
+      "name": "UKMa Basket Universitas Bakrie",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@bakrie.basketball",
+      "follower_count": 712,
+      "notes": "Basketball unit, established 2011."
+    },
+    {
+      "name": "UKMa Badminton Universitas Bakrie",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@badminton.ubakrie",
+      "follower_count": null,
+      "notes": "Badminton sports unit."
+    },
+    {
+      "name": "UKM Voli Universitas Bakrie",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@voli_ub",
+      "follower_count": null,
+      "notes": "Volleyball sports unit."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-kristen-krida-wacana",
+  "name": "Universitas Kristen Krida Wacana",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.ukrida.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas UKRIDA",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemukrida",
+      "follower_count": 3489,
+      "notes": "University-wide student executive body, motto 'Suryadharmasatya'. Email bem-u@ukrida.ac.id."
+    },
+    {
+      "name": "BEM FEB UKRIDA (Ekonomi dan Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebukrida",
+      "follower_count": 1769,
+      "notes": "Economics & Business faculty executive body. Email bemfeb@ukrida.ac.id."
+    },
+    {
+      "name": "BPM FTIK UKRIDA (Badan Perwakilan Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpmftikukrida",
+      "follower_count": 309,
+      "notes": "Faculty-level legislative/representative body for Fakultas Teknik dan Ilmu Komputer. (FTIK executive BEM appears active only on X.)"
+    },
+    {
+      "name": "HMSI UKRIDA (Himpunan Mahasiswa Sistem Informasi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmsiukrida",
+      "follower_count": null,
+      "notes": "Information Systems student association (FTIK)."
+    },
+    {
+      "name": "Persekutuan Mahasiswa UKRIDA (PMK)",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@pmukrida",
+      "follower_count": 1058,
+      "notes": "University-wide Christian student fellowship."
+    }
+  ]
+}

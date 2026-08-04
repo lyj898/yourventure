@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-budi-luhur",
+  "name": "Universitas Budi Luhur",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://budiluhur.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Budi Luhur",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_ubl",
+      "follower_count": 6507,
+      "notes": "University-wide BEM. Linktree linktr.ee/BEM_univBL."
+    },
+    {
+      "name": "BEM Fakultas Teknologi Informasi (FTI) Budi Luhur",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftiubl",
+      "follower_count": 1392,
+      "notes": "Faculty BEM for FTI."
+    },
+    {
+      "name": "MPM Universitas Budi Luhur (Majelis Perwakilan Mahasiswa)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpm_ubl",
+      "follower_count": 585,
+      "notes": "University student legislative body. Contact mpm@budiluhur.ac.id."
+    },
+    {
+      "name": "UKM Futsal Budi Luhur",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsal_ubl",
+      "follower_count": null,
+      "notes": "University futsal unit."
+    },
+    {
+      "name": "UKM Voli Universitas Budi Luhur",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@volleyballbudiluhur",
+      "follower_count": null,
+      "notes": "University volleyball unit."
+    }
+  ]
+}

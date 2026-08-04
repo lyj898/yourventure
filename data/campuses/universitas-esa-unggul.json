@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-esa-unggul",
+  "name": "Universitas Esa Unggul",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://esaunggul.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Esa Unggul",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemueu_official",
+      "follower_count": 8241,
+      "notes": "University-wide BEM (Kabinet 2025). Linktree linktr.ee/bemueuofficial."
+    },
+    {
+      "name": "BEM Fakultas Ekonomi & Bisnis (FEB) Esa Unggul",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfeb_esaunggul",
+      "follower_count": null,
+      "notes": "Faculty BEM for FEB."
+    },
+    {
+      "name": "BEM Fakultas Teknik (FT) Esa Unggul",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftueu",
+      "follower_count": null,
+      "notes": "Faculty BEM for Fakultas Teknik."
+    },
+    {
+      "name": "BEM Fakultas Fisioterapi Esa Unggul",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemf.fisioueu",
+      "follower_count": 742,
+      "notes": "Faculty BEM for Fisioterapi."
+    },
+    {
+      "name": "BEM Fakultas Hukum (FH) Esa Unggul",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhueu",
+      "follower_count": null,
+      "notes": "Faculty BEM for Fakultas Hukum (account name confirmed in search)."
+    }
+  ]
+}

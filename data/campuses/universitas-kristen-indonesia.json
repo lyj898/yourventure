@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-kristen-indonesia",
+  "name": "Universitas Kristen Indonesia",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Timur",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://uki.ac.id",
+  "orgs": [
+    {
+      "name": "Badan Pekerja Senat Mahasiswa FK UKI (BPSM FK UKI)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@bpsmfkuki",
+      "follower_count": 1568,
+      "notes": "Faculty-level student senate (legislative) of FK UKI. UKI uses a Senat Mahasiswa governance model at faculty level. Linktree linktr.ee/BPSM.FKUKI."
+    },
+    {
+      "name": "Senat Mahasiswa FISIPOL UKI",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@senatfisipol_uki",
+      "follower_count": null,
+      "notes": "Faculty student senate (legislative) of FISIPOL UKI Jakarta."
+    },
+    {
+      "name": "UKOM UKI (Unit Kegiatan Olahraga Mahasiswa)",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukomukijakarta",
+      "follower_count": 674,
+      "notes": "Multi-sport unit (futsal, sepak bola, tenis meja), UKI Jakarta."
+    },
+    {
+      "name": "UKM Basket UKI",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbasket.uki",
+      "follower_count": null,
+      "notes": "University basketball unit."
+    },
+    {
+      "name": "UKM Futsal FISIPOL UKI",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsalfisipol.uki",
+      "follower_count": null,
+      "notes": "Faculty (FISIPOL) futsal unit."
+    }
+  ]
+}

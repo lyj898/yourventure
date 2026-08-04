@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-pertamina",
+  "name": "Universitas Pertamina",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://universitaspertamina.ac.id",
+  "orgs": [
+    {
+      "name": "Himpunan Mahasiswa Hubungan Internasional UPer",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmhi.uper",
+      "follower_count": 1684,
+      "notes": "HIMA HI, Fakultas Komunikasi dan Diplomasi. (Note: no verified university-wide BEM at UPer.)"
+    },
+    {
+      "name": "Himpunan Mahasiswa Teknik Perminyakan UPer",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmtmspruda",
+      "follower_count": null,
+      "notes": "HIMA Teknik Perminyakan, Fakultas Teknologi Eksplorasi dan Produksi."
+    },
+    {
+      "name": "Himpunan Mahasiswa Ilmu Komputer UPer",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmik.uper",
+      "follower_count": null,
+      "notes": "HIMA Ilmu Komputer."
+    },
+    {
+      "name": "Himpunan Mahasiswa Teknik Lingkungan UPer",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmtl.uper",
+      "follower_count": null,
+      "notes": "HMTL, Fakultas Perencanaan Infrastruktur."
+    },
+    {
+      "name": "Himpunan Mahasiswa Manajemen UPer",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@manajemen.uper",
+      "follower_count": null,
+      "notes": "Management Society of Universitas Pertamina."
+    },
+    {
+      "name": "UKM Futsal Universitas Pertamina",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsaluper",
+      "follower_count": null,
+      "notes": "Sports UKM (futsal). Handle confirmed via official Linktree."
+    }
+  ]
+}

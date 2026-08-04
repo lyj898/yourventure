@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-bunda-mulia",
+  "name": "Universitas Bunda Mulia",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Utara",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://www.ubm.ac.id",
+  "orgs": [
+    {
+      "name": "Senat Mahasiswa FTD UBM",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_semaftd",
+      "follower_count": null,
+      "notes": "Senat Mahasiswa (student legislative body) of Fakultas Teknologi dan Desain, Ancol. UBM uses SEMA at faculty level; no verified university-wide BEM IG found."
+    },
+    {
+      "name": "XCM UBM (HIMA Manajemen)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_xcm_ancol",
+      "follower_count": 2178,
+      "notes": "Excellent Community of Management (Manajemen), Ancol."
+    },
+    {
+      "name": "HIMA Accasia UBM (Akuntansi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_accasia_ancol",
+      "follower_count": 1526,
+      "notes": "Himpunan Mahasiswa Akuntansi, Ancol."
+    },
+    {
+      "name": "HIMA Ilmu Komunikasi UBM",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_comrade_ancol",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Ilmu Komunikasi (Comrade), Ancol."
+    },
+    {
+      "name": "HIMA Psikologi UBM",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_himapsi_ancol",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Psikologi, Ancol."
+    },
+    {
+      "name": "HIMA Sistem Informasi UBM Serpong",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_himsi_serpong",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Sistem Informasi, Serpong campus."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-prof-dr-moestopo-beragama",
+  "name": "Universitas Prof. Dr. Moestopo (Beragama)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Pusat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://moestopo.ac.id",
+  "orgs": [
+    {
+      "name": "Senat Mahasiswa FKG Moestopo",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@semafkgmoestopo",
+      "follower_count": null,
+      "notes": "Faculty student government (Senat Mahasiswa) of Fakultas Kedokteran Gigi. Moestopo organizes faculty governance under Senat Mahasiswa rather than BEM Fakultas. Site senmafkgmoestopo.com."
+    }
+  ]
+}

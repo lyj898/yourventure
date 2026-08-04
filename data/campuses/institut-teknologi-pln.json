@@ -1,0 +1,36 @@
+{
+  "slug": "institut-teknologi-pln",
+  "name": "Institut Teknologi PLN",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Jakarta Barat",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://itpln.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KBM IT PLN",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkbm_itpln",
+      "follower_count": 6976,
+      "notes": "Institute-wide BEM (Keluarga Besar Mahasiswa). Kabinet 2024/2025 'Restorasi Kesatria'. Email bemkbm@itpln.ac.id."
+    },
+    {
+      "name": "UKM Basket IT PLN",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@itplnbasketball",
+      "follower_count": null,
+      "notes": "Basketball UKM (formed 2006)."
+    },
+    {
+      "name": "UKM Futsal IT PLN",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@futsalitpln",
+      "follower_count": null,
+      "notes": "Futsal UKM (handle from ITPLN UKM listing; reconfirm before outreach)."
+    }
+  ]
+}

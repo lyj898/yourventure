@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-al-azhar-indonesia",
+  "name": "Universitas Al-Azhar Indonesia",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jakarta Selatan",
+  "province": "DKI Jakarta",
+  "future_series_city": "Jakarta",
+  "website": "https://uai.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Hukum UAI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuai",
+      "follower_count": 1273,
+      "notes": "Law faculty student executive body (Kabinet Vidwat Vikasa)."
+    },
+    {
+      "name": "BEM Fakultas Sains & Teknologi UAI",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfst.uai",
+      "follower_count": null,
+      "notes": "Science & Technology faculty student executive body; runs 'Podcast BEM FST UAI'."
+    },
+    {
+      "name": "KOMAHI UAI (Korps Mahasiswa Hubungan Internasional)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@komahi_uai",
+      "follower_count": null,
+      "notes": "International Relations student corps under FISIP UAI."
+    },
+    {
+      "name": "HIMABARA UAI (Bahasa dan Kebudayaan Arab)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himabara.uai",
+      "follower_count": 1631,
+      "notes": "Arabic Language & Culture student association."
+    },
+    {
+      "name": "HIMABIO UAI (Himpunan Mahasiswa Biologi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himabio_uai",
+      "follower_count": null,
+      "notes": "Biology student association (Fakultas Sains & Teknologi)."
+    }
+  ]
+}

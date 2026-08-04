@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-multimedia-nusantara",
+  "name": "Universitas Multimedia Nusantara",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Tangerang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://www.umn.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Multimedia Nusantara",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemumn",
+      "follower_count": 8723,
+      "notes": "University-wide BEM."
+    },
+    {
+      "name": "HIMMA UMN",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himma_umn",
+      "follower_count": 3769,
+      "notes": "Himpunan Mahasiswa Manajemen."
+    },
+    {
+      "name": "HMIF UMN",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmif.umn",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Informatika."
+    },
+    {
+      "name": "HIMA DKV UMN",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmdkv_umn",
+      "follower_count": null,
+      "notes": "Himpunan Mahasiswa Desain Komunikasi Visual."
+    },
+    {
+      "name": "UKM Lions Basketball UMN",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@umnlions_basketball",
+      "follower_count": null,
+      "notes": "Sports UKM (basketball), est. 2010."
+    },
+    {
+      "name": "UKM Lions Futsal UMN",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@lionsfutsal.umn",
+      "follower_count": null,
+      "notes": "Sports UKM (futsal)."
+    }
+  ]
+}
