@@ -1,0 +1,20 @@
+{
+  "slug": "usb-ypkp",
+  "name": "Universitas Sangga Buana (USB YPKP)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://usbypkp.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Sangga Buana YPKP",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_sanggabuana",
+      "follower_count": 2897,
+      "notes": "University-wide student executive board (Kabinet Cakra Buana, email usbypkpbem@gmail.com). Verified via profile bio."
+    }
+  ]
+}

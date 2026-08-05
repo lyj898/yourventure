@@ -1,0 +1,68 @@
+{
+  "slug": "universitas-jenderal-achmad-yani-yogyakarta",
+  "name": "Universitas Jenderal Achmad Yani Yogyakarta",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sleman",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://unjaya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Unjaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunjaya",
+      "follower_count": 3903,
+      "notes": "University-wide student executive board. Listed on official UNJAYA student-affairs page; handle and follower count (3,903) also confirmed via IG profile. Cabinet 'Eskalasi Gerakan Z' (2025)."
+    },
+    {
+      "name": "BEM FES Unjaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfes_unjaya",
+      "follower_count": null,
+      "notes": "Student executive board of the Faculty of Economics & Social Sciences (FES). Handle listed on official UNJAYA student-affairs page."
+    },
+    {
+      "name": "BEM FTTI Unjaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemftti_unjaniyk",
+      "follower_count": null,
+      "notes": "Student executive board of the Faculty of Engineering & Information Technology (FTTI). Handle listed on official UNJAYA student-affairs page."
+    },
+    {
+      "name": "UKM Futsal Unjaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmfutsalunjaya",
+      "follower_count": null,
+      "notes": "Futsal student activity unit. Handle listed on official UNJAYA student-affairs page."
+    },
+    {
+      "name": "UKM Basket Unjaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmbasketayani",
+      "follower_count": null,
+      "notes": "Basketball student activity unit. Handle listed on official UNJAYA student-affairs page."
+    },
+    {
+      "name": "UKM Voli Unjaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukm_volly_unjani",
+      "follower_count": null,
+      "notes": "Volleyball student activity unit. Handle listed on official UNJAYA student-affairs page."
+    },
+    {
+      "name": "UKM Pencak Silat Unjaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@pencaksilat.unjaya",
+      "follower_count": null,
+      "notes": "Pencak silat (martial arts) student activity unit. Handle listed on official UNJAYA student-affairs page."
+    }
+  ]
+}

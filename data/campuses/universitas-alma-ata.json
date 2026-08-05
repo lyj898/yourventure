@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-alma-ata",
+  "name": "Universitas Alma Ata",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bantul",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://almaata.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Alma Ata",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemalmaata",
+      "follower_count": null,
+      "notes": "University-wide student executive board. Handle confirmed via search of IG profile and multiple live post URLs. No follower count stated."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-janabadra",
+  "name": "Universitas Janabadra",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Yogyakarta",
+  "province": "DI Yogyakarta",
+  "future_series_city": "Yogyakarta",
+  "website": "https://janabadra.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Janabadra",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_univjanabadra",
+      "follower_count": null,
+      "notes": "University-wide student executive board. Handle confirmed via live IG post URL (instagram.com/bem_univjanabadra/...). Could not open profile to read follower count."
+    },
+    {
+      "name": "BEM FEB Universitas Janabadra",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_feb_ujb",
+      "follower_count": 745,
+      "notes": "Student executive board of the Faculty of Economics and Business (FEB). Follower count (745) stated in search of the IG profile."
+    }
+  ]
+}

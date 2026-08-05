@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-djuanda",
+  "name": "Universitas Djuanda (UNIDA Bogor)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bogor",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://unida.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FH Universitas Djuanda",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhunida",
+      "follower_count": 746,
+      "notes": "Law faculty student exec at UNIDA Bogor (Ciawi). Verified via profile fetch (references 'Universitas Djuanda Law Fair 2026')."
+    },
+    {
+      "name": "BEM Filkom Universitas Djuanda",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfilkom.unida",
+      "follower_count": 252,
+      "notes": "Faculty of Computer Science student exec. Verified via profile fetch (bem.filkom@unida.ac.id)."
+    }
+  ]
+}

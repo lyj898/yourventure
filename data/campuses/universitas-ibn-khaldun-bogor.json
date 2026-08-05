@@ -1,0 +1,100 @@
+{
+  "slug": "universitas-ibn-khaldun-bogor",
+  "name": "Universitas Ibn Khaldun Bogor (UIKA)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bogor",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://uika-bogor.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas UIKA Bogor",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_uikabogor",
+      "follower_count": 903,
+      "notes": "University-wide BEM (Kabinet Reformasi). Verified via profile fetch. Official uika-bogor.ac.id page lists handle without underscore (@bemuikabogor) but live account is @bem_uikabogor."
+    },
+    {
+      "name": "MPM Universitas UIKA",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@uika_mpm",
+      "follower_count": null,
+      "notes": "University legislative assembly (Majelis Permusyawaratan Mahasiswa). Handle per official kemahasiswaan page; not individually fetch-verified."
+    },
+    {
+      "name": "DPM Universitas UIKA",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpm.uika",
+      "follower_count": null,
+      "notes": "University student representative council. Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "BEM FKIP UIKA",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkipuikabogor",
+      "follower_count": null,
+      "notes": "Teacher Training & Education faculty exec. Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "BEM FH UIKA",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuikabogor",
+      "follower_count": null,
+      "notes": "Law faculty exec. Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "BEM FEB UIKA",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebuika",
+      "follower_count": null,
+      "notes": "Economics & Business faculty exec. Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "BEM FAI UIKA",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfaiuika",
+      "follower_count": null,
+      "notes": "Islamic Studies faculty exec. Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "BEM FT (Fakultas Teknik & Sains) UIKA",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfts_uika",
+      "follower_count": null,
+      "notes": "Engineering & Science faculty exec (inaugurated 2025). Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "BEM FIKES UIKA",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikes_uika",
+      "follower_count": null,
+      "notes": "Health Sciences faculty exec. Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "HIMA Manajemen UIKA",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmjmuikabgr",
+      "follower_count": null,
+      "notes": "Management study program association (FEB). Handle per official kemahasiswaan page."
+    },
+    {
+      "name": "HIMA Teknik Sipil UIKA",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmtsuika",
+      "follower_count": null,
+      "notes": "Civil Engineering study program association (FT). Handle per official kemahasiswaan page."
+    }
+  ]
+}

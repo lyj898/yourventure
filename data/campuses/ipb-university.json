@@ -1,0 +1,260 @@
+{
+  "slug": "ipb-university",
+  "name": "IPB University (Institut Pertanian Bogor)",
+  "type": "Institut",
+  "ownership": "Negeri",
+  "city": "Bogor",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://www.ipb.ac.id",
+  "orgs": [
+    {
+      "name": "BP KM IPB (BEM KM IPB)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmipb",
+      "follower_count": 68000,
+      "notes": "University-wide student executive; formally renamed Badan Pengurus Keluarga Mahasiswa (BP KM) but IG handle stays @bemkmipb. Kabinet Mercusuar 2025."
+    },
+    {
+      "name": "BEM Fakultas Pertanian (Faperta) IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfapertaipb",
+      "follower_count": 9160,
+      "notes": "Faculty of Agriculture student exec."
+    },
+    {
+      "name": "BEM FPIK IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpikipb",
+      "follower_count": 9260,
+      "notes": "Fisheries & Marine Sciences faculty exec."
+    },
+    {
+      "name": "BEM Fahutan IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfahutanipb",
+      "follower_count": 8796,
+      "notes": "Forestry & Environment faculty exec."
+    },
+    {
+      "name": "BEM Fapet IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfapetipb",
+      "follower_count": 7011,
+      "notes": "Animal Science faculty exec; Kabinet D'Stallion."
+    },
+    {
+      "name": "BEM FEM IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfemipb",
+      "follower_count": 14000,
+      "notes": "Economics & Management faculty exec."
+    },
+    {
+      "name": "BEM SKHB IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemskhb",
+      "follower_count": null,
+      "notes": "School of Veterinary Medicine & Biomedical Sciences student exec."
+    },
+    {
+      "name": "BEM Fateta / FTT IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfatetaipb",
+      "follower_count": null,
+      "notes": "Agricultural Technology faculty exec."
+    },
+    {
+      "name": "BEM FMIPA IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfmipaipb",
+      "follower_count": null,
+      "notes": "Math & Natural Sciences faculty exec."
+    },
+    {
+      "name": "BEM Fema IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfema",
+      "follower_count": null,
+      "notes": "Human Ecology faculty exec."
+    },
+    {
+      "name": "BEM Sekolah Vokasi IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemsvipb",
+      "follower_count": null,
+      "notes": "Vocational School student exec."
+    },
+    {
+      "name": "BEM Sekolah Bisnis IPB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_sbipb",
+      "follower_count": 4079,
+      "notes": "School of Business student exec; Kabinet Gelora Semesta."
+    },
+    {
+      "name": "DPM KM IPB (KP KM IPB)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmkmipb",
+      "follower_count": 2800,
+      "notes": "University central legislative/oversight body (Komite Pengawas KM)."
+    },
+    {
+      "name": "Kongres KM IPB (MPM)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@mpmkm.ipb",
+      "follower_count": null,
+      "notes": "Highest student legislative assembly (Kongres/MPM KM)."
+    },
+    {
+      "name": "DPM Faperta IPB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfapertaipb",
+      "follower_count": null,
+      "notes": "Faculty legislative body."
+    },
+    {
+      "name": "DPM FPIK IPB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfpikipb",
+      "follower_count": null,
+      "notes": "Faculty legislative body."
+    },
+    {
+      "name": "DPM Fahutan IPB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfahutanipb",
+      "follower_count": null,
+      "notes": "Faculty legislative body."
+    },
+    {
+      "name": "DPM FMIPA IPB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfmipaipb",
+      "follower_count": null,
+      "notes": "Faculty legislative body."
+    },
+    {
+      "name": "DPM FEM IPB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfemipb",
+      "follower_count": null,
+      "notes": "Faculty legislative body."
+    },
+    {
+      "name": "DPM Sekolah Vokasi IPB",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmsvipb",
+      "follower_count": null,
+      "notes": "Vocational School legislative body."
+    },
+    {
+      "name": "UKM Bulu Tangkis IPB",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@bulutangkisipb",
+      "follower_count": null,
+      "notes": "Official IPB badminton student activity unit."
+    },
+    {
+      "name": "IPB Runners",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ipb.runners",
+      "follower_count": null,
+      "notes": "IPB running community (est. Nov 2018). Handle per LariKu.info directory; not individually fetch-verified."
+    },
+    {
+      "name": "Himagron IPB (Agronomi & Hortikultura)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himagronipb",
+      "follower_count": null,
+      "notes": "Himpunan Profesi under Faperta."
+    },
+    {
+      "name": "HIMASILKAN IPB (Teknologi Hasil Perairan)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himasilkanipb",
+      "follower_count": null,
+      "notes": "Himpro under FPIK."
+    },
+    {
+      "name": "HIMAKUA IPB (Akuakultur)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himakuaipb",
+      "follower_count": null,
+      "notes": "Himpro under FPIK."
+    },
+    {
+      "name": "HIMASILTAN IPB (Silvikultur)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himasiltan_ipb",
+      "follower_count": null,
+      "notes": "Himpro under Fahutan."
+    },
+    {
+      "name": "HIMITEPA IPB (Ilmu & Teknologi Pangan)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himitepaipb",
+      "follower_count": null,
+      "notes": "Himpro under FTT/Fateta."
+    },
+    {
+      "name": "HIMABIO IPB (Biologi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himabioipb",
+      "follower_count": null,
+      "notes": "Himpro under FMIPA."
+    },
+    {
+      "name": "HIPOTESA IPB (Ilmu Ekonomi)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hipotesafemipb",
+      "follower_count": null,
+      "notes": "Himpro under FEM."
+    },
+    {
+      "name": "HIMAGIZI IPB (Gizi Masyarakat)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himagizi",
+      "follower_count": null,
+      "notes": "Himpro under Fema."
+    },
+    {
+      "name": "IMAKAHI IPB (mahasiswa kedokteran hewan)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@imakahi_ipb",
+      "follower_count": null,
+      "notes": "Veterinary student association under SKHB."
+    }
+  ]
+}

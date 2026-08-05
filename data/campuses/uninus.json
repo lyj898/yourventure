@@ -1,0 +1,28 @@
+{
+  "slug": "uninus",
+  "name": "Universitas Islam Nusantara (Uninus)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://uninus.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Agama Islam Uninus",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.fai.uninus",
+      "follower_count": 1376,
+      "notes": "Student executive board, Faculty of Islamic Religion (Kabinet Sembagi Arutala). Verified via profile bio."
+    },
+    {
+      "name": "BEM Fakultas Hukum Uninus",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhuninus",
+      "follower_count": 962,
+      "notes": "Student executive board, Faculty of Law (Kabinet Cakra Adhikara 2025-2026). Verified via profile bio."
+    }
+  ]
+}

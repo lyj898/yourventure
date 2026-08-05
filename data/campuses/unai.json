@@ -1,0 +1,44 @@
+{
+  "slug": "unai",
+  "name": "Universitas Advent Indonesia (UNAI)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung Barat",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://unai.edu",
+  "orgs": [
+    {
+      "name": "BEM Universitas Advent Indonesia",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunai",
+      "follower_count": 2721,
+      "notes": "University-wide student executive board (email bem@unai.edu). Verified via profile bio."
+    },
+    {
+      "name": "HIMA Fakultas Teknologi Informasi UNAI",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himaftiunai",
+      "follower_count": 748,
+      "notes": "Student association, Faculty of Information Technology. Verified via profile bio."
+    },
+    {
+      "name": "HIMA Fakultas Ilmu Keperawatan UNAI",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himafik.unai",
+      "follower_count": 759,
+      "notes": "Student association, Faculty of Nursing. Verified via profile bio."
+    },
+    {
+      "name": "HIMA Fakultas Ekonomi UNAI",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himafekonunai",
+      "follower_count": 1207,
+      "notes": "Student association, Faculty of Economics (email hima.fe@unai.edu). Verified via profile bio."
+    }
+  ]
+}
