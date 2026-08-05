@@ -20,6 +20,26 @@ const EMPTY_FORM: OrgFormValues = {
   notes: '',
 };
 
+// Build a clickable URL for a contact based on its type (e.g. an Instagram handle
+// -> instagram.com/handle). Returns null for values we can't sensibly link.
+function contactHref(type: StudentOrg['contact_type'], value: string): string | null {
+  const v = value.trim();
+  if (!v) return null;
+  switch (type) {
+    case 'Instagram':
+      return `https://instagram.com/${v.replace(/^@/, '')}`;
+    case 'Email':
+      return `mailto:${v}`;
+    case 'WhatsApp':
+      return /^https?:\/\//.test(v) ? v : `https://wa.me/${v.replace(/[^0-9]/g, '')}`;
+    case 'LinkedIn':
+    case 'Website':
+      return /^https?:\/\//.test(v) ? v : `https://${v}`;
+    default:
+      return null;
+  }
+}
+
 function toForm(org: StudentOrg): OrgFormValues {
   return {
     name: org.name ?? '',
@@ -321,7 +341,18 @@ export default function OrgSection({
                     {org.contact_type && org.contact_value && (
                       <span>
                         {org.contact_type}:{' '}
-                        <span className="org-contact">{org.contact_value}</span>
+                        {contactHref(org.contact_type, org.contact_value) ? (
+                          <a
+                            className="org-contact"
+                            href={contactHref(org.contact_type, org.contact_value)!}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            {org.contact_value}
+                          </a>
+                        ) : (
+                          <span className="org-contact">{org.contact_value}</span>
+                        )}
                       </span>
                     )}
                     {org.contact_person && <span>· {org.contact_person}</span>}
