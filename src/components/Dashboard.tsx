@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Session } from '@supabase/supabase-js';
-import { supabase, isSupabaseConfigured } from '../lib/supabase';
+import { supabase, isSupabaseConfigured, arrivedViaRecovery } from '../lib/supabase';
 import {
   INSTITUTION_TYPES,
   OWNERSHIP_TYPES,
@@ -26,7 +26,7 @@ export default function Dashboard() {
   // ── Auth ──────────────────────────────────────────────────────────────────
   const [session, setSession] = useState<Session | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
-  const [recovery, setRecovery] = useState(false);
+  const [recovery, setRecovery] = useState(arrivedViaRecovery);
 
   useEffect(() => {
     if (!supabase) {
