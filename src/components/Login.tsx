@@ -3,18 +3,15 @@ import { supabase } from '../lib/supabase';
 import { CompassIcon } from './icons';
 
 // Sign-in gate. No public signup — emails are allow-listed in the Supabase dashboard.
-// Primary method is email + password; magic link is offered as a fallback, and there's a
-// self-service "set / forgot password" flow (emails a link, then SetPassword takes over).
+// A normal email + password login. "Forgot password?" emails a link that both first-time
+// users and password-resetters use to choose a password (SetPassword takes over there).
 export default function Login() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [busy, setBusy] = useState<null | 'password' | 'magic' | 'reset'>(null);
+  const [busy, setBusy] = useState<null | 'password' | 'reset'>(null);
   const [notice, setNotice] = useState<{ kind: 'ok' | 'err'; text: string } | null>(null);
 
-  const err = (e: unknown) =>
-    setNotice({ kind: 'err', text: e instanceof Error ? e.message : String(e) });
-
-  async function handlePasswordSignIn(e: React.FormEvent) {
+  async function handleSignIn(e: React.FormEvent) {
     e.preventDefault();
     if (!supabase || !email.trim() || !password) return;
     setBusy('password');
@@ -29,32 +26,16 @@ export default function Login() {
         kind: 'err',
         text:
           error.message === 'Invalid login credentials'
-            ? "Wrong email or password. If you haven't set a password yet, use “Set / forgot password” below."
+            ? 'Wrong email or password. First time here? Use “Forgot password?” to set one.'
             : error.message,
       });
     }
     // On success, onAuthStateChange in Dashboard swaps this out for the directory.
   }
 
-  async function handleMagicLink() {
-    if (!supabase || !email.trim()) {
-      setNotice({ kind: 'err', text: 'Enter your email first.' });
-      return;
-    }
-    setBusy('magic');
-    setNotice(null);
-    const { error } = await supabase.auth.signInWithOtp({
-      email: email.trim(),
-      options: { emailRedirectTo: window.location.origin },
-    });
-    setBusy(null);
-    if (error) err(error);
-    else setNotice({ kind: 'ok', text: `Check ${email.trim()} for a one-time sign-in link.` });
-  }
-
   async function handleReset() {
     if (!supabase || !email.trim()) {
-      setNotice({ kind: 'err', text: 'Enter your email first, then click this again.' });
+      setNotice({ kind: 'err', text: 'Enter your email above first, then click “Forgot password?” again.' });
       return;
     }
     setBusy('reset');
@@ -63,17 +44,19 @@ export default function Login() {
       redirectTo: window.location.origin,
     });
     setBusy(null);
-    if (error) err(error);
-    else
+    if (error) {
+      setNotice({ kind: 'err', text: error.message });
+    } else {
       setNotice({
         kind: 'ok',
-        text: `Sent a link to ${email.trim()} to set your password. Open it, choose a password, and you're in.`,
+        text: `We emailed ${email.trim()} a link. Open it, choose a password, and you're in.`,
       });
+    }
   }
 
   return (
     <div className="login-wrap">
-      <form className="login-card" onSubmit={handlePasswordSignIn}>
+      <form className="login-card" onSubmit={handleSignIn}>
         <div className="login-mark">
           <CompassIcon />
         </div>
@@ -107,6 +90,7 @@ export default function Login() {
             placeholder="••••••••"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
+            required
           />
         </div>
 
@@ -120,23 +104,14 @@ export default function Login() {
           )}
         </button>
 
-        <div className="login-alt">
+        <div className="login-forgot">
           <button
             type="button"
             className="linkbtn"
             onClick={handleReset}
             disabled={busy !== null}
           >
-            {busy === 'reset' ? 'Sending…' : 'Set / forgot password'}
-          </button>
-          <span className="login-alt-sep">·</span>
-          <button
-            type="button"
-            className="linkbtn"
-            onClick={handleMagicLink}
-            disabled={busy !== null}
-          >
-            {busy === 'magic' ? 'Sending…' : 'Email me a magic link instead'}
+            {busy === 'reset' ? 'Sending…' : 'Forgot password?'}
           </button>
         </div>
       </form>

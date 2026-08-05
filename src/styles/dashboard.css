@@ -496,17 +496,10 @@
   width: 100%;
   justify-content: center;
 }
-.login-alt {
+.login-forgot {
   display: flex;
-  align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 16px;
-}
-.login-alt-sep {
-  color: var(--line-strong);
-  font-size: 12px;
+  margin-top: 14px;
 }
 .linkbtn {
   background: none;
