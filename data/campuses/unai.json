@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemunai",
       "follower_count": 2721,
-      "notes": "University-wide student executive board (email bem@unai.edu). Verified via profile bio."
+      "notes": "University-wide student executive board (email bem@unai.edu). Verified via profile bio.",
+      "email": "bem@unai.edu"
     },
     {
       "name": "HIMA Fakultas Teknologi Informasi UNAI",
@@ -30,7 +31,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himafik.unai",
       "follower_count": 759,
-      "notes": "Student association, Faculty of Nursing. Verified via profile bio."
+      "notes": "Student association, Faculty of Nursing. Verified via profile bio.",
+      "email": "himafikunai1949@gmail.com"
     },
     {
       "name": "HIMA Fakultas Ekonomi UNAI",
@@ -38,7 +40,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himafekonunai",
       "follower_count": 1207,
-      "notes": "Student association, Faculty of Economics (email hima.fe@unai.edu). Verified via profile bio."
+      "notes": "Student association, Faculty of Economics (email hima.fe@unai.edu). Verified via profile bio.",
+      "email": "hima.fe@unai.edu"
     }
   ]
 }

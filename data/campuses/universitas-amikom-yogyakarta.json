@@ -22,7 +22,8 @@
       "contact_type": "Instagram",
       "contact_value": "@sema.amikomyk",
       "follower_count": 981,
-      "notes": "University-level student senate (legislative body)."
+      "notes": "University-level student senate (legislative body).",
+      "email": "sema@amikom.ac.id"
     },
     {
       "name": "Amikom Football Club (AFC)",
@@ -38,7 +39,9 @@
       "contact_type": "Instagram",
       "contact_value": "@amikom_basketball",
       "follower_count": null,
-      "notes": "Basketball sports BSO."
+      "notes": "Basketball sports BSO.",
+      "email": "abbc@amikom.ac.id",
+      "whatsapp": "+6282150732238"
     },
     {
       "name": "UKM Taekwondo Amikom",
@@ -62,7 +65,8 @@
       "contact_type": "Instagram",
       "contact_value": "@pencaksilatamikom",
       "follower_count": null,
-      "notes": "Martial-arts sports UKM."
+      "notes": "Martial-arts sports UKM.",
+      "whatsapp": "+6285943538625"
     }
   ]
 }

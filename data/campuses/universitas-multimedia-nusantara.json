@@ -22,7 +22,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himma_umn",
       "follower_count": 3769,
-      "notes": "Himpunan Mahasiswa Manajemen."
+      "notes": "Himpunan Mahasiswa Manajemen.",
+      "email": "himma@umn.ac.id"
     },
     {
       "name": "HMIF UMN",
@@ -38,7 +39,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmdkv_umn",
       "follower_count": null,
-      "notes": "Himpunan Mahasiswa Desain Komunikasi Visual."
+      "notes": "Himpunan Mahasiswa Desain Komunikasi Visual.",
+      "email": "hm.dkv@umn.ac.id"
     },
     {
       "name": "UKM Lions Basketball UMN",
@@ -54,7 +56,9 @@
       "contact_type": "Instagram",
       "contact_value": "@lionsfutsal.umn",
       "follower_count": null,
-      "notes": "Sports UKM (futsal)."
+      "notes": "Sports UKM (futsal).",
+      "email": "lionfutsalteam@umn.ac.id",
+      "whatsapp": "+6281315254824"
     }
   ]
 }

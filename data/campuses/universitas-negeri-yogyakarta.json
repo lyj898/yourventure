@@ -38,7 +38,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_ftuny",
       "follower_count": 8623,
-      "notes": "Faculty of Engineering (FT)."
+      "notes": "Faculty of Engineering (FT).",
+      "whatsapp": "+6285879147483"
     },
     {
       "name": "BEM KM FISIP UNY",
@@ -46,7 +47,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfisipuny",
       "follower_count": 9253,
-      "notes": "Faculty of Social Sciences (FISIP)."
+      "notes": "Faculty of Social Sciences (FISIP).",
+      "email": "bemfisuny.mail@gmail.com"
     },
     {
       "name": "BEM FMIPA UNY",
@@ -62,7 +64,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemkmfebuny",
       "follower_count": 3441,
-      "notes": "Faculty of Economics & Business (FEB)."
+      "notes": "Faculty of Economics & Business (FEB).",
+      "email": "uny.bemfe@gmail.com"
     },
     {
       "name": "BEM KM FV UNY (Vokasi)",
@@ -94,7 +97,8 @@
       "contact_type": "Instagram",
       "contact_value": "@ukmatletikuny",
       "follower_count": 1819,
-      "notes": "University athletics/running UKM; trains at Stadion Atletik UNY. Strong athletics tradition."
+      "notes": "University athletics/running UKM; trains at Stadion Atletik UNY. Strong athletics tradition.",
+      "email": "ukmatletikuny@gmail.com"
     },
     {
       "name": "HIMA PKO FIKK UNY",
@@ -102,7 +106,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himapkofikkuny",
       "follower_count": 2351,
-      "notes": "Sports Coaching Education dept association, Faculty of Sports Science & Health (FIKK)."
+      "notes": "Sports Coaching Education dept association, Faculty of Sports Science & Health (FIKK).",
+      "email": "himapkofikkuny@gmail.com"
     }
   ]
 }

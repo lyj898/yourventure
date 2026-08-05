@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem.unpad",
       "follower_count": null,
-      "notes": "University-wide student executive (BEM Keluarga Mahasiswa Unpad)."
+      "notes": "University-wide student executive (BEM Keluarga Mahasiswa Unpad).",
+      "email": "bem@unpad.ac.id"
     },
     {
       "name": "BPM Kema Unpad",
@@ -38,7 +39,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfhunpad",
       "follower_count": null,
-      "notes": "Faculty of Law."
+      "notes": "Faculty of Law.",
+      "email": "bem.fh@unpad.ac.id"
     },
     {
       "name": "BEM Kema FEB Unpad",
@@ -46,7 +48,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemkemafebunpad",
       "follower_count": null,
-      "notes": "Faculty of Economics and Business."
+      "notes": "Faculty of Economics and Business.",
+      "email": "bem.feb@unpad.ac.id"
     },
     {
       "name": "BEM Kema Fikom Unpad",
@@ -62,7 +65,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfmipaunpad",
       "follower_count": 8708,
-      "notes": "Faculty of Mathematics and Natural Sciences."
+      "notes": "Faculty of Mathematics and Natural Sciences.",
+      "whatsapp": "+6285864532782"
     },
     {
       "name": "BEM Kema FK Unpad",

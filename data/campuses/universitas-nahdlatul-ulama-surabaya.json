@@ -14,7 +14,9 @@
       "contact_type": "Instagram",
       "contact_value": "@bemunusa",
       "follower_count": 6431,
-      "notes": "University-wide student executive board. Contact bem@unusa.ac.id."
+      "notes": "University-wide student executive board. Contact bem@unusa.ac.id.",
+      "email": "bem@unusa.ac.id",
+      "whatsapp": "+62895396085516"
     },
     {
       "name": "BEM Fakultas Kedokteran Unusa",
@@ -22,7 +24,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfkunusa",
       "follower_count": 2166,
-      "notes": "Faculty of Medicine student executive (Kabinet Bhumi Amerta)."
+      "notes": "Faculty of Medicine student executive (Kabinet Bhumi Amerta).",
+      "email": "bem.fk@unusa.ac.id"
     },
     {
       "name": "BEM Fakultas Keperawatan dan Kebidanan Unusa",
@@ -38,7 +41,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem.fkesunusa",
       "follower_count": null,
-      "notes": "Faculty of Health student executive (Kabinet Arthaswasthya)."
+      "notes": "Faculty of Health student executive (Kabinet Arthaswasthya).",
+      "email": "bemfkes@unusa.ac.id"
     }
   ]
 }

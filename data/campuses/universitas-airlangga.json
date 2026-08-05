@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_unair",
       "follower_count": 97000,
-      "notes": "University-wide student executive board (BEM KM Unair)."
+      "notes": "University-wide student executive board (BEM KM Unair).",
+      "email": "info@bem.unair.ac.id"
     },
     {
       "name": "DLM Unair (Dewan Legislatif Mahasiswa)",
@@ -30,7 +31,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfhunair",
       "follower_count": 11000,
-      "notes": "Fakultas Hukum."
+      "notes": "Fakultas Hukum.",
+      "email": "fh@bem.unair.ac.id"
     },
     {
       "name": "BEM FISIP Unair",
@@ -70,7 +72,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfkgunair",
       "follower_count": null,
-      "notes": "Fakultas Kedokteran Gigi."
+      "notes": "Fakultas Kedokteran Gigi.",
+      "whatsapp": "+62895700217798"
     },
     {
       "name": "BEM KM FKH Unair",
@@ -118,7 +121,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfkmunair",
       "follower_count": 18000,
-      "notes": "Fakultas Kesehatan Masyarakat."
+      "notes": "Fakultas Kesehatan Masyarakat.",
+      "email": "bem@fkm.unair.ac.id"
     },
     {
       "name": "BEM FIB Unair",
@@ -142,7 +146,8 @@
       "contact_type": "Instagram",
       "contact_value": "@ukm.unair",
       "follower_count": 20000,
-      "notes": "Student body coordinating all UKMs at Unair; useful gateway for sports-UKM outreach."
+      "notes": "Student body coordinating all UKMs at Unair; useful gateway for sports-UKM outreach.",
+      "email": "forkom@ukm.unair.ac.id"
     }
   ]
 }

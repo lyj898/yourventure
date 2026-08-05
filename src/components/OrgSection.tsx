@@ -14,6 +14,8 @@ const EMPTY_FORM: OrgFormValues = {
   contact_type: '',
   contact_value: '',
   contact_person: '',
+  email: '',
+  whatsapp: '',
   follower_count: '',
   notes: '',
 };
@@ -25,6 +27,8 @@ function toForm(org: StudentOrg): OrgFormValues {
     contact_type: org.contact_type ?? '',
     contact_value: org.contact_value ?? '',
     contact_person: org.contact_person ?? '',
+    email: org.email ?? '',
+    whatsapp: org.whatsapp ?? '',
     follower_count: org.follower_count != null ? String(org.follower_count) : '',
     notes: org.notes ?? '',
   };
@@ -126,6 +130,25 @@ function OrgForm({
           />
         </div>
 
+        <div className="field">
+          <label>Email</label>
+          <input
+            type="email"
+            value={values.email}
+            onChange={(e) => set('email', e.target.value)}
+            placeholder="bem@example.ac.id"
+          />
+        </div>
+
+        <div className="field">
+          <label>WhatsApp</label>
+          <input
+            value={values.whatsapp}
+            onChange={(e) => set('whatsapp', e.target.value)}
+            placeholder="+62…"
+          />
+        </div>
+
         <div className="field full">
           <label>Notes</label>
           <textarea
@@ -195,6 +218,8 @@ export default function OrgSection({
       contact_type: v.contact_type || null,
       contact_value: v.contact_value.trim() || null,
       contact_person: v.contact_person.trim() || null,
+      email: v.email.trim() || null,
+      whatsapp: v.whatsapp.trim() || null,
       follower_count: followers === '' ? null : Number.parseInt(followers, 10),
       notes: v.notes.trim() || null,
     };
@@ -300,6 +325,31 @@ export default function OrgSection({
                       </span>
                     )}
                     {org.contact_person && <span>· {org.contact_person}</span>}
+                    {org.email && (
+                      <span>
+                        Email:{' '}
+                        <a className="org-contact" href={`mailto:${org.email}`}>
+                          {org.email}
+                        </a>
+                      </span>
+                    )}
+                    {org.whatsapp && (
+                      <span>
+                        WA:{' '}
+                        <a
+                          className="org-contact"
+                          href={
+                            /^https?:\/\//.test(org.whatsapp)
+                              ? org.whatsapp
+                              : `https://wa.me/${org.whatsapp.replace(/[^0-9]/g, '')}`
+                          }
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {/^https?:\/\//.test(org.whatsapp) ? 'chat' : org.whatsapp}
+                        </a>
+                      </span>
+                    )}
                     {org.follower_count != null && (
                       <span className="org-followers">
                         {org.follower_count.toLocaleString('en-US')} followers

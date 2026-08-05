@@ -30,7 +30,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hms_pnj",
       "follower_count": null,
-      "notes": "Department association (HMJ) for Teknik Sipil."
+      "notes": "Department association (HMJ) for Teknik Sipil.",
+      "email": "pnj.hms@gmail.com"
     },
     {
       "name": "Himpunan Mahasiswa Mesin PNJ (HMM - Teknik Mesin)",
@@ -38,7 +39,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmm.pnj",
       "follower_count": null,
-      "notes": "Department association for Teknik Mesin."
+      "notes": "Department association for Teknik Mesin.",
+      "email": "hmmpnj.media@gmail.com"
     },
     {
       "name": "Himpunan Mahasiswa Elektro PNJ (HME - Teknik Elektro)",
@@ -46,7 +48,9 @@
       "contact_type": "Instagram",
       "contact_value": "@hme_pnj",
       "follower_count": null,
-      "notes": "Department association for Teknik Elektro. Confirmed via elektro.pnj.ac.id."
+      "notes": "Department association for Teknik Elektro. Confirmed via elektro.pnj.ac.id.",
+      "email": "hmeelektro.pnj@gmail.com",
+      "whatsapp": "+6282123449631"
     },
     {
       "name": "Himpunan Mahasiswa Grafika Penerbitan PNJ (HMGP)",
@@ -54,7 +58,9 @@
       "contact_type": "Instagram",
       "contact_value": "@hmgp_pnj",
       "follower_count": null,
-      "notes": "Department association for Teknik Grafika dan Penerbitan. Confirmed via grafika.pnj.ac.id."
+      "notes": "Department association for Teknik Grafika dan Penerbitan. Confirmed via grafika.pnj.ac.id.",
+      "email": "hmgpnj@gmail.com",
+      "whatsapp": "+6281317780551"
     },
     {
       "name": "Himpunan Mahasiswa Jurusan Akuntansi PNJ (HMJA)",
@@ -62,7 +68,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmja_pnj",
       "follower_count": null,
-      "notes": "Department association for Akuntansi. Confirmed via akuntansi.pnj.ac.id."
+      "notes": "Department association for Akuntansi. Confirmed via akuntansi.pnj.ac.id.",
+      "whatsapp": "+6281211754670"
     },
     {
       "name": "Himpunan Mahasiswa Administrasi Niaga PNJ (HMAN)",
@@ -70,7 +77,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hman_pnj",
       "follower_count": null,
-      "notes": "Department association for Administrasi Niaga/Bisnis."
+      "notes": "Department association for Administrasi Niaga/Bisnis.",
+      "email": "hmanpnjakarta@mhsw.pnj.ac.id"
     },
     {
       "name": "HIMATIK PNJ (Teknik Informatika dan Komputer)",
@@ -78,7 +86,9 @@
       "contact_type": "Instagram",
       "contact_value": "@himatikpnj",
       "follower_count": null,
-      "notes": "Department association for TIK. Department office account is separate (@jtik_pnj)."
+      "notes": "Department association for TIK. Department office account is separate (@jtik_pnj).",
+      "email": "himatik.pnj@gmail.com",
+      "whatsapp": "+6285163553130"
     },
     {
       "name": "UKM Voli PNJ / Polytechnic Volleyball Club (Polvoc)",
@@ -94,7 +104,8 @@
       "contact_type": "Instagram",
       "contact_value": "@taekwondo.pnj",
       "follower_count": null,
-      "notes": "Taekwondo sports UKM; trains at Pusgiwa PNJ."
+      "notes": "Taekwondo sports UKM; trains at Pusgiwa PNJ.",
+      "whatsapp": "+6289653836510"
     },
     {
       "name": "UKM Kesenian PNJ (Pankreas)",
@@ -102,7 +113,8 @@
       "contact_type": "Instagram",
       "contact_value": "@pankreaspnj",
       "follower_count": null,
-      "notes": "Arts & creativity UKM (non-sports). Official ukm-pankreas.pnj.ac.id."
+      "notes": "Arts & creativity UKM (non-sports). Official ukm-pankreas.pnj.ac.id.",
+      "whatsapp": "+6288213701982"
     }
   ]
 }

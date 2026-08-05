@@ -14,7 +14,9 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_uad",
       "follower_count": null,
-      "notes": "University-wide executive (Kabinet Porba)."
+      "notes": "University-wide executive (Kabinet Porba).",
+      "email": "bem@uad.ac.id",
+      "whatsapp": "+6285877301659"
     },
     {
       "name": "DPM Universitas Ahmad Dahlan",
@@ -38,7 +40,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfhuad",
       "follower_count": 1982,
-      "notes": "Fakultas Hukum."
+      "notes": "Fakultas Hukum.",
+      "email": "bem@law.uad.ac.id"
     },
     {
       "name": "BEM FK UAD",
@@ -46,7 +49,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_fkuad",
       "follower_count": 1519,
-      "notes": "Fakultas Kedokteran (Kabinet Alugara Ananta 2026)."
+      "notes": "Fakultas Kedokteran (Kabinet Alugara Ananta 2026).",
+      "email": "bem@med.uad.ac.id"
     },
     {
       "name": "BEM FAST UAD",
@@ -78,7 +82,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem.fti.uad",
       "follower_count": null,
-      "notes": "Fakultas Teknologi Industri."
+      "notes": "Fakultas Teknologi Industri.",
+      "email": "bem@fti.uad.ac.id"
     }
   ]
 }

@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfpsikologiumby",
       "follower_count": 3548,
-      "notes": "Fakultas Psikologi."
+      "notes": "Fakultas Psikologi.",
+      "email": "bem_fpsi@mercubuana-yogya.ac.id"
     },
     {
       "name": "BEM FIKOMM UMBY",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfikommumby",
       "follower_count": 1492,
-      "notes": "Fakultas Ilmu Komunikasi dan Multimedia."
+      "notes": "Fakultas Ilmu Komunikasi dan Multimedia.",
+      "whatsapp": "+6285262879922"
     },
     {
       "name": "BEM Fakultas Agroindustri UMBY",
@@ -30,7 +32,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemf.agroindustri",
       "follower_count": 1784,
-      "notes": "Fakultas Agroindustri."
+      "notes": "Fakultas Agroindustri.",
+      "whatsapp": "+6285709549208"
     },
     {
       "name": "BEM FKIP UMBY",
@@ -38,7 +41,9 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfkip.umby",
       "follower_count": null,
-      "notes": "Fakultas Keguruan dan Ilmu Pendidikan."
+      "notes": "Fakultas Keguruan dan Ilmu Pendidikan.",
+      "email": "bemfkip@mercubuana-yogya.ac.id",
+      "whatsapp": "+6285256600091"
     },
     {
       "name": "BEM FE UMBY",
@@ -46,7 +51,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfe.umby",
       "follower_count": null,
-      "notes": "Fakultas Ekonomi. No university-wide BEM/KM handle for UMBY verified."
+      "notes": "Fakultas Ekonomi. No university-wide BEM/KM handle for UMBY verified.",
+      "email": "bemfe@mercubuana-yogya.ac.id"
     }
   ]
 }

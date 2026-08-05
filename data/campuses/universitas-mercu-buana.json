@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfeb.umb",
       "follower_count": null,
-      "notes": "Official BEM Fakultas Ekonomi & Bisnis, Meruya campus. Faculty site cites variant @bemfebumb but active account is @bemfeb.umb."
+      "notes": "Official BEM Fakultas Ekonomi & Bisnis, Meruya campus. Faculty site cites variant @bemfebumb but active account is @bemfeb.umb.",
+      "email": "bemfeb.umb123@gmail.com"
     },
     {
       "name": "BEM FASILKOM UMB (Fakultas Ilmu Komputer)",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfasilkom.umb",
       "follower_count": null,
-      "notes": "Official BEM Fakultas Ilmu Komputer; contact bemfasilkom@mercubuana.ac.id, Jakarta campus."
+      "notes": "Official BEM Fakultas Ilmu Komputer; contact bemfasilkom@mercubuana.ac.id, Jakarta campus.",
+      "email": "bemfasilkom.umb22@gmail.com"
     },
     {
       "name": "BEM FIKOM UMB (Fakultas Ilmu Komunikasi)",
@@ -54,7 +56,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himsisfo_umb",
       "follower_count": null,
-      "notes": "Bio explicitly states 'UNIVERSITAS MERCU BUANA JAKARTA'."
+      "notes": "Bio explicitly states 'UNIVERSITAS MERCU BUANA JAKARTA'.",
+      "email": "himsisfo.mercu@gmail.com"
     },
     {
       "name": "UKM Futsal Mercu Buana Jakarta",
@@ -62,7 +65,8 @@
       "contact_type": "Instagram",
       "contact_value": "@futsal.umb",
       "follower_count": null,
-      "notes": "Bio: 'UKM FUTSAL MERCU BUANA JAKARTA'. Contact ukmfutsal.umb@gmail.com."
+      "notes": "Bio: 'UKM FUTSAL MERCU BUANA JAKARTA'. Contact ukmfutsal.umb@gmail.com.",
+      "email": "ukmfutsal.umb@gmail.com"
     },
     {
       "name": "UKM Sepakbola / Mercu Buana Football Club",
@@ -78,7 +82,9 @@
       "contact_type": "Instagram",
       "contact_value": "@ukmbolavoli.umb",
       "follower_count": null,
-      "notes": "Official Volleyball Club (links to Jakarta main university account)."
+      "notes": "Official Volleyball Club (links to Jakarta main university account).",
+      "email": "ukmbolavoli.umb@gmail.com",
+      "whatsapp": "+6285717021629"
     },
     {
       "name": "UKM Badminton / Bulutangkis Mercu Buana",
@@ -86,7 +92,9 @@
       "contact_type": "Instagram",
       "contact_value": "@ukmbadminton.umb",
       "follower_count": null,
-      "notes": "'Official Account of UKM Badminton Mercu Buana'. Uses .umb (Jakarta) naming; campus not explicitly stated."
+      "notes": "'Official Account of UKM Badminton Mercu Buana'. Uses .umb (Jakarta) naming; campus not explicitly stated.",
+      "email": "pengurusukmbulutangkis2526@gmail.com",
+      "whatsapp": "+6285814678653"
     },
     {
       "name": "UKM Karate Mercu Buana",
@@ -102,7 +110,9 @@
       "contact_type": "Instagram",
       "contact_value": "@ukmliterasi.umb",
       "follower_count": null,
-      "notes": "Literacy UKM; Jakarta-campus hashtags."
+      "notes": "Literacy UKM; Jakarta-campus hashtags.",
+      "email": "ukmliterasiumb@gmail.com",
+      "whatsapp": "+6281296957228"
     },
     {
       "name": "MBEC (Mercu Buana English Club)",

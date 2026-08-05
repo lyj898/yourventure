@@ -22,7 +22,8 @@
       "contact_type": "Instagram",
       "contact_value": "@sema_ftkmup",
       "follower_count": null,
-      "notes": "Faculty executive body (SEMA = BEM Fakultas equivalent), Fakultas Teknik."
+      "notes": "Faculty executive body (SEMA = BEM Fakultas equivalent), Fakultas Teknik.",
+      "whatsapp": "+6281400753935"
     },
     {
       "name": "SEMA FEB-KMUP (Fakultas Ekonomi & Bisnis)",
@@ -30,7 +31,9 @@
       "contact_type": "Instagram",
       "contact_value": "@semafebkmup_",
       "follower_count": null,
-      "notes": "Faculty executive body, Fakultas Ekonomi & Bisnis."
+      "notes": "Faculty executive body, Fakultas Ekonomi & Bisnis.",
+      "email": "semafebkmup@gmail.com",
+      "whatsapp": "+6287840623566"
     },
     {
       "name": "SEMA FH-KMUP (Fakultas Hukum)",
@@ -38,7 +41,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafhkmup",
       "follower_count": null,
-      "notes": "Faculty executive body, Fakultas Hukum."
+      "notes": "Faculty executive body, Fakultas Hukum.",
+      "email": "sema.fhkmup26@gmail.com"
     },
     {
       "name": "SEMA FIKOM-KMUP (Fakultas Ilmu Komunikasi)",
@@ -54,7 +58,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafpsikmup",
       "follower_count": null,
-      "notes": "Faculty executive body, Fakultas Psikologi."
+      "notes": "Faculty executive body, Fakultas Psikologi.",
+      "whatsapp": "+6282123248027"
     },
     {
       "name": "BPM FIKOM-KMUP (Badan Perwakilan Mahasiswa, FIKOM)",
@@ -62,7 +67,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bpmfikom_kmup",
       "follower_count": null,
-      "notes": "Faculty legislative/representative body (BPM = DPM equivalent), FIKOM."
+      "notes": "Faculty legislative/representative body (BPM = DPM equivalent), FIKOM.",
+      "whatsapp": "+6282123721710"
     },
     {
       "name": "UKM Bola Basket KMUP (Pancasila Basketball)",
@@ -86,7 +92,8 @@
       "contact_type": "Instagram",
       "contact_value": "@taekwondo_pancasila",
       "follower_count": null,
-      "notes": "University taekwondo unit."
+      "notes": "University taekwondo unit.",
+      "email": "ukmtaekwondopancasila@gmail.com"
     },
     {
       "name": "UKM Karate KMUP",
@@ -94,7 +101,8 @@
       "contact_type": "Instagram",
       "contact_value": "@karatekmup",
       "follower_count": null,
-      "notes": "University karate unit."
+      "notes": "University karate unit.",
+      "email": "karatekmup@univpancasila.ac.id"
     },
     {
       "name": "FC Psyche UP (Futsal Fakultas Psikologi)",

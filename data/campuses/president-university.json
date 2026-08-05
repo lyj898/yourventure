@@ -22,7 +22,8 @@
       "contact_type": "Instagram",
       "contact_value": "@pusc_presuniv",
       "follower_count": 2437,
-      "notes": "Highest legislative student body (Student Council / Senat). Email pusc@president.ac.id."
+      "notes": "Highest legislative student body (Student Council / Senat). Email pusc@president.ac.id.",
+      "email": "presuniv.council@gmail.com"
     },
     {
       "name": "PUMA Management (Major Association of Management)",
@@ -30,7 +31,8 @@
       "contact_type": "Instagram",
       "contact_value": "@presuniv_mgt",
       "follower_count": 1581,
-      "notes": "Management major student association, Faculty of Business."
+      "notes": "Management major student association, Faculty of Business.",
+      "whatsapp": "+6282362681220"
     }
   ]
 }

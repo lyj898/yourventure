@@ -30,7 +30,9 @@
       "contact_type": "Instagram",
       "contact_value": "@mpm_ubl",
       "follower_count": 585,
-      "notes": "University student legislative body. Contact mpm@budiluhur.ac.id."
+      "notes": "University student legislative body. Contact mpm@budiluhur.ac.id.",
+      "email": "mpm@budiluhur.ac.id",
+      "whatsapp": "+6287755115175"
     },
     {
       "name": "UKM Futsal Budi Luhur",
@@ -46,7 +48,8 @@
       "contact_type": "Instagram",
       "contact_value": "@volleyballbudiluhur",
       "follower_count": null,
-      "notes": "University volleyball unit."
+      "notes": "University volleyball unit.",
+      "email": "volleyballbudiluhur@gmail.com"
     }
   ]
 }

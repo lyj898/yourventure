@@ -14,7 +14,9 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_lspr",
       "follower_count": 7097,
-      "notes": "Institute-wide student executive board overseeing the LSPR Student League clubs."
+      "notes": "Institute-wide student executive board overseeing the LSPR Student League clubs.",
+      "email": "bem@lspr.edu",
+      "whatsapp": "+6289668729699"
     },
     {
       "name": "LSPR Futsal Club",
@@ -22,7 +24,8 @@
       "contact_type": "Instagram",
       "contact_value": "@lsprfutsalclub",
       "follower_count": null,
-      "notes": "Sports club under the LSPR Student League. (LSPR Runners exists per lspr.ac.id but no verifiable IG handle found.)"
+      "notes": "Sports club under the LSPR Student League. (LSPR Runners exists per lspr.ac.id but no verifiable IG handle found.)",
+      "email": "futsal.club@lspr.edu"
     }
   ]
 }

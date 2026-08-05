@@ -22,7 +22,8 @@
       "contact_type": "Instagram",
       "contact_value": "@dpmuii",
       "follower_count": 9778,
-      "notes": "University-level legislative body."
+      "notes": "University-level legislative body.",
+      "email": "dpm@uii.id"
     },
     {
       "name": "LEM FH UII",
@@ -38,7 +39,8 @@
       "contact_type": "Instagram",
       "contact_value": "@lemfbeuii",
       "follower_count": 4403,
-      "notes": "Fakultas Bisnis dan Ekonomika executive."
+      "notes": "Fakultas Bisnis dan Ekonomika executive.",
+      "email": "lemfbeuii@gmail.com"
     },
     {
       "name": "LEM FTSP UII",
@@ -46,7 +48,8 @@
       "contact_type": "Instagram",
       "contact_value": "@lemftsp.uii",
       "follower_count": 2352,
-      "notes": "Fakultas Teknik Sipil dan Perencanaan executive."
+      "notes": "Fakultas Teknik Sipil dan Perencanaan executive.",
+      "email": "lemftsp@gmail.com"
     },
     {
       "name": "LEM FMIPA UII",
@@ -54,7 +57,8 @@
       "contact_type": "Instagram",
       "contact_value": "@lem_fmipauii",
       "follower_count": 3338,
-      "notes": "Fakultas MIPA executive."
+      "notes": "Fakultas MIPA executive.",
+      "email": "kesekretariatanlemfmipauii@gmail.com"
     },
     {
       "name": "LEM FK UII",
@@ -70,7 +74,8 @@
       "contact_type": "Instagram",
       "contact_value": "@lemftiuii",
       "follower_count": null,
-      "notes": "Fakultas Teknologi Industri executive."
+      "notes": "Fakultas Teknologi Industri executive.",
+      "email": "lem.ftiuii.jog@gmail.com"
     },
     {
       "name": "DPM FPSB UII",
@@ -86,7 +91,9 @@
       "contact_type": "Instagram",
       "contact_value": "@ukmvoliuii",
       "follower_count": null,
-      "notes": "University volleyball UKM."
+      "notes": "University volleyball UKM.",
+      "email": "ukmbolavoliuii@gmail.com",
+      "whatsapp": "+6285643581429"
     },
     {
       "name": "UKM Badminton UII",

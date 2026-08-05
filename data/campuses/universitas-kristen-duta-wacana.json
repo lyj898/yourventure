@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemftiukdw",
       "follower_count": 748,
-      "notes": "Student executive body, Faculty of Information Technology. Email bem@fti.ukdw.ac.id."
+      "notes": "Student executive body, Faculty of Information Technology. Email bem@fti.ukdw.ac.id.",
+      "email": "bem@fti.ukdw.ac.id"
     },
     {
       "name": "BEM Fakultas Bioteknologi UKDW",
@@ -22,7 +23,9 @@
       "contact_type": "Instagram",
       "contact_value": "@bemf_biotekukdw",
       "follower_count": null,
-      "notes": "Student executive body, Faculty of Biotechnology."
+      "notes": "Student executive body, Faculty of Biotechnology.",
+      "email": "bem.bioteknologi@students.ukdw.ac.id",
+      "whatsapp": "+628895174133"
     }
   ]
 }

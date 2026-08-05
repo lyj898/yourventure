@@ -54,7 +54,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafti_yarsi",
       "follower_count": null,
-      "notes": "Faculty of Information Technology student executive (Senat)."
+      "notes": "Faculty of Information Technology student executive (Senat).",
+      "email": "sema.fti@yarsi.ac.id"
     },
     {
       "name": "SEMA FKG YARSI",
@@ -62,7 +63,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafkgyarsi",
       "follower_count": null,
-      "notes": "Faculty of Dentistry student executive (Senat). From official ormawa page."
+      "notes": "Faculty of Dentistry student executive (Senat). From official ormawa page.",
+      "email": "sema.fkgyarsi@gmail.com"
     },
     {
       "name": "SEMA FEB YARSI",
@@ -134,7 +136,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himfoyarsi",
       "follower_count": null,
-      "notes": "Informatics program student association per official ormawa page."
+      "notes": "Informatics program student association per official ormawa page.",
+      "email": "himfouy@gmail.com"
     },
     {
       "name": "HIMA Manajemen YARSI",
@@ -142,7 +145,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmjmfebuy",
       "follower_count": null,
-      "notes": "Management program student association per official ormawa page."
+      "notes": "Management program student association per official ormawa page.",
+      "email": "hmjmfebyarsi@gmail.com"
     }
   ]
 }

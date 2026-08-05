@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_unpar",
       "follower_count": 8710,
-      "notes": "University-wide student executive (Lembaga Kepresidenan Mahasiswa under Persatuan Mahasiswa). Contact pm.bem@unpar.ac.id."
+      "notes": "University-wide student executive (Lembaga Kepresidenan Mahasiswa under Persatuan Mahasiswa). Contact pm.bem@unpar.ac.id.",
+      "email": "pm.bem@unpar.ac.id"
     },
     {
       "name": "Persatuan Mahasiswa (PM) Unpar",
@@ -30,7 +31,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmpsihunpar",
       "follower_count": 3695,
-      "notes": "Study-program student association, Faculty of Law. Contact hmpsih@unpar.ac.id."
+      "notes": "Study-program student association, Faculty of Law. Contact hmpsih@unpar.ac.id.",
+      "email": "hmpsih@unpar.ac.id"
     }
   ]
 }

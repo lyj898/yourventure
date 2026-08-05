@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfhunida",
       "follower_count": 746,
-      "notes": "Law faculty student exec at UNIDA Bogor (Ciawi). Verified via profile fetch (references 'Universitas Djuanda Law Fair 2026')."
+      "notes": "Law faculty student exec at UNIDA Bogor (Ciawi). Verified via profile fetch (references 'Universitas Djuanda Law Fair 2026').",
+      "email": "bemfhunida@gmail.com"
     },
     {
       "name": "BEM Filkom Universitas Djuanda",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfilkom.unida",
       "follower_count": 252,
-      "notes": "Faculty of Computer Science student exec. Verified via profile fetch (bem.filkom@unida.ac.id)."
+      "notes": "Faculty of Computer Science student exec. Verified via profile fetch (bem.filkom@unida.ac.id).",
+      "email": "bem.filkom@unida.ac.id"
     }
   ]
 }

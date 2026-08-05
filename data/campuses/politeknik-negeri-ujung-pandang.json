@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmm.pnup",
       "follower_count": null,
-      "notes": "Mechanical Engineering student association."
+      "notes": "Mechanical Engineering student association.",
+      "email": "hmmpnup510@gmail.com"
     },
     {
       "name": "UKM Taekwondo PNUP",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@taekwondopnup",
       "follower_count": 2512,
-      "notes": "Official sports UKM (taekwondo)."
+      "notes": "Official sports UKM (taekwondo).",
+      "email": "ukmtkdpoltek@gmail.com"
     }
   ]
 }

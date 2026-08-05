@@ -63,6 +63,8 @@ export interface StudentOrg {
   contact_type: ContactType | null;
   contact_value: string | null;
   contact_person: string | null;
+  email: string | null;
+  whatsapp: string | null;
   follower_count: number | null;
   notes: string | null;
   created_at: string;
@@ -92,6 +94,8 @@ export type OrgFormValues = {
   contact_type: ContactType | '';
   contact_value: string;
   contact_person: string;
+  email: string;
+  whatsapp: string;
   follower_count: string; // kept as string in the form; parsed to int | null on save
   notes: string;
 };

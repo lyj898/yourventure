@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemutama",
       "follower_count": null,
-      "notes": "University-wide student executive."
+      "notes": "University-wide student executive.",
+      "email": "bem@widyatama.ac.id"
     },
     {
       "name": "SEMA FDKV Widyatama",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafdkvutama",
       "follower_count": 1300,
-      "notes": "Faculty executive (Senat Mahasiswa) for Design & Visual Communication. Widyatama uses SEMA rather than BEM Fakultas."
+      "notes": "Faculty executive (Senat Mahasiswa) for Design & Visual Communication. Widyatama uses SEMA rather than BEM Fakultas.",
+      "whatsapp": "+628888615314"
     },
     {
       "name": "Unit Bola Basket Widyatama",
@@ -38,7 +40,8 @@
       "contact_type": "Instagram",
       "contact_value": "@unbolutama",
       "follower_count": 1490,
-      "notes": "University football UKM."
+      "notes": "University football UKM.",
+      "email": "unbolutama1@gmail.com"
     }
   ]
 }

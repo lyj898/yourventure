@@ -30,7 +30,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemkmfkgumy",
       "follower_count": 1440,
-      "notes": "Fakultas Kedokteran Gigi."
+      "notes": "Fakultas Kedokteran Gigi.",
+      "whatsapp": "+628115012911"
     },
     {
       "name": "BEM FISIPOL UMY",
@@ -46,7 +47,9 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfpumy",
       "follower_count": null,
-      "notes": "Fakultas Pertanian."
+      "notes": "Fakultas Pertanian.",
+      "email": "umybemfp@gmail.com",
+      "whatsapp": "+6281281227716"
     },
     {
       "name": "BEM KM FKIK UMY",
@@ -70,7 +73,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfhumy",
       "follower_count": null,
-      "notes": "Fakultas Hukum."
+      "notes": "Fakultas Hukum.",
+      "email": "bemfhumy@gmail.com"
     },
     {
       "name": "UKM Sepak Bola UMY",

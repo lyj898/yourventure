@@ -37,6 +37,8 @@ export function exportToExcel(campuses: CampusWithCount[], orgs: OrgExportRow[])
     'Org Type': o.org_type,
     'Contact Type': o.contact_type ?? '',
     Contact: o.contact_value ?? '',
+    Email: o.email ?? '',
+    WhatsApp: o.whatsapp ?? '',
     'Contact Person': o.contact_person ?? '',
     Followers: o.follower_count ?? '',
     Notes: o.notes ?? '',

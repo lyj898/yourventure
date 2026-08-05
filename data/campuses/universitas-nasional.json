@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himakom_unas",
       "follower_count": null,
-      "notes": "UNAS student governance runs mainly through program-level HIMAs; FISIP UNAS publicly stated it has no faculty BEM. No university-wide BEM/DPM or sports UKM Instagram handle could be corroborated."
+      "notes": "UNAS student governance runs mainly through program-level HIMAs; FISIP UNAS publicly stated it has no faculty BEM. No university-wide BEM/DPM or sports UKM Instagram handle could be corroborated.",
+      "whatsapp": "+6281310330568"
     },
     {
       "name": "HIMAJEM UNAS (Himpunan Mahasiswa Manajemen, FEB)",
@@ -22,7 +23,9 @@
       "contact_type": "Instagram",
       "contact_value": "@himajem_unas",
       "follower_count": null,
-      "notes": "Management student association."
+      "notes": "Management student association.",
+      "email": "himajemunas@gmail.com",
+      "whatsapp": "+6285172368560"
     },
     {
       "name": "HIMAPUBLIK UNAS (Administrasi Publik, FISIP)",
@@ -30,7 +33,9 @@
       "contact_type": "Instagram",
       "contact_value": "@himapublik_unas",
       "follower_count": null,
-      "notes": "Public Administration student association."
+      "notes": "Public Administration student association.",
+      "email": "unashimajan@gmail.com",
+      "whatsapp": "+6281210604911"
     },
     {
       "name": "HIMAKUM UNAS (Himpunan Mahasiswa Hukum, FH)",
@@ -38,7 +43,9 @@
       "contact_type": "Instagram",
       "contact_value": "@himakum_unas",
       "follower_count": null,
-      "notes": "Law student association."
+      "notes": "Law student association.",
+      "email": "himakumfhunas1949@gmail.com",
+      "whatsapp": "+6282122607447"
     },
     {
       "name": "HIMAHI UNAS (Hubungan Internasional, FISIP)",
@@ -46,7 +53,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himahi_unas",
       "follower_count": null,
-      "notes": "International Relations student association."
+      "notes": "International Relations student association.",
+      "email": "himahi.unas49@gmail.com"
     },
     {
       "name": "HMM UNAS (Himpunan Mahasiswa Mesin, FTS)",
@@ -54,7 +62,8 @@
       "contact_type": "Instagram",
       "contact_value": "@hmm_unas",
       "follower_count": null,
-      "notes": "Mechanical Engineering student association, Fakultas Teknik dan Sains."
+      "notes": "Mechanical Engineering student association, Fakultas Teknik dan Sains.",
+      "email": "unashmm@gmail.com"
     },
     {
       "name": "HIMABIO UNAS (Himpunan Mahasiswa Biologi)",
@@ -62,7 +71,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himabio_unas",
       "follower_count": null,
-      "notes": "Biology student association, Fakultas Biologi dan Pertanian."
+      "notes": "Biology student association, Fakultas Biologi dan Pertanian.",
+      "email": "himabiounas@gmail.com"
     },
     {
       "name": "Fakultas Hukum UNAS",
@@ -78,7 +88,8 @@
       "contact_type": "Instagram",
       "contact_value": "@fts_unas",
       "follower_count": null,
-      "notes": "Official Faculty of Engineering & Sciences account (faculty-level, not a BEM)."
+      "notes": "Official Faculty of Engineering & Sciences account (faculty-level, not a BEM).",
+      "whatsapp": "+6285710077324"
     }
   ]
 }

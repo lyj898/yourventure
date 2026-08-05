@@ -84,6 +84,11 @@ function Directory({ session }: { session: Session }) {
   const [showAdd, setShowAdd] = useState(false);
   const [exporting, setExporting] = useState(false);
 
+  // Lightweight per-org rows (contact + reach) used only for the stats bar.
+  const [orgMeta, setOrgMeta] = useState<
+    { campus_id: string; follower_count: number | null; email: string | null; whatsapp: string | null }[]
+  >([]);
+
   async function loadCampuses() {
     if (!supabase) return;
     setLoading(true);
@@ -105,8 +110,17 @@ function Directory({ session }: { session: Session }) {
     setCampuses(rows);
   }
 
+  async function loadOrgMeta() {
+    if (!supabase) return;
+    const { data, error } = await supabase
+      .from('student_orgs')
+      .select('campus_id, follower_count, email, whatsapp');
+    if (!error && data) setOrgMeta(data as typeof orgMeta);
+  }
+
   useEffect(() => {
     loadCampuses();
+    loadOrgMeta();
   }, []);
 
   // Keep the table's org count in sync when a detail panel adds/removes orgs.
@@ -136,6 +150,18 @@ function Directory({ session }: { session: Session }) {
     () => new Set(filtered.map((c) => c.city)).size,
     [filtered],
   );
+
+  // Org-level rollups for the currently-visible campuses.
+  const orgStats = useMemo(() => {
+    const ids = new Set(filtered.map((c) => c.id));
+    const rows = orgMeta.filter((o) => ids.has(o.campus_id));
+    return {
+      total: rows.length,
+      withEmail: rows.filter((o) => o.email).length,
+      withWhatsapp: rows.filter((o) => o.whatsapp).length,
+      followers: rows.reduce((sum, o) => sum + (o.follower_count ?? 0), 0),
+    };
+  }, [filtered, orgMeta]);
 
   // ── Grouping by Future Series city ────────────────────────────────────────
   const grouped = useMemo(() => {
@@ -294,6 +320,18 @@ function Directory({ session }: { session: Session }) {
         </span>
         <span>
           <b>{citiesShown}</b> {citiesShown === 1 ? 'city' : 'cities'} represented
+        </span>
+        <span>
+          <b>{orgStats.total.toLocaleString('en-US')}</b> orgs
+        </span>
+        <span>
+          <b>{orgStats.withEmail.toLocaleString('en-US')}</b> with email
+        </span>
+        <span>
+          <b>{orgStats.withWhatsapp.toLocaleString('en-US')}</b> with WhatsApp
+        </span>
+        <span>
+          <b>{orgStats.followers.toLocaleString('en-US')}</b> IG followers
         </span>
       </div>
 

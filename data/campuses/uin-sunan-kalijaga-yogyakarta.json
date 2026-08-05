@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@demauinsuka",
       "follower_count": 18000,
-      "notes": "University-wide student executive (Dewan Eksekutif Mahasiswa)."
+      "notes": "University-wide student executive (Dewan Eksekutif Mahasiswa).",
+      "whatsapp": "+6285961949497"
     },
     {
       "name": "DEMA FEBI UIN Sunan Kalijaga",
@@ -30,7 +31,9 @@
       "contact_type": "Instagram",
       "contact_value": "@demafadib_uinsuka",
       "follower_count": 3100,
-      "notes": "Faculty of Adab & Cultural Sciences (FADIB)."
+      "notes": "Faculty of Adab & Cultural Sciences (FADIB).",
+      "email": "demafaibuinsukayogya@gmail.com",
+      "whatsapp": "+6285930478576"
     },
     {
       "name": "DEMA FST UIN Sunan Kalijaga",
@@ -54,7 +57,8 @@
       "contact_type": "Instagram",
       "contact_value": "@demafdk.uinsk",
       "follower_count": null,
-      "notes": "Faculty of Dakwah & Communication (FDK)."
+      "notes": "Faculty of Dakwah & Communication (FDK).",
+      "email": "demafdk85@gmail.com"
     },
     {
       "name": "SEMA FEBI UIN Sunan Kalijaga",
@@ -62,7 +66,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafebiuinsuka",
       "follower_count": null,
-      "notes": "Faculty-level student senate (legislative) at FEBI."
+      "notes": "Faculty-level student senate (legislative) at FEBI.",
+      "email": "semafebi.uinsuka@gmail.com"
     }
   ]
 }

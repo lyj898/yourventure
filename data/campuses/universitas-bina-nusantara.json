@@ -46,7 +46,8 @@
       "contact_type": "Instagram",
       "contact_value": "@binusbasketball",
       "follower_count": null,
-      "notes": "Main basketball UKM (est. 1995); regional variants exist."
+      "notes": "Main basketball UKM (est. 1995); regional variants exist.",
+      "whatsapp": "+6282245692717"
     },
     {
       "name": "BINUS Badminton",
@@ -54,7 +55,8 @@
       "contact_type": "Instagram",
       "contact_value": "@binus_badminton",
       "follower_count": 3358,
-      "notes": "Badminton unit."
+      "notes": "Badminton unit.",
+      "email": "bulutangkis.binus1990@gmail.com"
     },
     {
       "name": "UKM Volley BINUS",
@@ -62,7 +64,9 @@
       "contact_type": "Instagram",
       "contact_value": "@volleybinus",
       "follower_count": null,
-      "notes": "Volleyball unit."
+      "notes": "Volleyball unit.",
+      "email": "binusvolley@gmail.com",
+      "whatsapp": "+6282128819300"
     },
     {
       "name": "BASIC - Bina Nusantara Swimming Club",
@@ -78,7 +82,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himti_binus",
       "follower_count": null,
-      "notes": "Informatics/Computer Science student association."
+      "notes": "Informatics/Computer Science student association.",
+      "email": "mail@himti.or.id"
     },
     {
       "name": "HIMME - BINUS Business School (Management)",
@@ -94,7 +99,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himdkvbinus",
       "follower_count": 4919,
-      "notes": "Visual Communication Design association, Jakarta campus."
+      "notes": "Visual Communication Design association, Jakarta campus.",
+      "email": "himdkv@binus.ac.id"
     },
     {
       "name": "HIMSISFO - School of Information Systems",
@@ -110,7 +116,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himtesbinus",
       "follower_count": null,
-      "notes": "Civil Engineering student association."
+      "notes": "Civil Engineering student association.",
+      "email": "himtes.binus09@gmail.com"
     }
   ]
 }

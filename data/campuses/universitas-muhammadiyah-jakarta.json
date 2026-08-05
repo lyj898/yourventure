@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem.umj",
       "follower_count": null,
-      "notes": "University-wide BEM, period 2025/2026. (~11K followers, approximate.)"
+      "notes": "University-wide BEM, period 2025/2026. (~11K followers, approximate.)",
+      "email": "bem@umj.ac.id"
     },
     {
       "name": "DPM Universitas Muhammadiyah Jakarta",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@dpmumj",
       "follower_count": 976,
-      "notes": "Dewan Perwakilan Mahasiswa (student legislative body)."
+      "notes": "Dewan Perwakilan Mahasiswa (student legislative body).",
+      "whatsapp": "+6285888621630"
     },
     {
       "name": "BEM FISIP UMJ",
@@ -30,7 +32,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfisipumj",
       "follower_count": null,
-      "notes": "BEM Fakultas Ilmu Sosial dan Ilmu Politik."
+      "notes": "BEM Fakultas Ilmu Sosial dan Ilmu Politik.",
+      "email": "bem-fisip@umj.ac.id"
     },
     {
       "name": "BEM FKK UMJ",
@@ -38,7 +41,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfkkumj",
       "follower_count": 1959,
-      "notes": "BEM Fakultas Kedokteran dan Kesehatan."
+      "notes": "BEM Fakultas Kedokteran dan Kesehatan.",
+      "email": "bemfkkumj26@gmail.com"
     },
     {
       "name": "BEM FEB UMJ",
@@ -54,7 +58,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem_fhumj",
       "follower_count": 1129,
-      "notes": "BEM Fakultas Hukum (official 2024/2025). Older handle @bemfh_umj also exists."
+      "notes": "BEM Fakultas Hukum (official 2024/2025). Older handle @bemfh_umj also exists.",
+      "email": "bemfhumjakarta24@gmail.com"
     },
     {
       "name": "BEM Fakultas Agama Islam UMJ",

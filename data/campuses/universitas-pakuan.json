@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemkbm_unpak",
       "follower_count": 11200,
-      "notes": "University-wide student executive (Keluarga Besar Mahasiswa Unpak). Verified via profile fetch."
+      "notes": "University-wide student executive (Keluarga Besar Mahasiswa Unpak). Verified via profile fetch.",
+      "email": "bemkbm@unpak.ac.id"
     },
     {
       "name": "BEM FEB Universitas Pakuan",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfebunpak",
       "follower_count": 6064,
-      "notes": "Faculty of Economics & Business student exec."
+      "notes": "Faculty of Economics & Business student exec.",
+      "whatsapp": "+6281286057032"
     },
     {
       "name": "BEM FISIB Universitas Pakuan",
@@ -30,7 +32,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfisib_unpak",
       "follower_count": 4572,
-      "notes": "Faculty of Social Sciences & Humanities student exec."
+      "notes": "Faculty of Social Sciences & Humanities student exec.",
+      "whatsapp": "+6287874790054"
     },
     {
       "name": "BEM FMIPA Universitas Pakuan",
@@ -46,7 +49,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bemfhunpak",
       "follower_count": 3401,
-      "notes": "Faculty of Law student exec."
+      "notes": "Faculty of Law student exec.",
+      "email": "Bemfhunpak.official@gmail.com"
     }
   ]
 }

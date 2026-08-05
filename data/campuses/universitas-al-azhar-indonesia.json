@@ -38,7 +38,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himabara.uai",
       "follower_count": 1631,
-      "notes": "Arabic Language & Culture student association."
+      "notes": "Arabic Language & Culture student association.",
+      "email": "himabarauai01@gmail.com"
     },
     {
       "name": "HIMABIO UAI (Himpunan Mahasiswa Biologi)",
@@ -46,7 +47,8 @@
       "contact_type": "Instagram",
       "contact_value": "@himabio_uai",
       "follower_count": null,
-      "notes": "Biology student association (Fakultas Sains & Teknologi)."
+      "notes": "Biology student association (Fakultas Sains & Teknologi).",
+      "email": "uaihimabio@gmail.com"
     }
   ]
 }

@@ -14,7 +14,8 @@
       "contact_type": "Instagram",
       "contact_value": "@bem.maranatha",
       "follower_count": null,
-      "notes": "University-wide student executive board."
+      "notes": "University-wide student executive board.",
+      "email": "bem@maranatha.edu"
     },
     {
       "name": "SEMA FK Maranatha (Kedokteran)",
@@ -22,7 +23,8 @@
       "contact_type": "Instagram",
       "contact_value": "@semafk_maranatha",
       "follower_count": 2863,
-      "notes": "Faculty student executive (Senat Mahasiswa) of Fakultas Kedokteran."
+      "notes": "Faculty student executive (Senat Mahasiswa) of Fakultas Kedokteran.",
+      "email": "sekretariat.semafkukm@gmail.com"
     },
     {
       "name": "SEMA FB Maranatha (Bisnis)",
@@ -30,7 +32,8 @@
       "contact_type": "Instagram",
       "contact_value": "@sema.fb.maranatha",
       "follower_count": null,
-      "notes": "Faculty student executive (Senat Mahasiswa) of Fakultas Bisnis."
+      "notes": "Faculty student executive (Senat Mahasiswa) of Fakultas Bisnis.",
+      "whatsapp": "+6287781473986"
     },
     {
       "name": "UKOR Maranatha (Unit Kegiatan Olahraga)",
