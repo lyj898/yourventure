@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { Session } from '@supabase/supabase-js';
-import { supabase, isSupabaseConfigured, arrivedViaRecovery } from '../lib/supabase';
+import { supabase, isSupabaseConfigured } from '../lib/supabase';
 import {
   INSTITUTION_TYPES,
   OWNERSHIP_TYPES,
@@ -12,7 +12,6 @@ import {
 } from '../lib/types';
 import { exportToExcel, type OrgExportRow } from '../lib/exportExcel';
 import Login from './Login';
-import SetPassword from './SetPassword';
 import CampusForm from './CampusForm';
 import OrgSection from './OrgSection';
 import { SearchIcon, ChevronRight, PlusIcon, DownloadIcon } from './icons';
@@ -26,7 +25,6 @@ export default function Dashboard() {
   // ── Auth ──────────────────────────────────────────────────────────────────
   const [session, setSession] = useState<Session | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
-  const [recovery, setRecovery] = useState(arrivedViaRecovery);
 
   useEffect(() => {
     if (!supabase) {
@@ -37,10 +35,8 @@ export default function Dashboard() {
       setSession(data.session);
       setAuthLoading(false);
     });
-    const { data: sub } = supabase.auth.onAuthStateChange((event, s) => {
+    const { data: sub } = supabase.auth.onAuthStateChange((_event, s) => {
       setSession(s);
-      // Arrived via a "set / forgot password" email — show the set-password screen.
-      if (event === 'PASSWORD_RECOVERY') setRecovery(true);
     });
     return () => sub.subscription.unsubscribe();
   }, []);
@@ -67,8 +63,6 @@ export default function Dashboard() {
       </div>
     );
   }
-
-  if (recovery) return <SetPassword onDone={() => setRecovery(false)} />;
 
   if (!session) return <Login />;
 
@@ -158,8 +152,15 @@ function Directory({ session }: { session: Session }) {
   }, [filtered]);
 
   async function handleSignOut() {
+    localStorage.removeItem('cd_email');
     await supabase?.auth.signOut();
   }
+
+  // Anonymous sessions carry no email, so show the address the user typed at the gate.
+  const displayEmail =
+    (typeof window !== 'undefined' && localStorage.getItem('cd_email')) ||
+    session.user.email ||
+    'team';
 
   // Export the visible campuses + all their student orgs (two sheets). Orgs are fetched
   // live for the filtered campuses so the export reflects the current search/filters.
@@ -282,7 +283,7 @@ function Directory({ session }: { session: Session }) {
         </div>
 
         <button className="btn btn-ghost btn-sm" onClick={handleSignOut} title="Sign out">
-          Sign out ({session.user.email})
+          Sign out ({displayEmail})
         </button>
       </div>
 
