@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-islam-majapahit",
+  "name": "Universitas Islam Majapahit (UNIM)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Mojokerto",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://unim.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Islam Majapahit",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunim",
+      "follower_count": 1255,
+      "notes": "University-wide student exec (BEM UNIM)."
+    },
+    {
+      "name": "HIMA Teknik Sipil UNIM",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himtsipil_unim",
+      "follower_count": 138,
+      "notes": "Civil Engineering student association (himpunan)."
+    }
+  ]
+}

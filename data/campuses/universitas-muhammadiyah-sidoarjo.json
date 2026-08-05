@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-muhammadiyah-sidoarjo",
+  "name": "Universitas Muhammadiyah Sidoarjo (Umsida)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Sidoarjo",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://umsida.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Muhammadiyah Sidoarjo",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_umsida",
+      "follower_count": 3791,
+      "notes": "University-wide student exec, Kabinet Jayantara 2025-2026."
+    },
+    {
+      "name": "BEM Fakultas Bisnis Hukum dan Ilmu Sosial (FBHIS) Umsida",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfbhisumsida",
+      "follower_count": 1573,
+      "notes": "Faculty student exec (FBHIS)."
+    },
+    {
+      "name": "BEM Fakultas Sains dan Teknologi (FST) Umsida",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfst_umsida",
+      "follower_count": 1367,
+      "notes": "Faculty student exec (FST), Kabinet Adiwidyakarsa."
+    },
+    {
+      "name": "BEM Fakultas Ilmu Kesehatan (FIKES) Umsida",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikesumsida",
+      "follower_count": 1203,
+      "notes": "Faculty student exec (FIKES)."
+    }
+  ]
+}

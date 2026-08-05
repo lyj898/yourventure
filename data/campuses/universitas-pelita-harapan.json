@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-pelita-harapan",
+  "name": "Universitas Pelita Harapan (UPH)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Tangerang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://www.uph.edu",
+  "orgs": [
+    {
+      "name": "BEM Universitas Pelita Harapan",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_uph",
+      "follower_count": null,
+      "notes": "University-wide student exec, Karawaci; ~14K followers; bio 'SPIRIT OF EXCELLENCE!'"
+    }
+  ]
+}

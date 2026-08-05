@@ -1,0 +1,44 @@
+{
+  "slug": "universitas-bhayangkara-jakarta-raya",
+  "name": "Universitas Bhayangkara Jakarta Raya (Ubhara Jaya)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bekasi",
+  "province": "Jawa Barat",
+  "future_series_city": "Jakarta",
+  "website": "https://ubharajaya.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FH Ubhara Jaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.fhubhara",
+      "follower_count": 1962,
+      "notes": "BEM Fakultas Hukum"
+    },
+    {
+      "name": "BEM FIKOM Ubhara Jaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfikom_ubhara",
+      "follower_count": 2516,
+      "notes": "BEM Fakultas Ilmu Komunikasi, Kampus II Bekasi"
+    },
+    {
+      "name": "BEM Psikologi Ubhara Jaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpsikologi.ubj",
+      "follower_count": 2405,
+      "notes": "BEM Fakultas Psikologi, Kabinet Satya Karsa"
+    },
+    {
+      "name": "BEM Fasilkom Ubhara Jaya",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfasilkom_ubhara",
+      "follower_count": 1213,
+      "notes": "BEM Fakultas Ilmu Komputer"
+    }
+  ]
+}

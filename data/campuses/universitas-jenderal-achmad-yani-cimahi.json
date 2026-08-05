@@ -1,0 +1,60 @@
+{
+  "slug": "universitas-jenderal-achmad-yani-cimahi",
+  "name": "Universitas Jenderal Achmad Yani (Unjani)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Cimahi",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unjani.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM Unjani",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmunjani",
+      "follower_count": null,
+      "notes": "University-wide student exec; bio 'akun resmi BEM KM Unjani'; shown ~10.2K followers"
+    },
+    {
+      "name": "DPM KM Unjani",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmkmunjani",
+      "follower_count": 813,
+      "notes": "University-wide student legislature (Dewan Perwakilan Mahasiswa KM), Komisi I-IV"
+    },
+    {
+      "name": "BEM KM Fakultas Kedokteran Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkunjani",
+      "follower_count": 3629,
+      "notes": "Faculty of Medicine student exec"
+    },
+    {
+      "name": "BEM KM Fakultas Kedokteran Gigi Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfkgunjani",
+      "follower_count": 2583,
+      "notes": "Faculty of Dentistry student exec"
+    },
+    {
+      "name": "BEM KM Fakultas Psikologi Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsikologiunjani",
+      "follower_count": 2717,
+      "notes": "Faculty of Psychology student exec, Kabinet Resonansi"
+    },
+    {
+      "name": "BEM KM Fakultas Sains dan Informatika Unjani",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfsiunjani",
+      "follower_count": 1409,
+      "notes": "Faculty of Science & Informatics student exec"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-bale-bandung",
+  "name": "Universitas Bale Bandung (Unibba)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Baleendah",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://www.unibba.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Bale Bandung",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunibba",
+      "follower_count": 1134,
+      "notes": "University-wide student exec, Kabinet Catalyst 2026"
+    }
+  ]
+}

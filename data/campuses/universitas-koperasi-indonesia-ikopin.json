@@ -1,0 +1,36 @@
+{
+  "slug": "universitas-koperasi-indonesia-ikopin",
+  "name": "Universitas Koperasi Indonesia (IKOPIN)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Jatinangor",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://ikopin.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KM IKOPIN University",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemikopin",
+      "follower_count": 3892,
+      "notes": "University-wide student exec, Kabinet Pilar Esensial"
+    },
+    {
+      "name": "HIMA Manajemen FEB IKOPIN University",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himamanajemenikopin",
+      "follower_count": 3565,
+      "notes": "Management student himpunan, Faculty of Economics & Business"
+    },
+    {
+      "name": "HIMA Agribisnis IKOPIN University",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hima.agribisnis",
+      "follower_count": 473,
+      "notes": "Agribusiness student himpunan; generic handle, confirmed as IKOPIN via profile title"
+    }
+  ]
+}

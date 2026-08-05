@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-nurtanio-bandung",
+  "name": "Universitas Nurtanio Bandung (Unnur)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Bandung",
+  "province": "Jawa Barat",
+  "future_series_city": "Bandung",
+  "website": "https://unnur.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Nurtanio Bandung",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemnurtanio",
+      "follower_count": 2468,
+      "notes": "University-wide student exec, Kabinet Samagra Nirmala"
+    }
+  ]
+}

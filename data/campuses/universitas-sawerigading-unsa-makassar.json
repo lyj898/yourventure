@@ -1,0 +1,20 @@
+{
+  "slug": "universitas-sawerigading-unsa-makassar",
+  "name": "Universitas Sawerigading Makassar (UNSA)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Makassar",
+  "province": "Sulawesi Selatan",
+  "future_series_city": "Makassar",
+  "website": null,
+  "orgs": [
+    {
+      "name": "BEM Universitas Sawerigading Makassar",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunsamakassar",
+      "follower_count": 1007,
+      "notes": "Verified via profile: bio 'Akun Resmi Badan Eksekutif Mahasiswa Universitas Sawerigading Makassar'. University-wide student exec."
+    }
+  ]
+}

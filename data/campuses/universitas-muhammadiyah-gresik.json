@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-muhammadiyah-gresik",
+  "name": "Universitas Muhammadiyah Gresik (UMG)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Gresik",
+  "province": "Jawa Timur",
+  "future_series_city": "Surabaya",
+  "website": "https://umg.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Muhammadiyah Gresik",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemumg",
+      "follower_count": 3019,
+      "notes": "University-wide student exec. Bio: Akun Resmi BEM UMG."
+    },
+    {
+      "name": "Himpunan Mahasiswa Manajemen UMG",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmm_umg",
+      "follower_count": 2780,
+      "notes": "Management student association, Fakultas Ekonomi & Bisnis UMG."
+    }
+  ]
+}

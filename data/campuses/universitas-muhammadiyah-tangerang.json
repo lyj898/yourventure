@@ -1,0 +1,28 @@
+{
+  "slug": "universitas-muhammadiyah-tangerang",
+  "name": "Universitas Muhammadiyah Tangerang (UMT)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Tangerang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://umt.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Muhammadiyah Tangerang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.umt",
+      "follower_count": 2635,
+      "notes": "Primary university-wide BEM; a smaller alt account @bemumt (460) also exists"
+    },
+    {
+      "name": "BEM FEB UMT",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebumt",
+      "follower_count": 2350,
+      "notes": "BEM Fakultas Ekonomi dan Bisnis"
+    }
+  ]
+}
