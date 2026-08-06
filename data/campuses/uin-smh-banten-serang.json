@@ -1,0 +1,62 @@
+{
+  "slug": "uin-smh-banten-serang",
+  "name": "UIN Sultan Maulana Hasanuddin Banten (UIN SMH Banten)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Serang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://uinbanten.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UIN SMH Banten",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demauinbanten",
+      "follower_count": 7144,
+      "email": "demaubanten25@gmail.com",
+      "whatsapp": null,
+      "notes": "Dewan Eksekutif Mahasiswa = university exec (DEMA->BEM); email from indexed IG bio"
+    },
+    {
+      "name": "SEMA UIN SMH Banten",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@sema.uinbanten",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Senat Mahasiswa = university legislature (SEMA->DPM); has Linktree"
+    },
+    {
+      "name": "DEMA FTK UIN SMH Banten",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demaftk_uinbanten",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Tarbiyah & Teacher Training exec, 2025"
+    },
+    {
+      "name": "SEMA FTK UIN SMH Banten",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semaftk_uinsmhbanten",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Tarbiyah legislature, 2025"
+    },
+    {
+      "name": "SEMA FEBI UIN SMH Banten",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semafebi_uinbanten",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Economics & Islamic Business legislature"
+    }
+  ]
+}

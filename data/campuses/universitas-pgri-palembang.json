@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-pgri-palembang",
+  "name": "Universitas PGRI Palembang (UPGRIP)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Palembang",
+  "province": "Sumatera Selatan",
+  "future_series_city": "Palembang",
+  "website": "https://www.univpgri-palembang.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FKIP Universitas PGRI Palembang",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkip_pgri",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Teacher Training exec; univ-wide BEM only found on Facebook"
+    }
+  ]
+}

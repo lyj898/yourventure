@@ -1,0 +1,92 @@
+{
+  "slug": "universitas-brawijaya",
+  "name": "Universitas Brawijaya (UB)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://ub.ac.id",
+  "orgs": [
+    {
+      "name": "Eksekutif Mahasiswa Universitas Brawijaya (EM UB)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@em_ubofficial",
+      "follower_count": 94000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student exec (BEM-equivalent), Kabinet Rajut Wijaya 2026; ~94K approx from profile snippet"
+    },
+    {
+      "name": "Dewan Perwakilan Mahasiswa UB (DPM UB)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmub",
+      "follower_count": 13000,
+      "email": "dpm@ub.ac.id",
+      "whatsapp": "+6288291946219",
+      "notes": "Student legislature; ~13K approx; email/WA from profile/bio snippet"
+    },
+    {
+      "name": "BEM FEB UB (Ekonomi dan Bisnis)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebub",
+      "follower_count": 22000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM; ~22K approx"
+    },
+    {
+      "name": "BEM FIA UB (Ilmu Administrasi)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfiaub",
+      "follower_count": 20000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM; ~20K approx"
+    },
+    {
+      "name": "BEM Teknik UB",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemteknik.ub",
+      "follower_count": 15000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM; ~15K approx"
+    },
+    {
+      "name": "BEM FK UB (Kedokteran)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkub",
+      "follower_count": 14000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM; ~14K approx"
+    },
+    {
+      "name": "BEM FPIK UB (Perikanan dan Ilmu Kelautan)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfpikub",
+      "follower_count": 14000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM; ~14K approx"
+    },
+    {
+      "name": "UKM Atletik Universitas Brawijaya",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@atletik.brawijaya",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University athletics/running UKM"
+    }
+  ]
+}

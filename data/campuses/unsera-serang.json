@@ -1,0 +1,42 @@
+{
+  "slug": "unsera-serang",
+  "name": "Universitas Serang Raya (Unsera)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Serang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://unsera.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Serang Raya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunsera_",
+      "follower_count": 1804,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student exec"
+    },
+    {
+      "name": "BEM FEB Unsera",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@febunsera",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Economics & Business account"
+    },
+    {
+      "name": "UKM Pengembangan Olahraga (PO) Unsera",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukm_po_unsera",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Sports development UKM, est. 2006; futsal, volley, badminton, basket, table tennis"
+    }
+  ]
+}

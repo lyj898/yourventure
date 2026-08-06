@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-widyagama-malang",
+  "name": "Universitas Widyagama Malang (UWG)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://widyagama.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Widyagama Malang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemuwg",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student exec"
+    }
+  ]
+}

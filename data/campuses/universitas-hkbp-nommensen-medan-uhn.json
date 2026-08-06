@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-hkbp-nommensen-medan-uhn",
+  "name": "Universitas HKBP Nommensen Medan (UHN)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://uhn.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Fakultas Teknik UHN",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_ft_uhn",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Engineering exec (Sipil/Elektro/Mesin). University-level exec account not verifiable"
+    }
+  ]
+}

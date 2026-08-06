@@ -1,0 +1,32 @@
+{
+  "slug": "politeknik-negeri-sriwijaya",
+  "name": "Politeknik Negeri Sriwijaya (Polsri)",
+  "type": "Politeknik",
+  "ownership": "Negeri",
+  "city": "Palembang",
+  "province": "Sumatera Selatan",
+  "future_series_city": "Palembang",
+  "website": "https://www.polsri.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Politeknik Negeri Sriwijaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempolsri_",
+      "follower_count": 19000,
+      "email": null,
+      "whatsapp": "+6282289132699",
+      "notes": "Kabinet Lentera Sriwijaya; ~19K approx; WA contact 'Indra' in bio"
+    },
+    {
+      "name": "UKM Olahraga Polsri",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmolahragapolsri",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Sports student activity unit"
+    }
+  ]
+}

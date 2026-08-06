@@ -1,0 +1,52 @@
+{
+  "slug": "uin-maulana-malik-ibrahim-malang",
+  "name": "UIN Maulana Malik Ibrahim Malang (UIN Maliki)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://uin-malang.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UIN Maliki Malang (Dewan Eksekutif Mahasiswa)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demaliki.mlg",
+      "follower_count": 18000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University exec (DEMA-U = BEM Universitas), Kabinet Bharata Yhuda; ~18K approx"
+    },
+    {
+      "name": "DEMA Fakultas Sains dan Teknologi UIN Malang",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafst.uinmalang",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty exec (DEMA-F = BEM Fakultas), Sains & Teknologi"
+    },
+    {
+      "name": "DEMA Fakultas Humaniora UIN Malang",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@dema.fahumuinma",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty exec (DEMA-F = BEM Fakultas), Humaniora"
+    },
+    {
+      "name": "SEMA Fakultas Humaniora UIN Malang",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semafahum",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty student senate/legislature (SEMA = DPM-equivalent)"
+    }
+  ]
+}

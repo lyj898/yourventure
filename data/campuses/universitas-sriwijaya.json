@@ -1,0 +1,52 @@
+{
+  "slug": "universitas-sriwijaya",
+  "name": "Universitas Sriwijaya (Unsri)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Indralaya",
+  "province": "Sumatera Selatan",
+  "future_series_city": "Palembang",
+  "website": "https://www.unsri.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Sriwijaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunsriofficial",
+      "follower_count": 26000,
+      "email": "bem@unsri.ac.id",
+      "whatsapp": null,
+      "notes": "Official univ exec (Kabinet Pijar Harmoni); ~26K followers approx"
+    },
+    {
+      "name": "BEM KM Universitas Sriwijaya",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmunsri",
+      "follower_count": 32000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "BEM Keluarga Mahasiswa univ-level; ~32K approx"
+    },
+    {
+      "name": "BEM KM Fakultas Pertanian Unsri",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkmfp_unsri",
+      "follower_count": 8533,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Agriculture exec"
+    },
+    {
+      "name": "BEM KM FMIPA Unsri",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfmipaunsri",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Math & Natural Sciences exec"
+    }
+  ]
+}

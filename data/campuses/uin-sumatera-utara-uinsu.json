@@ -1,0 +1,62 @@
+{
+  "slug": "uin-sumatera-utara-uinsu",
+  "name": "Universitas Islam Negeri Sumatera Utara (UINSU)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.uinsu.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UINSU (Dewan Eksekutif Mahasiswa)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demauinsu",
+      "follower_count": 1443,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University executive (DEMA maps to BEM Universitas)"
+    },
+    {
+      "name": "SEMA FITK UINSU",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semafitkuinsu",
+      "follower_count": 1748,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty senate (Tarbiyah & Keguruan); legislature -> DPM"
+    },
+    {
+      "name": "DEMA FEBI UINSU",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafebi_uinsu",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Economics & Islamic Business exec"
+    },
+    {
+      "name": "DEMAF Saintek UINSU",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafsaintekuinsu",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Science & Technology exec"
+    },
+    {
+      "name": "HMJ Ilmu Perpustakaan UINSU (HMJIP)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmjip_uinsu",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Departmental student association (Library Science)"
+    }
+  ]
+}

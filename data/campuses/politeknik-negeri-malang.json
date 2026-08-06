@@ -1,0 +1,52 @@
+{
+  "slug": "politeknik-negeri-malang",
+  "name": "Politeknik Negeri Malang (Polinema)",
+  "type": "Politeknik",
+  "ownership": "Negeri",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://www.polinema.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Polinema",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempolinema",
+      "follower_count": 33000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Institution-wide student exec; ~33K approx"
+    },
+    {
+      "name": "DPM Polinema",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@polinemadpm",
+      "follower_count": 2919,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Student legislature 2025/2026"
+    },
+    {
+      "name": "Himpunan Mahasiswa Mesin Polinema",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmmpolinema",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Mechanical Engineering himpunan"
+    },
+    {
+      "name": "HMTI Polinema (Teknik Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmtipolinema",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Informatics himpunan"
+    }
+  ]
+}

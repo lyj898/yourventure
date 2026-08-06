@@ -1,0 +1,82 @@
+{
+  "slug": "universitas-sumatera-utara-usu",
+  "name": "Universitas Sumatera Utara (USU)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.usu.ac.id",
+  "orgs": [
+    {
+      "name": "BEM USU (Pemerintahan Mahasiswa USU)",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.usu",
+      "follower_count": 27000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student executive; ~27K (rounded display)"
+    },
+    {
+      "name": "BEM FISIP USU",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipusu",
+      "follower_count": 5743,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Social & Political Sciences exec"
+    },
+    {
+      "name": "BEM FKG USU",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkgusu",
+      "follower_count": 3853,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Dentistry exec"
+    },
+    {
+      "name": "DPM-F Psikologi USU",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfpsikologiusu",
+      "follower_count": 1100,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty-level student legislature (Psychology); ~1,100"
+    },
+    {
+      "name": "DPM FP USU",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfpusu",
+      "follower_count": 193,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Agriculture legislature"
+    },
+    {
+      "name": "USURUN",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@usu.run",
+      "follower_count": 1129,
+      "email": null,
+      "whatsapp": null,
+      "notes": "USU running event/community account"
+    },
+    {
+      "name": "SUARA USU",
+      "org_type": "Other",
+      "contact_type": "Instagram",
+      "contact_value": "@suarausu_official",
+      "follower_count": 23000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Student press institute (Pers Mahasiswa); ~23K"
+    }
+  ]
+}

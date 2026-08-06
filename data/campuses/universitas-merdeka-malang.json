@@ -1,0 +1,42 @@
+{
+  "slug": "universitas-merdeka-malang",
+  "name": "Universitas Merdeka Malang (Unmer)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://unmer.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Merdeka Malang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunmermlg",
+      "follower_count": 5746,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Univ exec, dilantik 2025/2026"
+    },
+    {
+      "name": "BEM FISIP Unmer",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipunmer",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM (Social & Political Sciences)"
+    },
+    {
+      "name": "BEM FH Unmer (Hukum)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfhunmer_",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM (Law)"
+    }
+  ]
+}

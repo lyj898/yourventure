@@ -13,7 +13,7 @@ if (!src) {
 const dataDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'campuses');
 
 const CAMPUS_KEYS = ['slug', 'name', 'type', 'ownership', 'city', 'province', 'future_series_city', 'website'];
-const ORG_KEYS = ['name', 'org_type', 'contact_type', 'contact_value', 'follower_count', 'notes'];
+const ORG_KEYS = ['name', 'org_type', 'contact_type', 'contact_value', 'follower_count', 'email', 'whatsapp', 'notes'];
 const unescape = (s) =>
   typeof s === 'string'
     ? s.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'")

@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-muhammadiyah-sumatera-utara-umsu",
+  "name": "Universitas Muhammadiyah Sumatera Utara (UMSU)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.umsu.ac.id",
+  "orgs": [
+    {
+      "name": "BEM PT UMSU",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemptumsu",
+      "follower_count": 677,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide (Perguruan Tinggi) student executive"
+    }
+  ]
+}

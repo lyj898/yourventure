@@ -1,0 +1,42 @@
+{
+  "slug": "universitas-negeri-malang",
+  "name": "Universitas Negeri Malang (UM)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://um.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Negeri Malang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemum.official",
+      "follower_count": 16000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Current univ exec (Kabinet Cakra Daya Kara 2025); ~16K approx. Older 2024 cabinet account @bemum_official (~35K) still active"
+    },
+    {
+      "name": "Dewan Perwakilan Mahasiswa UM (DPM UM)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpm_um",
+      "follower_count": 3179,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Student legislature; a second handle @dpm.um (~1,848) also appears"
+    },
+    {
+      "name": "BEMFA Psikologi UM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempsium",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM (Psychology)"
+    }
+  ]
+}

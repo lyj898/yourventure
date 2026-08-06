@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-pembangunan-panca-budi-unpab",
+  "name": "Universitas Pembangunan Panca Budi (UNPAB)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.pancabudi.ac.id",
+  "orgs": [
+    {
+      "name": "BEM UNPAB",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem.unpab",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student executive; follower count not visible in search snippet"
+    }
+  ]
+}

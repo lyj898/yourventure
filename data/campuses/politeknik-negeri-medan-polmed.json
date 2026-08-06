@@ -1,0 +1,22 @@
+{
+  "slug": "politeknik-negeri-medan-polmed",
+  "name": "Politeknik Negeri Medan (Polmed)",
+  "type": "Politeknik",
+  "ownership": "Negeri",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.polmed.ac.id",
+  "orgs": [
+    {
+      "name": "BEM POLMED",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bempolmed",
+      "follower_count": 18000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Institution-wide student executive; ~18K"
+    }
+  ]
+}

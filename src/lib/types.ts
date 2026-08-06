@@ -19,6 +19,9 @@ export const FS_CITIES = [
   'Yogyakarta',
   'Surabaya',
   'Makassar',
+  'Medan',
+  'Palembang',
+  'Malang',
 ] as const;
 export type FsCity = (typeof FS_CITIES)[number];
 

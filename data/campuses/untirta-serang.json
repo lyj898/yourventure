@@ -1,0 +1,112 @@
+{
+  "slug": "untirta-serang",
+  "name": "Universitas Sultan Ageng Tirtayasa (Untirta)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Serang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://untirta.ac.id",
+  "orgs": [
+    {
+      "name": "BEM KBM Untirta",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemkbmuntirta",
+      "follower_count": 32000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student exec; cabinet 'Asa Berdaya' 2025; ~32K followers"
+    },
+    {
+      "name": "BEM KBM FKIP Untirta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkip.untirta",
+      "follower_count": 14000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Teacher Training & Education; ~14K followers"
+    },
+    {
+      "name": "BEM KBM Faperta Untirta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfapertauntirta",
+      "follower_count": 7475,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Agriculture"
+    },
+    {
+      "name": "BEM KM FH Untirta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_fhuntirta",
+      "follower_count": 6480,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Law"
+    },
+    {
+      "name": "BEM FEB Untirta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfebuntirta_official",
+      "follower_count": 4572,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Economics & Business, 2025 account"
+    },
+    {
+      "name": "BEM KBM FKIK Untirta",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_fkikuntirta",
+      "follower_count": 3041,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Medicine & Health Sciences"
+    },
+    {
+      "name": "DPM FKIP Untirta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfkipuntirta",
+      "follower_count": 2889,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty legislature (Teacher Training & Education)"
+    },
+    {
+      "name": "DPM FISIP Untirta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfisipuntirta",
+      "follower_count": 1353,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty legislature (Social & Political Science)"
+    },
+    {
+      "name": "DPM FEB Untirta",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmfebuntirta_",
+      "follower_count": 390,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty legislature (Economics & Business)"
+    },
+    {
+      "name": "UKM Olahraga Untirta",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmolahraga.untirta",
+      "follower_count": 469,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Multi-sport UKM: futsal, football, basket, volley, badminton, athletics, swimming"
+    }
+  ]
+}

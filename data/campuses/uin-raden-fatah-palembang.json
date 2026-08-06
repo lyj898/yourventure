@@ -1,0 +1,52 @@
+{
+  "slug": "uin-raden-fatah-palembang",
+  "name": "UIN Raden Fatah Palembang (UIN RF)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Palembang",
+  "province": "Sumatera Selatan",
+  "future_series_city": "Palembang",
+  "website": "https://radenfatah.ac.id",
+  "orgs": [
+    {
+      "name": "DEMA UIN Raden Fatah Palembang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@demauinradenfatah",
+      "follower_count": 29000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Dewan Eksekutif Mahasiswa (univ exec); ~29K approx"
+    },
+    {
+      "name": "SEMA UIN Raden Fatah Palembang",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semauinrfplg",
+      "follower_count": 2480,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Senat Mahasiswa (univ legislature) mapped to DPM"
+    },
+    {
+      "name": "DEMA FITK UIN RF",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafitkuinplg",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Tarbiyah & Teacher Training exec"
+    },
+    {
+      "name": "DEMA FEBI UIN RF",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@demafebiuinrfplg",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Islamic Economics & Business exec (official account)"
+    }
+  ]
+}

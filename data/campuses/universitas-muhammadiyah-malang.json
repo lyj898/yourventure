@@ -1,0 +1,42 @@
+{
+  "slug": "universitas-muhammadiyah-malang",
+  "name": "Universitas Muhammadiyah Malang (UMM)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://www.umm.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Muhammadiyah Malang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemumm",
+      "follower_count": 17000,
+      "email": "bemu.umm@gmail.com",
+      "whatsapp": "+6281234967746",
+      "notes": "Univ exec, Kabinet Satya Prabaswara 2024-2025; ~17K approx; email/WA from bemu.umm.ac.id + profile"
+    },
+    {
+      "name": "BEM Fakultas Teknik UMM",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_ftumm",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM (Engineering)"
+    },
+    {
+      "name": "UKM Atletik UMM",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmatletikumm",
+      "follower_count": 507,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Athletics/running UKM"
+    }
+  ]
+}

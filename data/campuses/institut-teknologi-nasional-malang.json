@@ -1,0 +1,42 @@
+{
+  "slug": "institut-teknologi-nasional-malang",
+  "name": "Institut Teknologi Nasional Malang (ITN)",
+  "type": "Institut",
+  "ownership": "Swasta",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://itn.ac.id",
+  "orgs": [
+    {
+      "name": "Himpunan Mahasiswa Elektro ITN Malang (HME)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hme_itnmalang",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Electrical Engineering himpunan"
+    },
+    {
+      "name": "Himpunan Mahasiswa Geodesi ITN Malang (HMG)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hmgitnmalang",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Geodesy himpunan"
+    },
+    {
+      "name": "HATI ITN Malang (Himpunan Teknik Informatika)",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@hati_itn_malang",
+      "follower_count": 1078,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Informatics himpunan; no university-wide BEM handle found"
+    }
+  ]
+}

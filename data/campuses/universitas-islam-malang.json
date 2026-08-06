@@ -1,0 +1,62 @@
+{
+  "slug": "universitas-islam-malang",
+  "name": "Universitas Islam Malang (UNISMA)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://unisma.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Islam Malang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemunisma",
+      "follower_count": 8125,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Univ exec, Kabinet Nilapitam 2025"
+    },
+    {
+      "name": "DPM UNISMA",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@dpmunisma",
+      "follower_count": 3073,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Student legislature 2025"
+    },
+    {
+      "name": "BEM FK UNISMA (Kedokteran)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfkunisma",
+      "follower_count": 2540,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM (Medicine)"
+    },
+    {
+      "name": "BEM FH UNISMA (Hukum)",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfh_unisma",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty BEM (Law)"
+    },
+    {
+      "name": "UKM Olahraga UNISMA Malang",
+      "org_type": "UKM Olahraga/Lari",
+      "contact_type": "Instagram",
+      "contact_value": "@ukmolahraga_unisma",
+      "follower_count": 2519,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Sports UKM umbrella; athletics sub-unit @atletik.unisma"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-muhammadiyah-ahmad-dahlan-palembang",
+  "name": "Universitas Muhammadiyah Ahmad Dahlan Palembang (UM-AD)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Palembang",
+  "province": "Sumatera Selatan",
+  "future_series_city": "Palembang",
+  "website": "https://um-ad.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Muhammadiyah Ahmad Dahlan Palembang",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bem_umadp",
+      "follower_count": 2462,
+      "email": "bemumadpalembang@gmail.com",
+      "whatsapp": null,
+      "notes": "Univ exec; UM-AD became a university Dec 2024 (formerly IIKT Muhammadiyah Palembang) — distinct from UMP"
+    }
+  ]
+}

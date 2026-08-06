@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-negeri-medan-unimed",
+  "name": "Universitas Negeri Medan (UNIMED)",
+  "type": "Universitas",
+  "ownership": "Negeri",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.unimed.ac.id",
+  "orgs": [
+    {
+      "name": "Senat Mahasiswa UNIMED (SEMA UNIMED)",
+      "org_type": "DPM",
+      "contact_type": "Instagram",
+      "contact_value": "@semaunimed.id",
+      "follower_count": 26000,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University-wide student senate/legislature; ~26K. University-level executive (BEM/PEMA) account not verifiable"
+    }
+  ]
+}

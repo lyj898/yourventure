@@ -1,0 +1,32 @@
+{
+  "slug": "unis-syekh-yusuf-tangerang",
+  "name": "Universitas Islam Syekh-Yusuf (Unis)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Tangerang",
+  "province": "Banten",
+  "future_series_city": "Jakarta",
+  "website": "https://unis.ac.id",
+  "orgs": [
+    {
+      "name": "BEM FISIP Unis Tangerang",
+      "org_type": "BEM Fakultas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemfisipunista",
+      "follower_count": 812,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Faculty of Social & Political Science exec"
+    },
+    {
+      "name": "HIMIKOM Unis Tangerang",
+      "org_type": "HIMA",
+      "contact_type": "Instagram",
+      "contact_value": "@himikom_unista",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Communication Science student association"
+    }
+  ]
+}

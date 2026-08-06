@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-ma-chung",
+  "name": "Universitas Ma Chung",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Malang",
+  "province": "Jawa Timur",
+  "future_series_city": "Malang",
+  "website": "https://machung.ac.id",
+  "orgs": [
+    {
+      "name": "BEM Universitas Ma Chung",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemumachung",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Univ exec under BPMU structure; bio lists email but value was redacted in snippet"
+    }
+  ]
+}

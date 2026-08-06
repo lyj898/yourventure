@@ -1,0 +1,22 @@
+{
+  "slug": "universitas-islam-sumatera-utara-uisu",
+  "name": "Universitas Islam Sumatera Utara (UISU)",
+  "type": "Universitas",
+  "ownership": "Swasta",
+  "city": "Medan",
+  "province": "Sumatera Utara",
+  "future_series_city": "Medan",
+  "website": "https://www.uisu.ac.id",
+  "orgs": [
+    {
+      "name": "BEM UISU",
+      "org_type": "BEM Universitas",
+      "contact_type": "Instagram",
+      "contact_value": "@bemuisumedan",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "University student executive; profile labeled as an earlier (2018-2019) period, may be inactive"
+    }
+  ]
+}
