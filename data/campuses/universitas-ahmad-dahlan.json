@@ -63,8 +63,8 @@
     {
       "name": "BEM FKIP UAD",
       "org_type": "BEM Fakultas",
-      "contact_type": "Instagram",
-      "contact_value": "@bem_fkip_uad",
+      "contact_type": null,
+      "contact_value": null,
       "follower_count": 3261,
       "notes": "Fakultas Keguruan dan Ilmu Pendidikan (Kabinet Sakhandata)."
     },
