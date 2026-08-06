@@ -7,5 +7,16 @@
   "province": "Sumatera Utara",
   "future_series_city": "Medan",
   "website": "https://www.uma.ac.id",
-  "orgs": []
+  "orgs": [
+    {
+      "name": "HIPMI PT UMA",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmiptuma_",
+      "follower_count": 75,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship (HIPMI PT chapter at Universitas Medan Area, student-run)."
+    }
+  ]
 }

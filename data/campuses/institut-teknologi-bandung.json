@@ -99,6 +99,36 @@
       "whatsapp": null,
       "notes": "Official IG per karir.itb.ac.id about-us; website karir.itb.ac.id",
       "follower_count": null
+    },
+    {
+      "name": "Techno Entrepreneur Club (TEC) ITB",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@tec.itb",
+      "follower_count": 6149,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship. Student-run technopreneurship club founded 2006; website tecitb.com. Verified on profile."
+    },
+    {
+      "name": "International Consulting Club at ITB (ICC)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@icc.itb",
+      "follower_count": 1560,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Consulting. Student-led pro-bono consulting &amp; professional development club. Verified on profile."
+    },
+    {
+      "name": "ITB Consulting Club",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@itbconsultingclub",
+      "follower_count": 502,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Consulting. Student-run club helping ITB students break into consulting firms via mentoring. Verified on profile."
     }
   ]
 }

@@ -7,5 +7,16 @@
   "province": "Banten",
   "future_series_city": "Jakarta",
   "website": "https://www.unpam.ac.id",
-  "orgs": []
+  "orgs": [
+    {
+      "name": "HIPMI PT Pamulang",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmipt.pamulang",
+      "follower_count": 573,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship — HIPMI Perguruan Tinggi chapter at Universitas Pamulang."
+    }
+  ]
 }

@@ -19,7 +19,7 @@
     },
     {
       "name": "XCM UBM (HIMA Manajemen)",
-      "org_type": "HIMA",
+      "org_type": "Business/Entrepreneurship",
       "contact_type": "Instagram",
       "contact_value": "@ubm_xcm_ancol",
       "follower_count": 2159,
@@ -67,6 +67,16 @@
       "whatsapp": null,
       "notes": "Official ACC; site careercenter.ubm.ac.id",
       "follower_count": null
+    },
+    {
+      "name": "Excellent Community of Management (XCM) UBM - Serpong",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_xcm_serpong",
+      "follower_count": 951,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Business/management student community, Serpong campus"
     }
   ]
 }

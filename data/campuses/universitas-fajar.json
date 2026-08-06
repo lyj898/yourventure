@@ -7,5 +7,16 @@
   "province": "Sulawesi Selatan",
   "future_series_city": "Makassar",
   "website": "https://unifa.ac.id",
-  "orgs": []
+  "orgs": [
+    {
+      "name": "HIPMI PT Universitas Fajar",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmiptunifa",
+      "follower_count": 793,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship (HIPMI PT) chapter at Unifa Makassar; a second account @hipmipt_unifa (637 followers) also exists"
+    }
+  ]
 }

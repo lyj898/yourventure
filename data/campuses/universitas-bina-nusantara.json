@@ -84,6 +84,26 @@
       "whatsapp": null,
       "notes": "Official BINUS career center/job portal (binuscareer.com), Kampus Anggrek.",
       "follower_count": null
+    },
+    {
+      "name": "Binus Entrepreneur (b.preneur)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@b.preneur",
+      "follower_count": 9035,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship. Student organization for BINUS University students to pursue entrepreneurship; bio has linktr.ee/binusentrepreneur. Verified on profile."
+    },
+    {
+      "name": "BINUS Business Consulting Group",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@binus.bcg",
+      "follower_count": 1180,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Consulting / business-case. Student training group for BINUS Business School case &amp; consulting competitions; bio notes it is part of @mnlab_bbs (Business School management lab), so faculty-affiliated. Verified on profile."
     }
   ]
 }

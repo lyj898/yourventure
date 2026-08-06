@@ -37,6 +37,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Informatics himpunan; no university-wide BEM handle found"
+    },
+    {
+      "name": "Entrepreneur Community of ITN Malang (ECI)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@eci_itnmalang",
+      "follower_count": 84,
+      "email": "eciitnmalang@gmail.com",
+      "whatsapp": null,
+      "notes": "Entrepreneurship - official UKM Kewirausahaan ITN Malang"
     }
   ]
 }

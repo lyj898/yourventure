@@ -125,6 +125,36 @@
       "whatsapp": null,
       "notes": "Official UGM career unit page. UGM's operational engineering career center is ECC (ecc.co.id, IG @ecc.co.id), now a spun-off entity; the ecc.ft.ugm.ac.id subdomain is defunct. Page lists only generic UGM contacts.",
       "follower_count": null
+    },
+    {
+      "name": "UGM Entrepreneur Club",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@ugmeclub",
+      "follower_count": 434,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship: student entrepreneur club, 'Cradle of Innovation'"
+    },
+    {
+      "name": "HIPMI PT UGM",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmiptugm",
+      "follower_count": 5773,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship: HIPMI Perguruan Tinggi chapter (young entrepreneurs)"
+    },
+    {
+      "name": "180 Degrees Consulting UGM",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@180dcugm",
+      "follower_count": 10200,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Consulting: student-led consultancy branch (2023 Best Overall Branch of 180DC)"
     }
   ]
 }

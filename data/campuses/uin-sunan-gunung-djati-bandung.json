@@ -91,6 +91,26 @@
       "whatsapp": null,
       "notes": "Website cdc.uinsgd.ac.id; uinsgd.ac.id/pusat-karir",
       "follower_count": null
+    },
+    {
+      "name": "HIPMI PT UIN SGD",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmiptuinbandung",
+      "follower_count": 955,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship — HIPMI Perguruan Tinggi chapter at UIN Sunan Gunung Djati Bandung."
+    },
+    {
+      "name": "KSEI FORDES UIN SGD Bandung",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@fordes_uinbandung",
+      "follower_count": 2414,
+      "email": "ksei.fordes@gmail.com",
+      "whatsapp": null,
+      "notes": "Business-adjacent — Forum Studi Ekonomi Islam (Islamic economics study forum / KSEI)."
     }
   ]
 }

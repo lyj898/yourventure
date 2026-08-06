@@ -59,6 +59,16 @@
       "whatsapp": null,
       "notes": "IG @ukrida_pusatkarier; page ukrida.ac.id/department/utc/10/career-center",
       "follower_count": null
+    },
+    {
+      "name": "Himpunan Mahasiswa Manajemen Ukrida (HMM)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hmmukrida",
+      "follower_count": 1412,
+      "email": "hmm@ukrida.ac.id",
+      "whatsapp": null,
+      "notes": "Business/management student association. A WhatsApp (0819-1191-7475) appeared in a recruitment post tied to a named contact person, not the bio, so left null."
     }
   ]
 }

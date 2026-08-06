@@ -213,6 +213,36 @@
       "whatsapp": null,
       "notes": "Website cdc.ui.ac.id; under Direktorat Kemahasiswaan",
       "follower_count": null
+    },
+    {
+      "name": "180 Degrees Consulting UI",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@180dcui",
+      "follower_count": 10700,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Student consulting club — UI branch of 180 Degrees Consulting (student-led consultancy). Bio only links LinkedIn."
+    },
+    {
+      "name": "HIPMI PT UI",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmi_ui",
+      "follower_count": 8153,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship — HIPMI Perguruan Tinggi chapter (young entrepreneurs). Bio links bit.ly/CPHIPMIPTUI."
+    },
+    {
+      "name": "Kelompok Studi Pasar Modal (KSPM) FEB UI",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@kspmfebui",
+      "follower_count": 14200,
+      "email": "external@kspmfebui.com",
+      "whatsapp": "+6289521445136",
+      "notes": "Business / capital-market &amp; investment study club at FEB UI. WhatsApp contact person Laura Rafael per bio."
     }
   ]
 }

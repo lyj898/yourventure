@@ -7,5 +7,16 @@
   "province": "Sumatera Selatan",
   "future_series_city": "Palembang",
   "website": "https://www.ukmc.ac.id",
-  "orgs": []
+  "orgs": [
+    {
+      "name": "UKM Kewirausahaan UKMC",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@kwh_ukmc",
+      "follower_count": 377,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship - student UKM Kewirausahaan (Gedung Yuliana FBA)"
+    }
+  ]
 }

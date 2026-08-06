@@ -137,6 +137,16 @@
       "whatsapp": null,
       "notes": "IG @unjcareercenter; email listed on profile",
       "follower_count": null
+    },
+    {
+      "name": "UNJ Entrepreneur Club",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@unjentrepreneur",
+      "follower_count": 4908,
+      "email": "unjentrepreneur@gmail.com",
+      "whatsapp": null,
+      "notes": "Entrepreneurship club/community ('Building the Next Generations of Entrepreneurs')."
     }
   ]
 }

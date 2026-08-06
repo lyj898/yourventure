@@ -77,6 +77,26 @@
       "email": null,
       "whatsapp": null,
       "notes": "Student press institute (Pers Mahasiswa); ~23K"
+    },
+    {
+      "name": "KSPM USU (Kelompok Studi Pasar Modal)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@kspm.usu",
+      "follower_count": 3234,
+      "email": "usu.kspm@gmail.com",
+      "whatsapp": null,
+      "notes": "Business/investment - student capital-market study group at USU"
+    },
+    {
+      "name": "HIPMI PT USU",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@hipmiptusu",
+      "follower_count": 2027,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship - HIPMI Perguruan Tinggi chapter (young entrepreneurs) at USU"
     }
   ]
 }

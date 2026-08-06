@@ -114,6 +114,26 @@
       "whatsapp": null,
       "notes": "IG @untarcareer; centre site career.untar.ac.id",
       "follower_count": null
+    },
+    {
+      "name": "IMMANTA (Ikatan Mahasiswa Manajemen Tarumanagara)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@immanta_untar",
+      "follower_count": 6461,
+      "email": "info.immanta@gmail.com",
+      "whatsapp": "+6287781000853",
+      "notes": "Business/management student association, Untar. WhatsApp/number appears in their posts and search listing."
+    },
+    {
+      "name": "Enterprise Tarumanagara",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@enterprise.tarumanagara",
+      "follower_count": 337,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Entrepreneurship ('the entrepreneurial engine ... powered by the youth'). Caveat: describes itself as the engine of the Tarumanagara Foundation, so it may be institution-affiliated rather than purely student-run — verify before use."
     }
   ]
 }

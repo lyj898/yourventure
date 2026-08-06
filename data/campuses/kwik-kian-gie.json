@@ -18,7 +18,7 @@
     },
     {
       "name": "Kwik Kian Gie Accounting Forum (KAF)",
-      "org_type": "HIMA",
+      "org_type": "Business/Entrepreneurship",
       "contact_type": "Instagram",
       "contact_value": "@kaf.ibikkg",
       "follower_count": 954,
@@ -33,6 +33,16 @@
       "whatsapp": null,
       "notes": "Dedicated Pusat Karir page on the official campus site; no separate IG found",
       "follower_count": null
+    },
+    {
+      "name": "Finance Group of IBIKKG (FGI)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@fgi_ksb",
+      "follower_count": null,
+      "email": null,
+      "whatsapp": null,
+      "notes": "Business/finance student club (UKM) at Kwik Kian Gie, est. 1998; seminars, competitions, company visits"
     }
   ]
 }

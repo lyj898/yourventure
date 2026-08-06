@@ -78,6 +78,16 @@
       "whatsapp": null,
       "notes": "Official CDC Instagram",
       "follower_count": null
+    },
+    {
+      "name": "Himpunan Mahasiswa Manajemen Unisba (HIMMAN)",
+      "org_type": "Business/Entrepreneurship",
+      "contact_type": "Instagram",
+      "contact_value": "@himman_unisba",
+      "follower_count": 2506,
+      "email": "himmanunisba@gmail.com",
+      "whatsapp": null,
+      "notes": "Business/management student association, FEB Universitas Islam Bandung."
     }
   ]
 }
