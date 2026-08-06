@@ -197,12 +197,14 @@ export default function OrgSection({
   orgFilter = 'All',
   runningType = 'UKM Olahraga/Lari',
   careerType = 'Career Center',
+  businessType = 'Business/Entrepreneurship',
   onCountChange,
 }: {
   campusId: string;
-  orgFilter?: 'All' | 'Running' | 'Career' | 'Student';
+  orgFilter?: 'All' | 'Running' | 'Career' | 'Business' | 'Student';
   runningType?: string;
   careerType?: string;
+  businessType?: string;
   onCountChange: (count: number) => void;
 }) {
   const [orgs, setOrgs] = useState<StudentOrg[]>([]);
@@ -300,8 +302,10 @@ export default function OrgSection({
         return o.org_type === runningType;
       case 'Career':
         return o.org_type === careerType;
+      case 'Business':
+        return o.org_type === businessType;
       case 'Student':
-        return o.org_type !== runningType && o.org_type !== careerType;
+        return o.org_type !== runningType && o.org_type !== careerType && o.org_type !== businessType;
       default:
         return true;
     }

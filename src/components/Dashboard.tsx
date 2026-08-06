@@ -3,12 +3,10 @@ import type { Session } from '@supabase/supabase-js';
 import { supabase, isSupabaseConfigured } from '../lib/supabase';
 import {
   INSTITUTION_TYPES,
-  OWNERSHIP_TYPES,
   FS_CITIES,
   type CampusWithCount,
   type FsCity,
   type InstitutionType,
-  type OwnershipType,
 } from '../lib/types';
 import { exportToExcel, type OrgExportRow } from '../lib/exportExcel';
 import Login from './Login';
@@ -24,7 +22,8 @@ const GROUP_ORDER: (FsCity | typeof NO_FS_LABEL)[] = [...FS_CITIES, NO_FS_LABEL]
 // their own org_type; "Student orgs" = everything that's neither.
 const RUNNING_TYPE = 'UKM Olahraga/Lari';
 const CAREER_TYPE = 'Career Center';
-type OrgFilter = 'All' | 'Running' | 'Career' | 'Student';
+const BUSINESS_TYPE = 'Business/Entrepreneurship';
+type OrgFilter = 'All' | 'Running' | 'Career' | 'Business' | 'Student';
 
 export default function Dashboard() {
   // ── Auth ──────────────────────────────────────────────────────────────────
@@ -83,7 +82,6 @@ function Directory({ session }: { session: Session }) {
   const [search, setSearch] = useState('');
   const [fsFilter, setFsFilter] = useState<FsCity | 'All'>('All');
   const [typeFilter, setTypeFilter] = useState<InstitutionType | 'All'>('All');
-  const [ownFilter, setOwnFilter] = useState<OwnershipType | 'All'>('All');
   const [orgFilter, setOrgFilter] = useState<OrgFilter>('All');
 
   const [expandedId, setExpandedId] = useState<string | null>(null);
@@ -131,8 +129,10 @@ function Directory({ session }: { session: Session }) {
         return orgType === RUNNING_TYPE;
       case 'Career':
         return orgType === CAREER_TYPE;
+      case 'Business':
+        return orgType === BUSINESS_TYPE;
       case 'Student':
-        return orgType !== RUNNING_TYPE && orgType !== CAREER_TYPE;
+        return orgType !== RUNNING_TYPE && orgType !== CAREER_TYPE && orgType !== BUSINESS_TYPE;
       default:
         return true;
     }
@@ -166,7 +166,6 @@ function Directory({ session }: { session: Session }) {
     return campuses.filter((c) => {
       if (fsFilter !== 'All' && c.future_series_city !== fsFilter) return false;
       if (typeFilter !== 'All' && c.type !== typeFilter) return false;
-      if (ownFilter !== 'All' && c.ownership !== ownFilter) return false;
       // When filtering by org kind, only show campuses that have a matching org.
       if (orgFilter !== 'All' && !(matchCountByCampus.get(c.id) ?? 0)) return false;
       if (q) {
@@ -175,7 +174,7 @@ function Directory({ session }: { session: Session }) {
       }
       return true;
     });
-  }, [campuses, search, fsFilter, typeFilter, ownFilter, orgFilter, matchCountByCampus]);
+  }, [campuses, search, fsFilter, typeFilter, orgFilter, matchCountByCampus]);
 
   // ── Stats ─────────────────────────────────────────────────────────────────
   const citiesShown = useMemo(
@@ -290,23 +289,18 @@ function Directory({ session }: { session: Session }) {
       <div className="filters">
         <div className="filter-cluster">
           <span className="filter-label">Cities</span>
-          <div className="pill-group">
-            <button
-              className={`pill ${fsFilter === 'All' ? 'active' : ''}`}
-              onClick={() => setFsFilter('All')}
-            >
-              All
-            </button>
+          <select
+            className="select"
+            value={fsFilter}
+            onChange={(e) => setFsFilter(e.target.value as FsCity | 'All')}
+          >
+            <option value="All">All</option>
             {FS_CITIES.map((city) => (
-              <button
-                key={city}
-                className={`pill ${fsFilter === city ? 'active' : ''}`}
-                onClick={() => setFsFilter(city)}
-              >
+              <option key={city} value={city}>
                 {city}
-              </button>
+              </option>
             ))}
-          </div>
+          </select>
         </div>
 
         <div className="filter-cluster">
@@ -326,22 +320,6 @@ function Directory({ session }: { session: Session }) {
         </div>
 
         <div className="filter-cluster">
-          <span className="filter-label">Ownership</span>
-          <select
-            className="select"
-            value={ownFilter}
-            onChange={(e) => setOwnFilter(e.target.value as OwnershipType | 'All')}
-          >
-            <option value="All">All</option>
-            {OWNERSHIP_TYPES.map((o) => (
-              <option key={o} value={o}>
-                {o}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        <div className="filter-cluster">
           <span className="filter-label">Orgs</span>
           <select
             className="select"
@@ -351,6 +329,7 @@ function Directory({ session }: { session: Session }) {
             <option value="All">All</option>
             <option value="Running">Running</option>
             <option value="Career">Career centres</option>
+            <option value="Business">Business &amp; entrepreneurship</option>
             <option value="Student">Student orgs</option>
           </select>
         </div>
@@ -449,6 +428,7 @@ function Directory({ session }: { session: Session }) {
                           orgFilter={orgFilter}
                           runningType={RUNNING_TYPE}
                           careerType={CAREER_TYPE}
+                          businessType={BUSINESS_TYPE}
                           onCountChange={(n) => updateCount(c.id, n)}
                         />
                       </div>

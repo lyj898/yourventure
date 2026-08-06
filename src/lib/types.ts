@@ -32,6 +32,7 @@ export const ORG_TYPES = [
   'HIMA',
   'UKM Olahraga/Lari',
   'Career Center',
+  'Business/Entrepreneurship',
   'Other',
 ] as const;
 export type OrgType = (typeof ORG_TYPES)[number];
