@@ -20,10 +20,11 @@ import { SearchIcon, ChevronRight, PlusIcon, DownloadIcon } from './icons';
 const NO_FS_LABEL = 'Other';
 const GROUP_ORDER: (FsCity | typeof NO_FS_LABEL)[] = [...FS_CITIES, NO_FS_LABEL];
 
-// After the sports cleanup, this org_type marks running-related orgs; everything
-// else counts as a "student org" for the Running / Student filter.
+// Org-kind tags for the Orgs filter. Running clubs and career centres each get
+// their own org_type; "Student orgs" = everything that's neither.
 const RUNNING_TYPE = 'UKM Olahraga/Lari';
-type OrgFilter = 'All' | 'Running' | 'Student';
+const CAREER_TYPE = 'Career Center';
+type OrgFilter = 'All' | 'Running' | 'Career' | 'Student';
 
 export default function Dashboard() {
   // ── Auth ──────────────────────────────────────────────────────────────────
@@ -123,13 +124,19 @@ function Directory({ session }: { session: Session }) {
     if (!error && data) setOrgMeta(data as typeof orgMeta);
   }
 
-  // Does an org's type match the current Running / Student filter?
-  const orgMatches = (orgType: string) =>
-    orgFilter === 'All'
-      ? true
-      : orgFilter === 'Running'
-        ? orgType === RUNNING_TYPE
-        : orgType !== RUNNING_TYPE;
+  // Does an org's type match the current Orgs filter?
+  const orgMatches = (orgType: string) => {
+    switch (orgFilter) {
+      case 'Running':
+        return orgType === RUNNING_TYPE;
+      case 'Career':
+        return orgType === CAREER_TYPE;
+      case 'Student':
+        return orgType !== RUNNING_TYPE && orgType !== CAREER_TYPE;
+      default:
+        return true;
+    }
+  };
 
   useEffect(() => {
     loadCampuses();
@@ -343,6 +350,7 @@ function Directory({ session }: { session: Session }) {
           >
             <option value="All">All</option>
             <option value="Running">Running</option>
+            <option value="Career">Career centres</option>
             <option value="Student">Student orgs</option>
           </select>
         </div>
@@ -440,6 +448,7 @@ function Directory({ session }: { session: Session }) {
                           campusId={c.id}
                           orgFilter={orgFilter}
                           runningType={RUNNING_TYPE}
+                          careerType={CAREER_TYPE}
                           onCountChange={(n) => updateCount(c.id, n)}
                         />
                       </div>

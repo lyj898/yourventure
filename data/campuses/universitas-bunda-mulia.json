@@ -57,6 +57,16 @@
       "contact_value": "@ubm_himsi_serpong",
       "follower_count": 552,
       "notes": "Himpunan Mahasiswa Sistem Informasi, Serpong campus."
+    },
+    {
+      "name": "Alumni &amp; Career Center UBM (ACC UBM)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@ubm_alumnicareercenter",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official ACC; site careercenter.ubm.ac.id",
+      "follower_count": null
     }
   ]
 }

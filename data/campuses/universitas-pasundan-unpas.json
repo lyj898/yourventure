@@ -50,6 +50,16 @@
       "contact_value": "@dpmfisip.unpas",
       "follower_count": 1254,
       "notes": "DPM (legislative) of Fakultas FISIP. No university-wide DPM IG corroborated."
+    },
+    {
+      "name": "Portal Tracer Study dan Pusat Karir Unpas",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://unpas.karirlink.id/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "University tracer/career portal; no verified dedicated-office IG (the @ppklkm.puskar.up account is Univ Pancasila, not Pasundan)",
+      "follower_count": null
     }
   ]
 }

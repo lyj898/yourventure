@@ -203,6 +203,16 @@
       "contact_value": "@ui.halfmarathon",
       "follower_count": 26800,
       "notes": "Annual half-marathon event at UI Depok, run by ILUNI UI. Running event, not a student UKM."
+    },
+    {
+      "name": "Career Development Center Universitas Indonesia (CDC UI)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdc.ui",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Website cdc.ui.ac.id; under Direktorat Kemahasiswaan",
+      "follower_count": null
     }
   ]
 }

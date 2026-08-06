@@ -7,5 +7,16 @@
   "province": "Banten",
   "future_series_city": "Jakarta",
   "website": "https://binabangsa.ac.id",
-  "orgs": []
+  "orgs": [
+    {
+      "name": "Pusat Karir dan Tracer Studi Universitas Bina Bangsa",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://puskatrast.binabangsa.ac.id/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Dedicated career/tracer unit; also linked from binabangsa.ac.id/karir-center; no unit-specific IG found",
+      "follower_count": null
+    }
+  ]
 }

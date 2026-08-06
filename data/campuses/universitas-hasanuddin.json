@@ -97,6 +97,16 @@
       "follower_count": 2136,
       "notes": "Management students association, Faculty of Economics & Business.",
       "email": "immajfebuh@gmail.com"
+    },
+    {
+      "name": "Career Development Center Unhas (DAPK)",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://cdc.unhas.ac.id",
+      "email": "cdc@unhas.ac.id",
+      "whatsapp": null,
+      "notes": "Dedicated CDC site; social links point to parent @kemahasiswaanunhas",
+      "follower_count": null
     }
   ]
 }

@@ -49,6 +49,16 @@
       "follower_count": 2246,
       "notes": "Management Society of Universitas Pertamina.",
       "email": "management.mspu@gmail.com"
+    },
+    {
+      "name": "Career Development Center Universitas Pertamina (Career-UP)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdc.universitaspertamina",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Website cdc.universitaspertamina.ac.id",
+      "follower_count": null
     }
   ]
 }

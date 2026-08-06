@@ -89,6 +89,16 @@
       "contact_value": "@hmft_itb",
       "follower_count": 3945,
       "notes": "Engineering physics himpunan."
+    },
+    {
+      "name": "ITB Career Center",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@itbcareercenterofficial",
+      "email": "career@itb.ac.id",
+      "whatsapp": null,
+      "notes": "Official IG per karir.itb.ac.id about-us; website karir.itb.ac.id",
+      "follower_count": null
     }
   ]
 }

@@ -37,6 +37,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Faculty BEM (Law)"
+    },
+    {
+      "name": "Pusat Karir Universitas Merdeka Malang",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@career_centerunmer",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official career center; website https://pusatkarir.unmer.ac.id",
+      "follower_count": null
     }
   ]
 }

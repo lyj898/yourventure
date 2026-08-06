@@ -17,6 +17,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Faculty of Engineering exec (Sipil/Elektro/Mesin). University-level exec account not verifiable"
+    },
+    {
+      "name": "Career Center Universitas HKBP Nommensen",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://uhn.ac.id/career-center/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official career center; also FB page Career.UHN, no dedicated IG",
+      "follower_count": null
     }
   ]
 }

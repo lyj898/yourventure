@@ -33,6 +33,16 @@
       "follower_count": 3695,
       "notes": "Study-program student association, Faculty of Law. Contact hmpsih@unpar.ac.id.",
       "email": "hmpsih@unpar.ac.id"
+    },
+    {
+      "name": "Career Development Center Unpar (PPK)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@unparcareer",
+      "email": "cdc@unpar.ac.id",
+      "whatsapp": null,
+      "notes": "Site cdc.unpar.ac.id; also uses @cdc_unpar",
+      "follower_count": null
     }
   ]
 }

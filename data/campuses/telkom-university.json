@@ -89,6 +89,16 @@
       "contact_value": "@telkomuniversityrun",
       "follower_count": 2724,
       "notes": "Running account; may be a run event rather than a standing UKM."
+    },
+    {
+      "name": "Tel-U Career (Career Development Center Telkom University)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@tel_u_career",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Main Bandung campus CDC, ~85K followers.",
+      "follower_count": null
     }
   ]
 }

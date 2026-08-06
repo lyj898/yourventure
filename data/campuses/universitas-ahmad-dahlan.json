@@ -84,6 +84,16 @@
       "follower_count": 3440,
       "notes": "Fakultas Teknologi Industri.",
       "email": "bem@fti.uad.ac.id"
+    },
+    {
+      "name": "UAD Career Development Center",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdcbimawa_uad",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Website cdc.uad.ac.id; ~23K followers.",
+      "follower_count": null
     }
   ]
 }

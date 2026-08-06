@@ -74,6 +74,16 @@
       "follower_count": 1533,
       "notes": "Civil Engineering student association.",
       "email": "himtes.binus09@gmail.com"
+    },
+    {
+      "name": "BINUS Career",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@binuscareer",
+      "email": "career@binus.edu",
+      "whatsapp": null,
+      "notes": "Official BINUS career center/job portal (binuscareer.com), Kampus Anggrek.",
+      "follower_count": null
     }
   ]
 }

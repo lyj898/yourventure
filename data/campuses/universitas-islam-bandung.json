@@ -68,6 +68,16 @@
       "contact_value": "@bemftk.unisba",
       "follower_count": 2883,
       "notes": "BEM Fakultas Tarbiyah dan Keguruan."
+    },
+    {
+      "name": "Unisba Career Development Center",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@unisba.cdc",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC Instagram",
+      "follower_count": null
     }
   ]
 }

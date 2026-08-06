@@ -196,11 +196,13 @@ export default function OrgSection({
   campusId,
   orgFilter = 'All',
   runningType = 'UKM Olahraga/Lari',
+  careerType = 'Career Center',
   onCountChange,
 }: {
   campusId: string;
-  orgFilter?: 'All' | 'Running' | 'Student';
+  orgFilter?: 'All' | 'Running' | 'Career' | 'Student';
   runningType?: string;
+  careerType?: string;
   onCountChange: (count: number) => void;
 }) {
   const [orgs, setOrgs] = useState<StudentOrg[]>([]);
@@ -291,14 +293,19 @@ export default function OrgSection({
     await load();
   }
 
-  // Apply the Running / Student filter to what's displayed (counts stay on the full set).
-  const shown = orgs.filter((o) =>
-    orgFilter === 'All'
-      ? true
-      : orgFilter === 'Running'
-        ? o.org_type === runningType
-        : o.org_type !== runningType,
-  );
+  // Apply the Orgs filter to what's displayed (counts stay on the full set).
+  const shown = orgs.filter((o) => {
+    switch (orgFilter) {
+      case 'Running':
+        return o.org_type === runningType;
+      case 'Career':
+        return o.org_type === careerType;
+      case 'Student':
+        return o.org_type !== runningType && o.org_type !== careerType;
+      default:
+        return true;
+    }
+  });
 
   return (
     <div>
@@ -338,7 +345,9 @@ export default function OrgSection({
             ? 'No student organizations recorded yet.'
             : orgFilter === 'Running'
               ? 'No running-related orgs at this campus.'
-              : 'No student orgs match this filter.'}
+              : orgFilter === 'Career'
+                ? 'No career centre recorded at this campus.'
+                : 'No orgs match this filter.'}
         </div>
       ) : (
         <div className="org-list">

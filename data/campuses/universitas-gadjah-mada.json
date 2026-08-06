@@ -115,6 +115,16 @@
       "contact_value": "@klubrunnersugm",
       "follower_count": 4787,
       "notes": "UGM/KAGAMA running community (alumni-affiliated, not a student UKM)."
+    },
+    {
+      "name": "Pusat Pengembangan Karir UGM (Career Development Center)",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://ugm.ac.id/id/425-pusat-pengembangan-karir/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official UGM career unit page. UGM's operational engineering career center is ECC (ecc.co.id, IG @ecc.co.id), now a spun-off entity; the ecc.ft.ugm.ac.id subdomain is defunct. Page lists only generic UGM contacts.",
+      "follower_count": null
     }
   ]
 }

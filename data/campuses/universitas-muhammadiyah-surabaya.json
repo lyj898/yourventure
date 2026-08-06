@@ -57,6 +57,16 @@
       "contact_value": "@bemfkip_umsby",
       "follower_count": null,
       "notes": "Faculty executive board, Fakultas Keguruan dan Ilmu Pendidikan."
+    },
+    {
+      "name": "BKK Pusat Karir UM Surabaya (BAKA)",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://baka.um-surabaya.ac.id/bkk-pusat-karir/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Career unit under Biro Adm. Kemahasiswaan dan Alumni",
+      "follower_count": null
     }
   ]
 }

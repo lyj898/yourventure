@@ -41,6 +41,16 @@
       "follower_count": 6522,
       "notes": "Himpunan Mahasiswa Desain Komunikasi Visual.",
       "email": "hm.dkv@umn.ac.id"
+    },
+    {
+      "name": "Career Development Centre UMN (CDC UMN)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdcumn",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC; website https://cdc.umn.ac.id",
+      "follower_count": null
     }
   ]
 }

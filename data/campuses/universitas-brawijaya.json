@@ -87,6 +87,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "University athletics/running UKM"
+    },
+    {
+      "name": "Brawijaya Career Center (JPC/UPKK UB)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@karir_ub",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Direktorat Pengembangan Karier dan Alumni UB; site career.ub.ac.id",
+      "follower_count": null
     }
   ]
 }

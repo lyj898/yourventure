@@ -25,6 +25,16 @@
       "follower_count": 451,
       "notes": "Himpunan Mahasiswa Jurusan Akuntansi, Fakultas Ekonomi & Bisnis.",
       "email": "hmja.feb.uajm@gmail.com"
+    },
+    {
+      "name": "Layanan Bimbingan Karir / Bursa Kerja UAJM",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://www.uajm.ac.id/uajm/bursakerja.php",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Career guidance + job board on official site; no dedicated handle, only general university contacts shown",
+      "follower_count": null
     }
   ]
 }

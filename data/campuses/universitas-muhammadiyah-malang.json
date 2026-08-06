@@ -37,6 +37,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Athletics/running UKM"
+    },
+    {
+      "name": "Pusat Karir UMM",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@pusat_karir_umm",
+      "email": null,
+      "whatsapp": "+6281359462735",
+      "notes": "Website karir.umm.ac.id; WA/contact on kontak page",
+      "follower_count": null
     }
   ]
 }

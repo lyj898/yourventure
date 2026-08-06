@@ -57,6 +57,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Departmental student association (Library Science)"
+    },
+    {
+      "name": "Pusat Karir UINSU (Career Center)",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://careercenter.uinsu.ac.id/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official university Pusat Karir links to this site; site carries FEBI branding so IG/email left out",
+      "follower_count": null
     }
   ]
 }

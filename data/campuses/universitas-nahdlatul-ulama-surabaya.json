@@ -43,6 +43,16 @@
       "follower_count": 2181,
       "notes": "Faculty of Health student executive (Kabinet Arthaswasthya).",
       "email": "bemfkes@unusa.ac.id"
+    },
+    {
+      "name": "Unusa Career Center (UCC)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@unusa_careercenter",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official UNUSA career centre (SK Rektor 2015); website ucc.unusa.ac.id.",
+      "follower_count": null
     }
   ]
 }

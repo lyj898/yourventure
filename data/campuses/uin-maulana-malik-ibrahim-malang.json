@@ -47,6 +47,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Faculty student senate/legislature (SEMA = DPM-equivalent)"
+    },
+    {
+      "name": "Pusat Karir dan Alumni UIN Maliki Malang (CDC)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdc.uinmalang",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official career/alumni centre IG",
+      "follower_count": null
     }
   ]
 }

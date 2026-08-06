@@ -23,6 +23,16 @@
       "contact_value": "@preformasibem",
       "follower_count": 3552,
       "notes": "Faculty of Math & Natural Sciences student executive."
+    },
+    {
+      "name": "Career Development Center UNM",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdc.unm",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC; website cdc.unm.ac.id",
+      "follower_count": null
     }
   ]
 }

@@ -23,6 +23,16 @@
       "contact_value": "@hmsi.ithb",
       "follower_count": 567,
       "notes": "Information Systems student association."
+    },
+    {
+      "name": "ITHB Career Resource Center (CRC)",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://www.ithb.ac.id/crc",
+      "email": "crc@ithb.ac.id",
+      "whatsapp": null,
+      "notes": "Official career resource center; no dedicated IG found, email for recruiters shown on CRC page",
+      "follower_count": null
     }
   ]
 }

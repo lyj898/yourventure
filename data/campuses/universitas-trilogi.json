@@ -34,6 +34,16 @@
       "follower_count": 333,
       "notes": "Food Technology program student association.",
       "email": "himtipa@trilogi.ac.id"
+    },
+    {
+      "name": "Universitas Trilogi Career Center",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://karir.trilogi.ac.id/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official career/alumni portal (hosted via karirlink; also trilogi.karirlink.id). No IG found.",
+      "follower_count": null
     }
   ]
 }

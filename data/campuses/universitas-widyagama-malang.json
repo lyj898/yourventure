@@ -17,6 +17,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "University-wide student exec"
+    },
+    {
+      "name": "Pusat Pengembangan Karir (P2K) Universitas Widyagama",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://ppk.widyagama.ac.id/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Career development office; no dedicated IG found",
+      "follower_count": null
     }
   ]
 }

@@ -47,6 +47,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Faculty of Math & Natural Sciences exec"
+    },
+    {
+      "name": "Career Development Center UNSRI (CDC Unsri)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdcunsri",
+      "email": "cdc@unsri.ac.id",
+      "whatsapp": "+6281279061265",
+      "notes": "Official CDC; website https://cdc.unsri.ac.id",
+      "follower_count": null
     }
   ]
 }

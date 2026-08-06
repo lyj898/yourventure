@@ -56,6 +56,16 @@
       "contact_value": "@bemfsiunjani",
       "follower_count": 1409,
       "notes": "Faculty of Science & Informatics student exec"
+    },
+    {
+      "name": "Career Development Center Unjani",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@unjanicdc.official",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC; website cdc.unjani.ac.id",
+      "follower_count": null
     }
   ]
 }

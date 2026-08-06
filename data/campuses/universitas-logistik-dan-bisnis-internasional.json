@@ -40,6 +40,16 @@
       "contact_value": "@himagisulbi",
       "follower_count": null,
       "notes": "Data Science program student association."
+    },
+    {
+      "name": "CDC ULBI (ULBI Career Center)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdc.ulbi",
+      "email": "cdc@ulbi.ac.id",
+      "whatsapp": null,
+      "notes": "Career portal at portal.karirlink.id/ulbi listed IG @cdc.ulbi and email cdc@ulbi.ac.id.",
+      "follower_count": null
     }
   ]
 }

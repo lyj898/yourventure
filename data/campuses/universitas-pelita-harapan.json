@@ -16,6 +16,16 @@
       "follower_count": 14400,
       "notes": "University-wide student exec, Karawaci; ~14K followers; bio 'SPIRIT OF EXCELLENCE!'",
       "email": "bem@student.uph.edu"
+    },
+    {
+      "name": "UPH Career Center",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@uphcareercenter",
+      "email": "career.center@uph.edu",
+      "whatsapp": null,
+      "notes": "~10K followers; email from IG bio.",
+      "follower_count": null
     }
   ]
 }

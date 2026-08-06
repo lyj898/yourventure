@@ -122,6 +122,16 @@
       "follower_count": 3349,
       "notes": "Mechanical Engineering student association.",
       "email": "hmmgunadarma20@gmail.com"
+    },
+    {
+      "name": "Career Center Universitas Gunadarma (UG Career)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@ug_career",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Website career.gunadarma.ac.id / BAPSI UG.",
+      "follower_count": null
     }
   ]
 }

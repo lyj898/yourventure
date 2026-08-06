@@ -25,6 +25,16 @@
       "follower_count": 251,
       "notes": "Faculty of Computer Science student exec. Verified via profile fetch (bem.filkom@unida.ac.id).",
       "email": "bem.filkom@unida.ac.id"
+    },
+    {
+      "name": "Career Development Center (CDC) Universitas Djuanda",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://unida.ac.id/kemahasiswaan/cdc/p/halaman/tentang-kami.html",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC under kemahasiswaan. No dedicated IG found.",
+      "follower_count": null
     }
   ]
 }

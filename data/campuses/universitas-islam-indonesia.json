@@ -84,6 +84,16 @@
       "contact_value": "@dpmfpsb.uii",
       "follower_count": 703,
       "notes": "Faculty legislative body (FPSB)."
+    },
+    {
+      "name": "UII Career Center (DPKA)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@uiicareer",
+      "email": "uii.career@uii.ac.id",
+      "whatsapp": "+6285158992497",
+      "notes": "Direktorat Pengembangan Karier dan Alumni; site career.uii.ac.id",
+      "follower_count": null
     }
   ]
 }

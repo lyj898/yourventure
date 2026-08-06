@@ -15,6 +15,16 @@
       "contact_value": "@bem_unikom",
       "follower_count": null,
       "notes": "University-wide Badan Eksekutif Mahasiswa (BEM-U IKM Unikom). Bandung-tagged profile."
+    },
+    {
+      "name": "Career Center UNIKOM (Pusat Karir)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@cdc.unikom",
+      "email": "cdc@unikom.ac.id",
+      "whatsapp": "+6285715516065",
+      "notes": "Official career/counseling/alumni division; site cdc.unikom.ac.id",
+      "follower_count": null
     }
   ]
 }

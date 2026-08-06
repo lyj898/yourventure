@@ -7,5 +7,16 @@
   "province": "Banten",
   "future_series_city": "Jakarta",
   "website": "https://www.iti.ac.id",
-  "orgs": []
+  "orgs": [
+    {
+      "name": "Career Development Center ITI (CDC-ITI)",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://pka.iti.ac.id",
+      "email": "pkaiti@gmail.com",
+      "whatsapp": "+6281387510984",
+      "notes": "Verified on iti.ac.id CDC page. Division under Direktorat Pengembangan Kemahasiswaan; phone/WA +62 813 8751 984. No Instagram listed.",
+      "follower_count": null
+    }
+  ]
 }

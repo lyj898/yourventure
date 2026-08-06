@@ -47,6 +47,16 @@
       "email": null,
       "whatsapp": null,
       "notes": "Faculty of Islamic Economics & Business exec (official account)"
+    },
+    {
+      "name": "Career Development Center (CDC) UIN Raden Fatah",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://cdc.radenfatah.ac.id/",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC; no dedicated IG found",
+      "follower_count": null
     }
   ]
 }

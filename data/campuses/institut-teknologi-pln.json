@@ -15,6 +15,16 @@
       "contact_value": "@bemkbm_itpln",
       "follower_count": 8411,
       "notes": "Institute-wide BEM (Keluarga Besar Mahasiswa). Kabinet 2024/2025 'Restorasi Kesatria'. Email bemkbm@itpln.ac.id."
+    },
+    {
+      "name": "Career Development Center (CDC) IT-PLN",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://karirku.itpln.ac.id",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official CDC portal 'karirku'; no IG/email shown on site",
+      "follower_count": null
     }
   ]
 }

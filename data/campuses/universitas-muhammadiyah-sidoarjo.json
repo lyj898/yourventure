@@ -39,6 +39,16 @@
       "contact_value": "@bemfikesumsida",
       "follower_count": 1203,
       "notes": "Faculty student exec (FIKES)."
+    },
+    {
+      "name": "PInPKU – Pusat Informasi &amp; Pengembangan Karir Umsida",
+      "org_type": "Career Center",
+      "contact_type": "Website",
+      "contact_value": "https://pinpku.umsida.ac.id/",
+      "email": "pinpku@umsida.ac.id",
+      "whatsapp": null,
+      "notes": "Official career unit site. Two candidate IG accounts exist (@pusatkarirumsida, @pusatkarir_alumni_umsida) — not confirmed which is official, so website used.",
+      "follower_count": null
     }
   ]
 }

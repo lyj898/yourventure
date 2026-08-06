@@ -100,6 +100,16 @@
       "follower_count": 1337,
       "notes": "Civil Engineering study program association (FT). Handle per official kemahasiswaan page.",
       "email": "hmtsuikabgr@gmail.com"
+    },
+    {
+      "name": "UIKA Bogor Career Center (UCC)",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@careercenteruikabogor",
+      "email": null,
+      "whatsapp": null,
+      "notes": "Official career center; website https://ucc.uika-bogor.ac.id",
+      "follower_count": null
     }
   ]
 }

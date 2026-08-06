@@ -32,6 +32,16 @@
       "follower_count": 2442,
       "notes": "Departmental student association for Industrial Engineering.",
       "email": "hmti@uty.ac.id"
+    },
+    {
+      "name": "UTY Career Center",
+      "org_type": "Career Center",
+      "contact_type": "Instagram",
+      "contact_value": "@uty.careercenter",
+      "email": "pkps@uty.ac.id",
+      "whatsapp": null,
+      "notes": "Career center; recruiter email pkps@uty.ac.id from profile",
+      "follower_count": null
     }
   ]
 }
