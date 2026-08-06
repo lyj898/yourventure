@@ -7,16 +7,5 @@
   "province": "Sumatera Selatan",
   "future_series_city": "Palembang",
   "website": "https://www.binadarma.ac.id",
-  "orgs": [
-    {
-      "name": "Futsal Universitas Bina Darma",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@binadarma.futsal",
-      "follower_count": null,
-      "email": null,
-      "whatsapp": null,
-      "notes": "Student futsal unit; univ-wide BEM handle not verified"
-    }
-  ]
+  "orgs": []
 }

@@ -194,9 +194,13 @@ function OrgForm({
 // ── Section: list + CRUD for one campus's student orgs ─────────────────────
 export default function OrgSection({
   campusId,
+  orgFilter = 'All',
+  runningType = 'UKM Olahraga/Lari',
   onCountChange,
 }: {
   campusId: string;
+  orgFilter?: 'All' | 'Running' | 'Student';
+  runningType?: string;
   onCountChange: (count: number) => void;
 }) {
   const [orgs, setOrgs] = useState<StudentOrg[]>([]);
@@ -287,6 +291,15 @@ export default function OrgSection({
     await load();
   }
 
+  // Apply the Running / Student filter to what's displayed (counts stay on the full set).
+  const shown = orgs.filter((o) =>
+    orgFilter === 'All'
+      ? true
+      : orgFilter === 'Running'
+        ? o.org_type === runningType
+        : o.org_type !== runningType,
+  );
+
   return (
     <div>
       <div className="detail-head">
@@ -319,11 +332,17 @@ export default function OrgSection({
         <div className="empty-note">
           <span className="spinner" /> Loading orgs…
         </div>
-      ) : orgs.length === 0 && !adding ? (
-        <div className="empty-note">No student organizations recorded yet.</div>
+      ) : shown.length === 0 && !adding ? (
+        <div className="empty-note">
+          {orgs.length === 0
+            ? 'No student organizations recorded yet.'
+            : orgFilter === 'Running'
+              ? 'No running-related orgs at this campus.'
+              : 'No student orgs match this filter.'}
+        </div>
       ) : (
         <div className="org-list">
-          {orgs.map((org) =>
+          {shown.map((org) =>
             editingId === org.id ? (
               <OrgForm
                 key={org.id}

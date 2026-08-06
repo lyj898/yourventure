@@ -16,10 +16,14 @@ import CampusForm from './CampusForm';
 import OrgSection from './OrgSection';
 import { SearchIcon, ChevronRight, PlusIcon, DownloadIcon } from './icons';
 
-// Group order: the 5 Future Series launch cities first (launch order), then a trailing
-// bucket for campuses tagged to no launch city.
-const NO_FS_LABEL = 'Not in a launch city';
+// City groups in display order, then a trailing bucket for campuses tagged to no city.
+const NO_FS_LABEL = 'Other';
 const GROUP_ORDER: (FsCity | typeof NO_FS_LABEL)[] = [...FS_CITIES, NO_FS_LABEL];
+
+// After the sports cleanup, this org_type marks running-related orgs; everything
+// else counts as a "student org" for the Running / Student filter.
+const RUNNING_TYPE = 'UKM Olahraga/Lari';
+type OrgFilter = 'All' | 'Running' | 'Student';
 
 export default function Dashboard() {
   // ── Auth ──────────────────────────────────────────────────────────────────
@@ -79,14 +83,15 @@ function Directory({ session }: { session: Session }) {
   const [fsFilter, setFsFilter] = useState<FsCity | 'All'>('All');
   const [typeFilter, setTypeFilter] = useState<InstitutionType | 'All'>('All');
   const [ownFilter, setOwnFilter] = useState<OwnershipType | 'All'>('All');
+  const [orgFilter, setOrgFilter] = useState<OrgFilter>('All');
 
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [showAdd, setShowAdd] = useState(false);
   const [exporting, setExporting] = useState(false);
 
-  // Lightweight per-org rows (contact + reach) used only for the stats bar.
+  // Lightweight per-org rows (type + contact + reach) driving the org filter and stats.
   const [orgMeta, setOrgMeta] = useState<
-    { campus_id: string; follower_count: number | null; email: string | null; whatsapp: string | null }[]
+    { campus_id: string; org_type: string; follower_count: number | null; email: string | null; whatsapp: string | null }[]
   >([]);
 
   async function loadCampuses() {
@@ -114,9 +119,17 @@ function Directory({ session }: { session: Session }) {
     if (!supabase) return;
     const { data, error } = await supabase
       .from('student_orgs')
-      .select('campus_id, follower_count, email, whatsapp');
+      .select('campus_id, org_type, follower_count, email, whatsapp');
     if (!error && data) setOrgMeta(data as typeof orgMeta);
   }
+
+  // Does an org's type match the current Running / Student filter?
+  const orgMatches = (orgType: string) =>
+    orgFilter === 'All'
+      ? true
+      : orgFilter === 'Running'
+        ? orgType === RUNNING_TYPE
+        : orgType !== RUNNING_TYPE;
 
   useEffect(() => {
     loadCampuses();
@@ -130,6 +143,16 @@ function Directory({ session }: { session: Session }) {
     );
   }
 
+  // Count of orgs matching the current org filter, per campus.
+  const matchCountByCampus = useMemo(() => {
+    const m = new Map<string, number>();
+    for (const o of orgMeta) {
+      if (orgMatches(o.org_type)) m.set(o.campus_id, (m.get(o.campus_id) ?? 0) + 1);
+    }
+    return m;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [orgMeta, orgFilter]);
+
   // ── Derived: filtered + searched list ─────────────────────────────────────
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
@@ -137,13 +160,15 @@ function Directory({ session }: { session: Session }) {
       if (fsFilter !== 'All' && c.future_series_city !== fsFilter) return false;
       if (typeFilter !== 'All' && c.type !== typeFilter) return false;
       if (ownFilter !== 'All' && c.ownership !== ownFilter) return false;
+      // When filtering by org kind, only show campuses that have a matching org.
+      if (orgFilter !== 'All' && !(matchCountByCampus.get(c.id) ?? 0)) return false;
       if (q) {
         const hay = `${c.name} ${c.city} ${c.province}`.toLowerCase();
         if (!hay.includes(q)) return false;
       }
       return true;
     });
-  }, [campuses, search, fsFilter, typeFilter, ownFilter]);
+  }, [campuses, search, fsFilter, typeFilter, ownFilter, orgFilter, matchCountByCampus]);
 
   // ── Stats ─────────────────────────────────────────────────────────────────
   const citiesShown = useMemo(
@@ -151,19 +176,20 @@ function Directory({ session }: { session: Session }) {
     [filtered],
   );
 
-  // Org-level rollups for the currently-visible campuses.
+  // Org-level rollups for the currently-visible campuses, respecting the org filter.
   const orgStats = useMemo(() => {
     const ids = new Set(filtered.map((c) => c.id));
-    const rows = orgMeta.filter((o) => ids.has(o.campus_id));
+    const rows = orgMeta.filter((o) => ids.has(o.campus_id) && orgMatches(o.org_type));
     return {
       total: rows.length,
       withEmail: rows.filter((o) => o.email).length,
       withWhatsapp: rows.filter((o) => o.whatsapp).length,
       followers: rows.reduce((sum, o) => sum + (o.follower_count ?? 0), 0),
     };
-  }, [filtered, orgMeta]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filtered, orgMeta, orgFilter]);
 
-  // ── Grouping by Future Series city ────────────────────────────────────────
+  // ── Grouping by city ──────────────────────────────────────────────────────
   const grouped = useMemo(() => {
     const map = new Map<string, CampusWithCount[]>();
     for (const c of filtered) {
@@ -256,7 +282,7 @@ function Directory({ session }: { session: Session }) {
       {/* Filters */}
       <div className="filters">
         <div className="filter-cluster">
-          <span className="filter-label">Future Series</span>
+          <span className="filter-label">Cities</span>
           <div className="pill-group">
             <button
               className={`pill ${fsFilter === 'All' ? 'active' : ''}`}
@@ -305,6 +331,19 @@ function Directory({ session }: { session: Session }) {
                 {o}
               </option>
             ))}
+          </select>
+        </div>
+
+        <div className="filter-cluster">
+          <span className="filter-label">Orgs</span>
+          <select
+            className="select"
+            value={orgFilter}
+            onChange={(e) => setOrgFilter(e.target.value as OrgFilter)}
+          >
+            <option value="All">All</option>
+            <option value="Running">Running</option>
+            <option value="Student">Student orgs</option>
           </select>
         </div>
 
@@ -388,13 +427,19 @@ function Directory({ session }: { session: Session }) {
                       <div className="cell-type tag">{c.type}</div>
                       <div className="cell-own tag">{c.ownership}</div>
                       <div className="cell-count">
-                        <span className="count-badge">{c.org_count}</span>
+                        <span className="count-badge">
+                          {orgFilter === 'All'
+                            ? c.org_count
+                            : matchCountByCampus.get(c.id) ?? 0}
+                        </span>
                       </div>
                     </div>
                     {open && (
                       <div className="detail">
                         <OrgSection
                           campusId={c.id}
+                          orgFilter={orgFilter}
+                          runningType={RUNNING_TYPE}
                           onCountChange={(n) => updateCount(c.id, n)}
                         />
                       </div>

@@ -24,49 +24,6 @@
       "follower_count": 981,
       "notes": "University-level student senate (legislative body).",
       "email": "sema@amikom.ac.id"
-    },
-    {
-      "name": "Amikom Football Club (AFC)",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@afc.amikomjogja",
-      "follower_count": 675,
-      "notes": "Sports BSO with Football and Futsal divisions."
-    },
-    {
-      "name": "Amikom Basketball Club (ABBC)",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@amikom_basketball",
-      "follower_count": 626,
-      "notes": "Basketball sports BSO.",
-      "email": "abbc@amikom.ac.id",
-      "whatsapp": "+6282150732238"
-    },
-    {
-      "name": "UKM Taekwondo Amikom",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@taekwondoamikom",
-      "follower_count": 1084,
-      "notes": "Martial-arts sports UKM."
-    },
-    {
-      "name": "UKM Shorinji Kempo Amikom",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@shorinjikempoamikom",
-      "follower_count": 648,
-      "notes": "Martial-arts sports UKM."
-    },
-    {
-      "name": "UKM Pencak Silat Amikom",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@pencaksilatamikom",
-      "follower_count": 1426,
-      "notes": "Martial-arts sports UKM.",
-      "whatsapp": "+6285943538625"
     }
   ]
 }

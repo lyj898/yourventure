@@ -85,46 +85,14 @@
       "notes": "Running community for Gunadarma students; weekly Sunday runs."
     },
     {
-      "name": "Gunadarma Basketball (UKM Basket)",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@basketgunadarma",
-      "follower_count": 2968,
-      "notes": "University basketball unit."
-    },
-    {
-      "name": "Gunadarma Volleyball Club (UKM Voli)",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@ukmvolleygunadarma",
-      "follower_count": 1827,
-      "notes": "University volleyball unit."
-    },
-    {
       "name": "UKM Esports Gunadarma",
-      "org_type": "UKM Olahraga/Lari",
+      "org_type": "Other",
       "contact_type": "Instagram",
       "contact_value": "@gunadarma.esports",
       "follower_count": 8320,
       "notes": "Official esports unit. Related handle @gunadarma_esports also appears.",
       "email": "gunadarmaesports.contact@gmail.com",
       "whatsapp": "+6289668267580"
-    },
-    {
-      "name": "Sports Center Universitas Gunadarma",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@sc.gunadarma",
-      "follower_count": 1996,
-      "notes": "University sports-center hub (Campus H, Depok); facility/hub account rather than a single UKM."
-    },
-    {
-      "name": "UKM Bulutangkis Gunadarma Kalimalang",
-      "org_type": "UKM Olahraga/Lari",
-      "contact_type": "Instagram",
-      "contact_value": "@ukbkalimalang",
-      "follower_count": 501,
-      "notes": "Badminton unit (Kalimalang campus)."
     },
     {
       "name": "HIMSI UG (Himpunan Mahasiswa Sistem Informasi)",

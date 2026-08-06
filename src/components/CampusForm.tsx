@@ -152,7 +152,7 @@ export default function CampusForm({
             </div>
 
             <div className="field">
-              <label htmlFor="c-fs">Future Series city</label>
+              <label htmlFor="c-fs">City group</label>
               <select
                 id="c-fs"
                 value={values.future_series_city}

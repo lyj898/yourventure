@@ -19,7 +19,7 @@ export function exportToExcel(campuses: CampusWithCount[], orgs: OrgExportRow[])
     Province: c.province,
     Type: c.type,
     Ownership: c.ownership,
-    'Future Series City': c.future_series_city ?? '',
+    'City Group': c.future_series_city ?? '',
     'Student Orgs': c.org_count,
     Website: c.website ?? '',
   }));
@@ -32,7 +32,7 @@ export function exportToExcel(campuses: CampusWithCount[], orgs: OrgExportRow[])
   const orgData = orgRows.map((o) => ({
     Campus: o.campus_name,
     'Campus City': o.campus_city,
-    'Future Series City': o.campus_future_series_city ?? '',
+    'City Group': o.campus_future_series_city ?? '',
     'Org Name': o.name ?? '',
     'Org Type': o.org_type,
     'Contact Type': o.contact_type ?? '',
